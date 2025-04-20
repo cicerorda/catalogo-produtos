@@ -120,6 +120,13 @@ img {
   border-radius: 5px;
 }
 
+.image-container img {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+
 /* 🔹 Texto do Produto */
 .container h5 {
   font-weight: 500;

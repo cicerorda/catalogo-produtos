@@ -109,6 +109,15 @@ for arquivo in arquivos_encontrados:
 
 print(f"\n✅ Total de {len(produtos)} produtos extraídos.")
 
+
+# 🔽 Exportar somente as referências para CSV com separador ;
+referencias = [{"Referencia": p["Referencia"]} for p in produtos if "Referencia" in p]
+
+df_ref = pd.DataFrame(referencias)
+df_ref.to_csv("referencias.csv", index=False, sep=";", encoding="utf-8")
+print("✅ Arquivo 'referencias.csv' criado com sucesso.")
+
+
 # Salva o JSON se houver dados
 if produtos:
     with open("produtos.json", "w", encoding="utf-8") as json_file:

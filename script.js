@@ -7,28 +7,43 @@ let termoBusca = "";
 let grupoAtual = 1;
 const botoesPorGrupo = 10;
 let totalPaginas = 0;
+let listaImagens = [];
+const BASE_IMAGEKIT_URL = "https://ik.imagekit.io/t7590uzhp/imagens/";
+
+
 
 console.log("✅ script.js foi carregado!");
 
-// 🔹 Carregar produtos.json
-fetch("produtos.json")
-    .then(response => {
-        if (!response.ok) throw new Error("Falha ao carregar os dados");
-        return response.json();
-    })
-    .then(data => {
-        produtos = data;
-        produtos.forEach(produto => {
-            if (produto.Categoria) categoriasUnicas.add(produto.Categoria);
-        });
+// ✅ Carregar imagens.json e ordenar por nomes maiores primeiro (prioridade a match mais completo)
+fetch("imagens.json")
+  .then(res => res.json())
+  .then(data => {
+    listaImagens = data
+      .map(img => ({
+        ...img,
+        nome_limpo: img.nome.toLowerCase().replace(/\./g, "") // garante consistência
+      }))
+      .sort((a, b) => b.nome_limpo.length - a.nome_limpo.length); // prioriza nomes mais longos
 
-        criarListaDeCategorias();
-        atualizarProdutos();
-    })
-    .catch(error => {
-        console.error("❌ Erro ao carregar produtos.json:", error);
-        document.getElementById("products").innerHTML = `<p class="mensagem-nenhum-produto">Erro ao carregar os produtos. Tente novamente mais tarde.</p>`;
+    atualizarProdutos();
+  });
+
+// 🔹 Carregar produtos.json
+// ✅ Carregar produtos.json
+fetch("produtos.json")
+  .then(res => res.json())
+  .then(data => {
+    produtos = data;
+    produtos.forEach(produto => {
+        if (produto.Categoria) categoriasUnicas.add(produto.Categoria);
     });
+    criarListaDeCategorias();
+    atualizarProdutos();
+  })
+  .catch(error => {
+    console.error("Erro ao carregar produtos:", error);
+    document.getElementById("products").innerHTML = `<p class="mensagem-nenhum-produto">Erro ao carregar os produtos.</p>`;
+  });
 
 // 🔹 Criar lista de categorias com checkboxes invisíveis e clique no nome
 function criarListaDeCategorias() {
@@ -226,33 +241,71 @@ function adicionarAoCarrinho(referencia) {
     atualizarCarrinho();
 }
 
-// 🔹 Modifica a função de exibição de produtos para adicionar o botão "Adicionar ao Carrinho"
+function encontrarImagem(referencia) {
+    const refLimpa = referencia.toLowerCase().replace(/\./g, "");
+    let match = null;
+    let maiorMatch = 0;
+  
+    listaImagens.forEach(({ nome_limpo, url }) => {
+      if (refLimpa.startsWith(nome_limpo) && nome_limpo.length > maiorMatch) {
+        match = url;
+        maiorMatch = nome_limpo.length;
+      } else {
+        for (let i = refLimpa.length; i >= 6; i--) {
+          const corte = refLimpa.slice(0, i);
+          if (nome_limpo === corte + "00" && (corte.length + 2) > maiorMatch) {
+            match = url;
+            maiorMatch = corte.length + 2;
+            break;
+          }
+        }
+      }
+    });
+  
+    if (!match) {
+      console.warn(`❌ Imagem NÃO encontrada para "${referencia}" → ${refLimpa}`);
+      return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg?updatedAt=1745112243066";
+    }
+  
+    console.log(`✔️ Imagem encontrada para "${referencia}" → ${match}`);
+    return match;
+  }
+
+// ✅ Exibir produtos na tela
 function exibirProdutos(lista) {
     const container = document.getElementById("products");
     container.innerHTML = "";
-
+  
     const inicio = (paginaAtual - 1) * itensPorPagina;
     const produtosPagina = lista.slice(inicio, inicio + itensPorPagina);
-
+  
     if (!produtosPagina.length) {
-        container.innerHTML = `<p class="mensagem-nenhum-produto">Nenhum produto encontrado.</p>`;
-        return;
+      container.innerHTML = `<p class="mensagem-nenhum-produto">Nenhum produto encontrado.</p>`;
+      return;
     }
-
+  
     produtosPagina.forEach(produto => {
-        const card = document.createElement("div");
-        card.classList.add("card");
+      const card = document.createElement("div");
+      card.classList.add("card");
+  
+      const caminhoImagem = encontrarImagem(produto.Referencia);
+  
+      card.innerHTML = `
+        <div class="image-container">
+          <img src="${caminhoImagem}" alt="Imagem do produto"
+            onerror="console.error('❌ Imagem não encontrada:', this.src); this.src='https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg?updatedAt=1745112243066'">
 
-        card.innerHTML = `
-            <div class="container">
-                <h5>${produto.Referencia || "Sem Referência"}</h5>
-                <p>${produto.Descricao || "Sem Descrição"}</p>
-                <h6>Categoria: ${produto.Categoria || "Sem Categoria"}</h6>
-            </div>
-        `;
-        container.appendChild(card);
+        </div>
+        <div class="container">
+          <h5>${produto.Referencia || "Sem Referência"}</h5>
+          <p>${produto.Descricao || "Sem Descrição"}</p>
+          <h6>Categoria: ${produto.Categoria || "Sem Categoria"}</h6>
+        </div>
+      `;
+  
+      container.appendChild(card);
     });
-}
+  }
 
 function atualizarCarrinho() {
     const cartContainer = document.getElementById("cart-items");
@@ -324,87 +377,116 @@ document.getElementById("clear-cart").addEventListener("click", () => {
 });
 
 function baixarPesquisaEmPDF() {
-    console.log("📄 Iniciando geração do PDF...");
-
     const { jsPDF } = window.jspdf;
-    const doc = new jsPDF({
-        orientation: "portrait", // Modo retrato
-        unit: "mm",
-        format: "a4"
-    });
-
-    if (!jsPDF) {
-        console.error("❌ jsPDF NÃO está carregado!");
-        return;
-    }
+    const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" });
 
     let listaFiltrada = obterProdutosFiltrados();
-    console.log("📌 Produtos filtrados:", listaFiltrada);
-
-    if (listaFiltrada.length === 0) {
-        alert("Nenhum item encontrado para baixar.");
-        console.warn("⚠ Nenhum produto filtrado disponível.");
+    if (!listaFiltrada.length) {
+        alert("Nenhum item encontrado.");
         return;
     }
 
-    // Configurações iniciais
-    let x = 10, y = 20; // Posição inicial
-    let larguraCard = 90; // Largura dos cards
-    let alturaCard = 30; // Altura fixa dos cards
-    let espacamentoX = 10; // Espaço entre os cards horizontalmente
-    let espacamentoY = 10; // Espaço entre os cards verticalmente
-    let colunas = 2; // Quantidade de colunas no PDF
-
-    // Definição do título
     doc.setFont("helvetica", "bold");
     doc.setFontSize(18);
-    doc.text("Catálogo de Produtos", 10, 10);
+    doc.text("Catálogo de Produtos", 10, 15);
 
-    // Define fonte e tamanho padrão para os produtos
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(10);
+    let x = 10, y = 25;
+    let larguraCard = 90, alturaCard = 70;
+    let imgLargura = 40, imgAltura = 40;
+    let espacamentoX = 10, espacamentoY = 10;
+    let colunas = 2;
 
-    listaFiltrada.forEach((produto, index) => {
-        // Criando os "cards" no PDF
-        doc.roundedRect(x, y, larguraCard, alturaCard, 3, 3); // Borda arredondada
-
-        // Escrevendo o código de referência
-        doc.setFont("helvetica", "bold");
-        doc.text(`${produto.Referencia || "Sem Referência"}`, x + 5, y + 8);
-
-        // Escrevendo a descrição
-        doc.setFont("helvetica", "normal");
-        let descricao = doc.splitTextToSize(`${produto.Descricao || "Sem Descrição"}`, larguraCard - 10);
-        doc.text(descricao, x + 5, y + 14);
-
-        // Escrevendo a categoria
-        doc.setFont("helvetica", "bold");
-        doc.setTextColor(120, 120, 120); // Cor cinza para a categoria
-        doc.text(`Categoria: ${produto.Categoria || "Sem Categoria"}`, x + 5, y + 26);
-
-        // Ajustando a posição dos próximos produtos
-        if ((index + 1) % colunas === 0) {
-            // Se for a última coluna, pula linha
-            x = 10;
-            y += alturaCard + espacamentoY;
-        } else {
-            // Senão, move para a próxima coluna
-            x += larguraCard + espacamentoX;
-        }
-
-        // Verifica se chegou ao fim da página e precisa criar uma nova
-        if (y + alturaCard > 280) {
-            doc.addPage();
-            y = 20;
-            x = 10;
-        }
-
-        // Reseta a cor do texto para preto
-        doc.setTextColor(0, 0, 0);
+    const promessas = listaFiltrada.map(produto => {
+        return new Promise(resolve => {
+            const img = new Image();
+            img.crossOrigin = "anonymous"; // 🔥 necessário para permitir toDataURL()
+            img.onload = () => resolve({ produto, img });
+            img.onerror = () => resolve({ produto, img: null });
+    
+            img.src = encontrarImagem(produto.Referencia);
+        });
     });
 
-    console.log("✅ PDF gerado com layout de catálogo!");
-    doc.save("catalogo_produtos.pdf");
+    Promise.all(promessas).then(resultados => {
+        resultados.forEach(({ produto, img }, index) => {
+            // Fundo do card
+            doc.setFillColor(245, 245, 245); // cinza bem claro
+            doc.roundedRect(x, y, larguraCard, alturaCard, 3, 3, 'FD');
+
+            if (img) {
+                const canvas = document.createElement("canvas");
+                canvas.width = img.width;
+                canvas.height = img.height;
+                const ctx = canvas.getContext("2d");
+                ctx.drawImage(img, 0, 0);
+                const base64 = canvas.toDataURL("image/jpeg");
+
+                // Imagem centralizada no topo
+                doc.addImage(
+                    base64,
+                    "JPEG",
+                    x + (larguraCard - imgLargura) / 2,
+                    y + 3,
+                    imgLargura,
+                    imgAltura
+                );
+            }
+
+            // Texto (abaixo da imagem)
+            const textoY = y + imgAltura + 8;
+
+            doc.setFontSize(10);
+            doc.setTextColor(0, 0, 0);
+            doc.setFont("helvetica", "bold");
+            doc.text(produto.Referencia || "Sem Referência", x + 5, textoY);
+
+            doc.setFont("helvetica", "normal");
+            const desc = doc.splitTextToSize(produto.Descricao || "Sem Descrição", larguraCard - 10);
+            doc.text(desc, x + 5, textoY + 6);
+
+            doc.setFont("helvetica", "bold");
+            doc.setTextColor(120, 120, 120);
+            doc.text(`Categoria: ${produto.Categoria || "Sem Categoria"}`, x + 5, textoY + 16);
+
+            // Proximidade de colunas
+            if ((index + 1) % colunas === 0) {
+                x = 10;
+                y += alturaCard + espacamentoY;
+            } else {
+                x += larguraCard + espacamentoX;
+            }
+
+            if (y + alturaCard > 280) {
+                doc.addPage();
+                y = 25;
+                x = 10;
+            }
+
+            doc.setTextColor(0, 0, 0); // Reset
+        });
+
+        doc.save("catalogo_produtos.pdf");
+    });
 }
 
 console.log("Verificando jsPDF:", window.jspdf);
+
+function gerarRelatorioSemImagem() {
+    const semImagem = produtos.filter(p => encontrarImagem(p.Referencia).includes("sem-imagem.jpg"));
+
+    console.warn(`🔍 Total de produtos sem imagem: ${semImagem.length}`);
+    console.table(semImagem.map(p => ({
+        Referencia: p.Referencia,
+        Descricao: p.Descricao,
+        Categoria: p.Categoria
+    })));
+}
+
+// Chamar após carregar tudo
+setTimeout(() => {
+    if (produtos.length > 0 && listaImagens.length > 0) {
+        gerarRelatorioSemImagem();
+    } else {
+        console.warn("⚠️ Produtos ou imagens ainda não carregados para gerar o relatório.");
+    }
+}, 2000);
