@@ -9,8 +9,7 @@ const botoesPorGrupo = 10;
 let totalPaginas = 0;
 let listaImagens = [];
 const BASE_IMAGEKIT_URL = "https://ik.imagekit.io/t7590uzhp/imagens/";
-
-
+let termoDigitos = "";
 
 console.log("✅ script.js foi carregado!");
 
@@ -95,11 +94,16 @@ function toggleCategoria(categoria, selecionado) {
 function obterProdutosFiltrados() {
     return produtos
         .filter(p => categoriasSelecionadas.size === 0 || categoriasSelecionadas.has(p.Categoria))
-        .filter(p => 
-            !termoBusca.trim() || 
-            (p.Referencia?.toLowerCase().includes(termoBusca.toLowerCase())) ||
-            (p.Descricao?.toLowerCase().includes(termoBusca.toLowerCase()))
-        );
+        .filter(p => {
+            let buscaNome = !termoBusca.trim() || 
+                (p.Referencia?.toLowerCase().includes(termoBusca.toLowerCase())) ||
+                (p.Descricao?.toLowerCase().includes(termoBusca.toLowerCase()));
+
+            let buscaDigitos = !termoDigitos.trim() || 
+                (p.Descricao && p.Descricao.replace(/\D/g, "").includes(termoDigitos));
+
+            return buscaNome && buscaDigitos;
+        });
 }
 
 // 🔹 Atualizar produtos e paginação
@@ -113,8 +117,16 @@ function atualizarProdutos() {
 }
 
 // 🔹 Monitorar entrada do usuário na busca de produtos
+// 🔥 Atualizar quando digitar no campo normal
 document.getElementById("search-input").addEventListener("input", (event) => {
     termoBusca = event.target.value.trim();
+    paginaAtual = 1;
+    atualizarProdutos();
+});
+
+// 🔥 Atualizar quando digitar no campo só de dígitos
+document.getElementById("search-digits").addEventListener("input", (event) => {
+    termoDigitos = event.target.value.replace(/\D/g, ""); // mantém só números
     paginaAtual = 1;
     atualizarProdutos();
 });
@@ -490,3 +502,4 @@ setTimeout(() => {
         console.warn("⚠️ Produtos ou imagens ainda não carregados para gerar o relatório.");
     }
 }, 2000);
+
