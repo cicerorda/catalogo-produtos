@@ -4,7 +4,7 @@ import os
 import unicodedata
 
 # Definir a pasta onde estão os arquivos XLS/XLSX
-pasta_arquivos = "Nova pasta"
+pasta_arquivos = "produtos metalburgo"
 
 # Verificar se a pasta existe
 if not os.path.exists(pasta_arquivos):
@@ -71,7 +71,11 @@ for arquivo in arquivos_encontrados:
             continue
 
         # Ajusta os nomes das colunas reais baseados na saída acima
-        colunas_validas = {col: mapeamento_colunas[col] for col in mapeamento_colunas if col in df.columns}
+        colunas_validas = {}
+        for col in df.columns:
+            for chave, valor in mapeamento_colunas.items():
+                if col.startswith(k := chave.lower()):
+                    colunas_validas[col] = valor
         
         if not colunas_validas:
             print(f"⚠️ Nenhuma coluna relevante encontrada em {arquivo}. Pulando este arquivo.")
@@ -79,6 +83,9 @@ for arquivo in arquivos_encontrados:
 
         df = df[list(colunas_validas.keys())]  # Apenas seleciona as colunas
         df = df.rename(columns=colunas_validas)  # Renomeia as colunas para padrão JSON
+
+        categoria_arquivo = os.path.splitext(arquivo)[0]
+        df["Categoria"] = categoria_arquivo
 
         # 🚨 Exibir amostra do DataFrame para verificar dados na coluna 'referencia'
         print(f"\n🔍 Amostra de dados do arquivo {arquivo}:")
@@ -96,6 +103,10 @@ for arquivo in arquivos_encontrados:
         print(f"📊 Depois de remover valores nulos, temos {len(df)} linhas.")
 
         # 🔧 Substituir NaN por None antes de exportar para JSON
+        # Transforma a Classificacao em string com zero à esquerda (10 dígitos)
+        if "Classificacao" in df.columns:
+            df["Classificacao"] = df["Classificacao"].astype(str).str.zfill(10)
+
         df = df.where(pd.notna(df), None)
 
         # Converte o DataFrame para dicionário e adiciona à lista
