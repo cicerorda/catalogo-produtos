@@ -9,7 +9,8 @@ const botoesPorGrupo = 10;
 let totalPaginas = 0;
 let listaImagens = [];
 const BASE_IMAGEKIT_URL = "https://ik.imagekit.io/t7590uzhp/imagens/";
-let termoDigitos = "";
+let termoClassificacao = "";
+
 
 console.log("✅ script.js foi carregado!");
 
@@ -18,11 +19,16 @@ fetch("imagens.json")
   .then(res => res.json())
   .then(data => {
     listaImagens = data
-      .map(img => ({
-        ...img,
-        nome_limpo: img.nome.toLowerCase().replace(/\./g, "") // garante consistência
-      }))
-      .sort((a, b) => b.nome_limpo.length - a.nome_limpo.length); // prioriza nomes mais longos
+        .filter(img => img.nome) // ignora imagens sem nome
+        .map(img => {
+            const nome = img.nome.toLowerCase().trim();
+            const nome_limpo = nome.replace(/\./g, "").replace(/\s/g, "");
+            return {
+                ...img,
+                nome_limpo
+            };
+        })
+        .sort((a, b) => b.nome_limpo.length - a.nome_limpo.length);
 
     atualizarProdutos();
   });
@@ -90,19 +96,22 @@ function toggleCategoria(categoria, selecionado) {
     atualizarProdutos();
 }
 
-// 🔹 Filtrar produtos e buscar pelo termo digitado
 function obterProdutosFiltrados() {
     return produtos
         .filter(p => categoriasSelecionadas.size === 0 || categoriasSelecionadas.has(p.Categoria))
         .filter(p => {
             let buscaNome = !termoBusca.trim() || 
-                (p.Referencia?.toLowerCase().includes(termoBusca.toLowerCase())) ||
-                (p.Descricao?.toLowerCase().includes(termoBusca.toLowerCase()));
+                (String(p.Referencia ?? "").toLowerCase().includes(termoBusca.toLowerCase())) ||
+                (String(p.Descricao ?? "").toLowerCase().includes(termoBusca.toLowerCase()));
 
-            let buscaDigitos = !termoDigitos.trim() || 
-                (p.Descricao && p.Descricao.replace(/\D/g, "").includes(termoDigitos));
+            let buscaClassificacao = true;
 
-            return buscaNome && buscaDigitos;
+            if (termoClassificacao) {
+                const classificacaoStr = String(p.Classificacao ?? "");
+                buscaClassificacao = classificacaoStr.slice(-3) === termoClassificacao;
+            }
+
+            return buscaNome && buscaClassificacao;
         });
 }
 
@@ -116,17 +125,11 @@ function atualizarProdutos() {
     criarPaginacao(listaFiltrada);
 }
 
-// 🔹 Monitorar entrada do usuário na busca de produtos
 // 🔥 Atualizar quando digitar no campo normal
-document.getElementById("search-input").addEventListener("input", (event) => {
-    termoBusca = event.target.value.trim();
-    paginaAtual = 1;
-    atualizarProdutos();
-});
-
-// 🔥 Atualizar quando digitar no campo só de dígitos
 document.getElementById("search-digits").addEventListener("input", (event) => {
-    termoDigitos = event.target.value.replace(/\D/g, ""); // mantém só números
+    const valor = event.target.value.replace(/\D/g, "");
+    termoClassificacao = (valor === "000" || valor === "") ? "" : valor.padStart(3, "0");
+    console.log("termoClassificacao atualizado para:", termoClassificacao);
     paginaAtual = 1;
     atualizarProdutos();
 });
@@ -254,34 +257,54 @@ function adicionarAoCarrinho(referencia) {
 }
 
 function encontrarImagem(referencia) {
+    if (typeof referencia !== "string") referencia = String(referencia);
     const refLimpa = referencia.toLowerCase().replace(/\./g, "");
     let match = null;
     let maiorMatch = 0;
-  
+
+    // 🔍 Primeira tentativa de match direto ou com final 00
     listaImagens.forEach(({ nome_limpo, url }) => {
-      if (refLimpa.startsWith(nome_limpo) && nome_limpo.length > maiorMatch) {
-        match = url;
-        maiorMatch = nome_limpo.length;
-      } else {
-        for (let i = refLimpa.length; i >= 6; i--) {
-          const corte = refLimpa.slice(0, i);
-          if (nome_limpo === corte + "00" && (corte.length + 2) > maiorMatch) {
+        if (refLimpa.startsWith(nome_limpo) && nome_limpo.length > maiorMatch) {
             match = url;
-            maiorMatch = corte.length + 2;
-            break;
-          }
+            maiorMatch = nome_limpo.length;
+        } else {
+            for (let i = refLimpa.length; i >= 6; i--) {
+                const corte = refLimpa.slice(0, i);
+                if (nome_limpo === corte + "00" && (corte.length + 2) > maiorMatch) {
+                    match = url;
+                    maiorMatch = corte.length + 2;
+                    break;
+                }
+            }
         }
-      }
     });
-  
-    if (!match) {
-      console.warn(`❌ Imagem NÃO encontrada para "${referencia}" → ${refLimpa}`);
-      return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg?updatedAt=1745112243066";
+
+    // 🛠️ Se não encontrou nada até aqui, tenta fallback com os 8 primeiros dígitos
+    if (!match && refLimpa.length >= 8) {
+        const primeiros8 = refLimpa.slice(0, 8);
+    
+        // Primeiro tenta um match exato de nome_limpo
+        const tentativa = listaImagens.find(({ nome_limpo }) => nome_limpo === primeiros8);
+    
+        // Se não encontrou exato, tenta por prefixo
+        const tentativaPrefixo = tentativa || listaImagens.find(({ nome_limpo }) => nome_limpo.startsWith(primeiros8));
+    
+        if (tentativaPrefixo) {
+            console.log(`✔️ Fallback por prefixo: "${referencia}" → ${tentativaPrefixo.url}`);
+            return tentativaPrefixo.url;
+        } else {
+            console.warn(`⚠️ Fallback prefixo também falhou para "${referencia}" → ${primeiros8}`);
+        }
     }
-  
+
+    if (!match) {
+        console.warn(`❌ Imagem NÃO encontrada para "${referencia}" → ${refLimpa}`);
+        return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg?updatedAt=1745112243066";
+    }
+
     console.log(`✔️ Imagem encontrada para "${referencia}" → ${match}`);
     return match;
-  }
+}
 
 // ✅ Exibir produtos na tela
 function exibirProdutos(lista) {
@@ -377,6 +400,16 @@ document.addEventListener("DOMContentLoaded", function () {
         } else {
             console.error("❌ Erro: Botão 'Baixar Pesquisa' NÃO encontrado no HTML.");
         }
+        // 🔽 Ativa o campo de busca principal
+        const inputBusca = document.getElementById("search-input");
+        if (inputBusca) {
+            inputBusca.addEventListener("input", (event) => {
+                termoBusca = event.target.value.trim();
+                console.log("🔎 termoBusca atualizado:", termoBusca);
+                paginaAtual = 1;
+                atualizarProdutos();
+            });
+        }
     }, 1000); // Espera 1 segundo para garantir que o DOM foi carregado
 });
 
@@ -450,15 +483,15 @@ function baixarPesquisaEmPDF() {
             doc.setFontSize(10);
             doc.setTextColor(0, 0, 0);
             doc.setFont("helvetica", "bold");
-            doc.text(produto.Referencia || "Sem Referência", x + 5, textoY);
+            doc.text((produto.Referencia || "Sem Referência").toString(), x + 5, textoY);
 
             doc.setFont("helvetica", "normal");
-            const desc = doc.splitTextToSize(produto.Descricao || "Sem Descrição", larguraCard - 10);
+            const desc = doc.splitTextToSize((produto.Descricao || "Sem Descrição").toString(), larguraCard - 10); 
             doc.text(desc, x + 5, textoY + 6);
 
             doc.setFont("helvetica", "bold");
             doc.setTextColor(120, 120, 120);
-            doc.text(`Categoria: ${produto.Categoria || "Sem Categoria"}`, x + 5, textoY + 16);
+            doc.text(`Categoria: ${(produto.Categoria || "Sem Categoria").toString()}`, x + 5, textoY + 16); 
 
             // Proximidade de colunas
             if ((index + 1) % colunas === 0) {
