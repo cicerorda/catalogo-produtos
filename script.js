@@ -11,44 +11,67 @@ let listaImagens = [];
 const BASE_IMAGEKIT_URL = "https://ik.imagekit.io/t7590uzhp/imagens/";
 let termoClassificacao = "";
 
-
 console.log("✅ script.js foi carregado!");
 
-// ✅ Carregar imagens.json e ordenar por nomes maiores primeiro (prioridade a match mais completo)
 fetch("imagens.json")
-  .then(res => res.json())
+  .then(res => {
+    console.log("Resposta bruta imagens.json:", res);
+    return res.json();
+  })
   .then(data => {
-    listaImagens = data
-        .filter(img => img.nome) // ignora imagens sem nome
-        .map(img => {
-            const nome = img.nome.toLowerCase().trim();
-            const nome_limpo = nome.replace(/\./g, "").replace(/\s/g, "");
-            return {
-                ...img,
-                nome_limpo
-            };
-        })
-        .sort((a, b) => b.nome_limpo.length - a.nome_limpo.length);
-
-    atualizarProdutos();
+    console.log("✔️ JSON de imagens carregado com sucesso:", data);
+  })
+  .catch(err => {
+    console.error("❌ Erro ao carregar imagens.json:", err);
   });
 
-// 🔹 Carregar produtos.json
-// ✅ Carregar produtos.json
 fetch("produtos.json")
-  .then(res => res.json())
+  .then(res => {
+    console.log("Resposta bruta produtos.json:", res);
+    return res.json();
+  })
   .then(data => {
-    produtos = data;
+    console.log("✔️ JSON de produtos carregado com sucesso:", data);
+  })
+  .catch(err => {
+    console.error("❌ Erro ao carregar produtos.json:", err);
+  });
+
+Promise.all([
+    fetch("imagens.json").then(res => res.json()),
+    fetch("produtos.json").then(res => res.json())
+]).then(([imagensData, produtosData]) => {
+
+    listaImagens = imagensData.map(img => ({
+        ...img,
+        nome_limpo: processarNomeImagem(img.nome)
+    }));
+
+    console.log("🔍 Imagens carregadas:", listaImagens);
+
+    produtos = produtosData;
     produtos.forEach(produto => {
         if (produto.Categoria) categoriasUnicas.add(produto.Categoria);
     });
+
     criarListaDeCategorias();
     atualizarProdutos();
-  })
-  .catch(error => {
-    console.error("Erro ao carregar produtos:", error);
-    document.getElementById("products").innerHTML = `<p class="mensagem-nenhum-produto">Erro ao carregar os produtos.</p>`;
-  });
+});
+
+function processarNomeImagem(nome) {
+    const nomeOriginal = nome.toLowerCase();
+    const partes = nomeOriginal.split("_");
+
+    let nomeBase = partes[0];
+
+    // Se for tipo ctc_005800 → mantém inteiro
+    if (partes.length > 1 && /^[a-z]+$/.test(partes[0])) {
+        nomeBase = partes[0] + partes[1];
+    }
+
+    const nomeLimpo = nomeBase.replace(/[\.\s\-_]/g, "");
+    return nomeLimpo;
+}
 
 // 🔹 Criar lista de categorias com checkboxes invisíveis e clique no nome
 function criarListaDeCategorias() {
@@ -256,54 +279,66 @@ function adicionarAoCarrinho(referencia) {
     atualizarCarrinho();
 }
 
-function encontrarImagem(referencia) {
-    if (typeof referencia !== "string") referencia = String(referencia);
-    const refLimpa = referencia.toLowerCase().replace(/\./g, "");
-    let match = null;
-    let maiorMatch = 0;
+function limparTexto(texto) {
+    return texto.toLowerCase().replace(/[\.\s\-_]/g, "");
+}
 
-    // 🔍 Primeira tentativa de match direto ou com final 00
-    listaImagens.forEach(({ nome_limpo, url }) => {
-        if (refLimpa.startsWith(nome_limpo) && nome_limpo.length > maiorMatch) {
-            match = url;
-            maiorMatch = nome_limpo.length;
-        } else {
-            for (let i = refLimpa.length; i >= 6; i--) {
-                const corte = refLimpa.slice(0, i);
-                if (nome_limpo === corte + "00" && (corte.length + 2) > maiorMatch) {
-                    match = url;
-                    maiorMatch = corte.length + 2;
-                    break;
-                }
-            }
-        }
-    });
+function removerSufixoDeVariacao(texto) {
+    // 🔥 Remove .00 ou qualquer .NN (onde NN = número com dois dígitos)
+    return texto.replace(/\.\d{2}$/, "");
+}
 
-    // 🛠️ Se não encontrou nada até aqui, tenta fallback com os 8 primeiros dígitos
-    if (!match && refLimpa.length >= 8) {
-        const primeiros8 = refLimpa.slice(0, 8);
-    
-        // Primeiro tenta um match exato de nome_limpo
-        const tentativa = listaImagens.find(({ nome_limpo }) => nome_limpo === primeiros8);
-    
-        // Se não encontrou exato, tenta por prefixo
-        const tentativaPrefixo = tentativa || listaImagens.find(({ nome_limpo }) => nome_limpo.startsWith(primeiros8));
-    
-        if (tentativaPrefixo) {
-            console.log(`✔️ Fallback por prefixo: "${referencia}" → ${tentativaPrefixo.url}`);
-            return tentativaPrefixo.url;
-        } else {
-            console.warn(`⚠️ Fallback prefixo também falhou para "${referencia}" → ${primeiros8}`);
+function gerarVariantes(ref) {
+    const base = limparTexto(ref);
+    const variantes = [base];
+
+    // 🔥 Se termina com 00 e tem mais de 6 caracteres, tenta sem os zeros
+    if (base.endsWith("00") && base.length > 6) {
+        variantes.push(base.slice(0, -2));
+    }
+
+    // 🔥 Remove .20, .08, .01, etc (que são variações de cor/tamanho)
+    const semSufixo = limparTexto(removerSufixoDeVariacao(ref));
+    if (semSufixo !== base && !variantes.includes(semSufixo)) {
+        variantes.push(semSufixo);
+    }
+
+    // 🔥 E se esse sem sufixo também terminar com 00, adiciona sem os zeros
+    if (semSufixo.endsWith("00") && semSufixo.length > 6) {
+        const semSufixoSem00 = semSufixo.slice(0, -2);
+        if (!variantes.includes(semSufixoSem00)) {
+            variantes.push(semSufixoSem00);
         }
     }
 
-    if (!match) {
-        console.warn(`❌ Imagem NÃO encontrada para "${referencia}" → ${refLimpa}`);
-        return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg?updatedAt=1745112243066";
+    return variantes;
+}
+
+function encontrarImagem(referencia, descricao = "") {
+    const variantes = gerarVariantes(referencia);
+
+    const tentativa = listaImagens.find(({ nome_limpo }) =>
+        variantes.includes(nome_limpo)
+    );
+
+    if (tentativa) {
+        console.log(`✔️ Match para "${referencia}" → ${tentativa.url}`);
+        return tentativa.url;
     }
 
-    console.log(`✔️ Imagem encontrada para "${referencia}" → ${match}`);
-    return match;
+    if (descricao) {
+        const descLimpo = limparTexto(descricao);
+        const tentativaPorDescricao = listaImagens.find(
+            ({ nome_limpo }) => descLimpo.includes(nome_limpo)
+        );
+        if (tentativaPorDescricao) {
+            console.log(`✔️ Match pela descrição para "${referencia}" → ${tentativaPorDescricao.url}`);
+            return tentativaPorDescricao.url;
+        }
+    }
+
+    console.warn(`❌ Imagem NÃO encontrada para "${referencia}" → ${variantes[0]}`);
+    return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg";
 }
 
 // ✅ Exibir produtos na tela
