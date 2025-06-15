@@ -9,7 +9,6 @@ const botoesPorGrupo = 10;
 let totalPaginas = 0;
 let listaImagens = [];
 const BASE_IMAGEKIT_URL = "https://ik.imagekit.io/t7590uzhp/imagens/";
-let termoClassificacao = "";
 
 console.log("✅ script.js foi carregado!");
 
@@ -50,8 +49,15 @@ Promise.all([
     console.log("🔍 Imagens carregadas:", listaImagens);
 
     produtos = produtosData;
+
     produtos.forEach(produto => {
-        if (produto.Categoria) categoriasUnicas.add(produto.Categoria);
+        if (produto.Categoria) {
+            // 🔥 Faz o processamento de categoria limpa aqui
+            const partes = produto.Categoria.split("_");
+            const categoriaLimpa = partes[partes.length - 1];
+            produto.CategoriaLimpa = categoriaLimpa;
+            categoriasUnicas.add(categoriaLimpa);
+        }
     });
 
     criarListaDeCategorias();
@@ -121,21 +127,13 @@ function toggleCategoria(categoria, selecionado) {
 
 function obterProdutosFiltrados() {
     return produtos
-        .filter(p => categoriasSelecionadas.size === 0 || categoriasSelecionadas.has(p.Categoria))
-        .filter(p => {
-            let buscaNome = !termoBusca.trim() || 
-                (String(p.Referencia ?? "").toLowerCase().includes(termoBusca.toLowerCase())) ||
-                (String(p.Descricao ?? "").toLowerCase().includes(termoBusca.toLowerCase()));
-
-            let buscaClassificacao = true;
-
-            if (termoClassificacao) {
-                const classificacaoStr = String(p.Classificacao ?? "");
-                buscaClassificacao = classificacaoStr.slice(-3) === termoClassificacao;
-            }
-
-            return buscaNome && buscaClassificacao;
-        });
+    .filter(p => categoriasSelecionadas.size === 0 || categoriasSelecionadas.has(p.CategoriaLimpa))
+    .filter(p => {
+        let buscaNome = !termoBusca.trim() || 
+            (String(p.Referencia ?? "").toLowerCase().includes(termoBusca.toLowerCase())) ||
+            (String(p.Descricao ?? "").toLowerCase().includes(termoBusca.toLowerCase()));
+        return buscaNome;
+    });
 }
 
 // 🔹 Atualizar produtos e paginação
@@ -147,15 +145,6 @@ function atualizarProdutos() {
     exibirProdutos(listaFiltrada);
     criarPaginacao(listaFiltrada);
 }
-
-// 🔥 Atualizar quando digitar no campo normal
-document.getElementById("search-digits").addEventListener("input", (event) => {
-    const valor = event.target.value.replace(/\D/g, "");
-    termoClassificacao = (valor === "000" || valor === "") ? "" : valor.padStart(3, "0");
-    console.log("termoClassificacao atualizado para:", termoClassificacao);
-    paginaAtual = 1;
-    atualizarProdutos();
-});
 
 // 🔹 Buscar categorias
 function filtrarCategorias() {
@@ -471,26 +460,27 @@ function baixarPesquisaEmPDF() {
     doc.text("Catálogo de Produtos", 10, 15);
 
     let x = 10, y = 25;
-    let larguraCard = 90, alturaCard = 70;
-    let imgLargura = 40, imgAltura = 40;
-    let espacamentoX = 10, espacamentoY = 10;
-    let colunas = 2;
+    let larguraCard = 62;    
+    let alturaCard = 62;
+    let imgMaxLargura = 50;
+    let imgMaxAltura = 30;
+    let espacamentoX = 3;
+    let espacamentoY = 3;
+    let colunas = 3;
 
     const promessas = listaFiltrada.map(produto => {
         return new Promise(resolve => {
             const img = new Image();
-            img.crossOrigin = "anonymous"; // 🔥 necessário para permitir toDataURL()
+            img.crossOrigin = "anonymous";
             img.onload = () => resolve({ produto, img });
             img.onerror = () => resolve({ produto, img: null });
-    
             img.src = encontrarImagem(produto.Referencia);
         });
     });
 
     Promise.all(promessas).then(resultados => {
         resultados.forEach(({ produto, img }, index) => {
-            // Fundo do card
-            doc.setFillColor(245, 245, 245); // cinza bem claro
+            doc.setFillColor(245, 245, 245);
             doc.roundedRect(x, y, larguraCard, alturaCard, 3, 3, 'FD');
 
             if (img) {
@@ -501,34 +491,37 @@ function baixarPesquisaEmPDF() {
                 ctx.drawImage(img, 0, 0);
                 const base64 = canvas.toDataURL("image/jpeg");
 
-                // Imagem centralizada no topo
+                // Proporcional
+                const escala = Math.min(imgMaxLargura / img.width, imgMaxAltura / img.height);
+                const imgLarguraAjustada = img.width * escala;
+                const imgAlturaAjustada = img.height * escala;
+
                 doc.addImage(
                     base64,
                     "JPEG",
-                    x + (larguraCard - imgLargura) / 2,
-                    y + 3,
-                    imgLargura,
-                    imgAltura
+                    x + (larguraCard - imgLarguraAjustada) / 2,
+                    y + 5,
+                    imgLarguraAjustada,
+                    imgAlturaAjustada
                 );
             }
 
-            // Texto (abaixo da imagem)
-            const textoY = y + imgAltura + 8;
-
-            doc.setFontSize(10);
+            const textoY = y + imgMaxAltura + 12;
+            doc.setFontSize(9);
             doc.setTextColor(0, 0, 0);
             doc.setFont("helvetica", "bold");
             doc.text((produto.Referencia || "Sem Referência").toString(), x + 5, textoY);
 
             doc.setFont("helvetica", "normal");
-            const desc = doc.splitTextToSize((produto.Descricao || "Sem Descrição").toString(), larguraCard - 10); 
-            doc.text(desc, x + 5, textoY + 6);
+            const desc = doc.splitTextToSize((produto.Descricao || "Sem Descrição").toString(), larguraCard - 10);
+            doc.text(desc, x + 5, textoY + 5);
 
-            doc.setFont("helvetica", "bold");
-            doc.setTextColor(120, 120, 120);
-            doc.text(`Categoria: ${(produto.Categoria || "Sem Categoria").toString()}`, x + 5, textoY + 16); 
+            doc.setFont("helvetica", "italic");
+            doc.setFontSize(8);
+            doc.setTextColor(100);
+            doc.text(`Cat: ${(produto.CategoriaLimpa || "Sem Categoria")}`, x + 5, textoY + 15);
 
-            // Proximidade de colunas
+            // Posicionamento para 3 colunas
             if ((index + 1) % colunas === 0) {
                 x = 10;
                 y += alturaCard + espacamentoY;
@@ -536,13 +529,13 @@ function baixarPesquisaEmPDF() {
                 x += larguraCard + espacamentoX;
             }
 
-            if (y + alturaCard > 280) {
+            if (y + alturaCard > 295) {
                 doc.addPage();
                 y = 25;
                 x = 10;
             }
 
-            doc.setTextColor(0, 0, 0); // Reset
+            doc.setTextColor(0, 0, 0);
         });
 
         doc.save("catalogo_produtos.pdf");
