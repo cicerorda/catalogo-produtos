@@ -199936,5 +199936,23 @@
     "Descricao": "ENF. ARGOLA OVAL ANIMALE BRUTA",
     "Categoria": "30_50_040_ARGOLAS",
     "Classificacao": "3050040040"
+  },
+  {
+    "Referencia": "E023258.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023259.00.000",
+    "Descricao": "COMP. PEDRA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023260.07.000",
+    "Descricao": "ENF. ARGOLA OVAL ANIMALE BRUTA",
+    "Categoria": "30_50_040_ARGOLAS",
+    "Classificacao": "3050040040"
   }
 ]
