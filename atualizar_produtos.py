@@ -54,7 +54,7 @@ registros = [dict(zip(colunas, row)) for row in cursor.fetchall()]
 print(f"📦 {len(registros)} registros encontrados nas últimas 24h.")
 
 # Salvar em produtos.json
-json_path = os.path.join(os.path.dirname(__file__), "produtos.json")
+json_path = os.path.join(os.path.dirname(__file__), "C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\Nova pasta\produtos_novos.json")
 
 # Converte datetime para string no formato ISO
 def serializar(obj):

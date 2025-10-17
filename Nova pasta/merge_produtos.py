@@ -2,9 +2,9 @@ import json
 from pathlib import Path
 
 # Caminhos dos arquivos
-json_antigo_path = Path(r"C:\Users\Usuario\Desktop\BACKUP\Documents\codigos faculdade\Nova pasta\catalogo-produtos\Nova pasta\produtos_antigo.json")
-json_novos_path = Path(r"C:\Users\Usuario\Desktop\BACKUP\Documents\codigos faculdade\Nova pasta\catalogo-produtos\Nova pasta\produtos_novos.json")
-json_saida_path = Path(r"C:\Users\Usuario\Desktop\BACKUP\Documents\codigos faculdade\Nova pasta\catalogo-produtos\Nova pasta\produtos_atualizado.json")
+json_antigo_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\Nova pasta\produtos_antigo.json")
+json_novos_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\Nova pasta\produtos_novos.json")
+json_saida_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos.json")
 
 # Carrega os dados antigos
 with open(json_antigo_path, "r", encoding="utf-8") as f:
