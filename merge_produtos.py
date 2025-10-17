@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 # Caminhos dos arquivos
-json_antigo_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\Nova pasta\produtos_antigo.json")
+json_antigo_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos.json")
 json_novos_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\produtos_novos.json")
 json_saida_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos.json")
 
