@@ -199954,5 +199954,29 @@
     "Descricao": "ENF. ARGOLA OVAL ANIMALE BRUTA",
     "Categoria": "30_50_040_ARGOLAS",
     "Classificacao": "3050040040"
+  },
+  {
+    "Referencia": "E023243.16.000",
+    "Descricao": "COMP. PASSANTE BOLA BRUTA ",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030040"
+  },
+  {
+    "Referencia": "E023242.27.000",
+    "Descricao": "COMP. PASSANTE \"U\" BRUTA ",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030060"
+  },
+  {
+    "Referencia": "3863.14.29",
+    "Descricao": "CONJ. BOTÃO COLCHETE 7135/14 LATÃO (14MM) GOLD 4",
+    "Categoria": "30_80_010_BOTÕES",
+    "Classificacao": "3080010020"
+  },
+  {
+    "Referencia": "3713.00.29",
+    "Descricao": "BASE BOTÃO 1002/80 (G) LATÃO GOLD 4",
+    "Categoria": "30_80_010_BOTÕES",
+    "Classificacao": "3080010010"
   }
 ]
