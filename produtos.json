@@ -199978,5 +199978,17 @@
     "Descricao": "BASE BOTÃO 1002/80 (G) LATÃO GOLD 4",
     "Categoria": "30_80_010_BOTÕES",
     "Classificacao": "3080010010"
+  },
+  {
+    "Referencia": "E023256.12.000",
+    "Descricao": "ENF. P/COSTURA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004412.22.117",
+    "Descricao": "CONJ. FIV.+PASSADOR SANTA LOLLA LUMI GOLD",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
   }
 ]
