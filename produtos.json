@@ -199990,5 +199990,629 @@
     "Descricao": "CONJ. FIV.+PASSADOR SANTA LOLLA LUMI GOLD",
     "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
     "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E023247.100.000",
+    "Descricao": "COMP. AMASSADO TAM \"XG\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023174.05.000",
+    "Descricao": "ENF. PASSANTE TRANSSADO TRITON BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "CORR.0355.20.02",
+    "Descricao": "CORRENTE 0355 LATÃO C/20 CM NIQUEL",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "E023176.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023177.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CORR.4256.23.45",
+    "Descricao": "CORRENTE 4256 23CM GOLD LIGHT",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4256.32.45",
+    "Descricao": "CORRENTE 4256 32CM GOLD LIGHT",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E023181.00.000",
+    "Descricao": "ENF. ENTREMEIO ORGANICO C/TEXTURA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023179.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023201.06.000",
+    "Descricao": "COMP. PING. REDONDO BRUTA MT(13T-R 80 X 140-6CAV)",
+    "Categoria": "30_50_060_PINGENTES",
+    "Classificacao": "3050060010"
+  },
+  {
+    "Referencia": "E023180.00.000",
+    "Descricao": "COMP. PEDRA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023220.00.000",
+    "Descricao": "ENF. BOTÃO RETANGULAR BRUTA",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E023187.25.000",
+    "Descricao": "COMP. ESFERA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023172.03.000",
+    "Descricao": "ENF. ESFERA PASSANTE AMASSADA BRUTA",
+    "Categoria": "30_50_020_PONTEIRAS",
+    "Classificacao": "3050020030"
+  },
+  {
+    "Referencia": "E023233.00.000",
+    "Descricao": "ENF. PLACA MLR DELUXE 6X40 PÉ AUTOPERF. BRUTA MT(13T-R 80 X 140-8CAV)",
+    "Categoria": "30_50_120_ACESSORIOS",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E023171.51.000",
+    "Descricao": "ENF. ARO OVAL BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023170.03.000",
+    "Descricao": "ENF. PONTEIRA CEGA 3MM BRUTA",
+    "Categoria": "30_50_020_PONTEIRAS",
+    "Classificacao": "3050020010"
+  },
+  {
+    "Referencia": "E023193.20.000",
+    "Descricao": "ENF. PASSANTE AMASSADO BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E023192.00.000",
+    "Descricao": "ENF. ENTREMEIO BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023000.35.000",
+    "Descricao": "ENF. PASSANTE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023200.35.000",
+    "Descricao": "ENF. PASSANTE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023199.35.000",
+    "Descricao": "ENF. PASSANTE C/TRAVESSA BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "CORR.3713.20.02",
+    "Descricao": "CORRENTE 3713 LATÃO 20CM NIQUEL",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "F004834.75.145",
+    "Descricao": "CONJ. FIV. MONTAGEM \"PP\" (75CM) PRATA BRILHO",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004835.82.145",
+    "Descricao": "CONJ. FIV. MONTAGEM \"M\" (82CM) PRATA BRILHO",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E023214.44.000",
+    "Descricao": "ENF. TUBO TOP HALTER BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "F004836.85.145",
+    "Descricao": "CONJ. FIV. MONTAGEM \"G\" (85CM) PRATA BRILHO",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E023195.00.000",
+    "Descricao": "COMP. BASE FORUM BRUTA ",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023196.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023184.18.000",
+    "Descricao": "ENF. TUBO BIA ROSIE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023185.11.000",
+    "Descricao": "ENF. TUBO T-BACK BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023183.06.000",
+    "Descricao": "ENF. TUBO TOP TRI ROSIE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023213.20.000",
+    "Descricao": "ENF. TUBO CALCINHA FANY ROSIE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E022404.60.000",
+    "Descricao": "ENF. METAL NIKA BANDEAU BRUTA MT(30T-P 80 X 140-2CAV)",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023204.18.000",
+    "Descricao": "ENF. ARGOLA BRUTA",
+    "Categoria": "30_50_040_ARGOLAS",
+    "Classificacao": "3050040130"
+  },
+  {
+    "Referencia": "CORR.0557.52.02",
+    "Descricao": "CORRENTE 0557 LATÃO 52,5CM NIQUEL",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "E023203.18.000",
+    "Descricao": "ENF. ARGOLA C/BONECA BRUTA",
+    "Categoria": "30_50_040_ARGOLAS",
+    "Classificacao": "3050040130"
+  },
+  {
+    "Referencia": "E023223.04.000",
+    "Descricao": "ENF. PONTEIRA NV CEGA BRUTA",
+    "Categoria": "30_50_020_PONTEIRAS",
+    "Classificacao": "3050020010"
+  },
+  {
+    "Referencia": "F4091.35.7.42",
+    "Descricao": "CONJ.FIV.+PASSADOR P.T.(MARROM CHELSEA F)",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E023230.00.000",
+    "Descricao": "ENF. PLACA MLR 2010 DNM 15X15 PÉ ESTALAR BRUTA MT(13T-R 80 X 140-8CAV)",
+    "Categoria": "30_50_120_ACESSORIOS",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E023229.00.000",
+    "Descricao": "ENF. LEQUE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023222.04.000",
+    "Descricao": "ENF. PONTEIRA PASSANTE NV \"G\" BRUTA",
+    "Categoria": "30_50_020_PONTEIRAS",
+    "Classificacao": "3050020010"
+  },
+  {
+    "Referencia": "E023707.00.000",
+    "Descricao": "COMP. ENCAIXE FEMEA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CTC 0563.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA MT ZINCO",
+    "Categoria": "30_50_140_CONTRA CHAPAS",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E023207.00.000",
+    "Descricao": "COMP. ENCAIXE FEMEA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023221.04.000",
+    "Descricao": "ENF. PONTEIRA PASSANTE NV \"P\" BRUTA",
+    "Categoria": "30_50_020_PONTEIRAS",
+    "Classificacao": "3050020010"
+  },
+  {
+    "Referencia": "E023208.00.000",
+    "Descricao": "COMP. ENCAIXE MACHO BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023205.00.000",
+    "Descricao": "COMP. P/REMANCHE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023206.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023209.00.000",
+    "Descricao": "COMP. PEDRA \"G\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023210.00.000",
+    "Descricao": "COMP. PEDRA \"P\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E019134.22.8.42",
+    "Descricao": "ENF. BOTÃO BIMETAL \"P\" P.T. (MARROM SHAVED)",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "CTC 0564.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA MT ZINCO(13T-R 62 X 44-6CAV)",
+    "Categoria": "30_50_140_CONTRA CHAPAS",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E023182.08.000",
+    "Descricao": "ENF. TUBO CALCINHA ROSIE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023232.06.000",
+    "Descricao": "COMP. REDONDO PÉ ESTALAR BRUTA MT(13T-R 80 X 140-6CAV)",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023225.00.000",
+    "Descricao": "ENF. PING. CORAÇÃO C/TEXTURA BRUTA",
+    "Categoria": "30_50_060_PINGENTES",
+    "Classificacao": "3050060030"
+  },
+  {
+    "Referencia": "E023248.90.000",
+    "Descricao": "COMP. AMASSADO TAM \"GG\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023224.35.000",
+    "Descricao": "ENF. PING. REDONDO BRUTA",
+    "Categoria": "30_50_060_PINGENTES",
+    "Classificacao": "3050060030"
+  },
+  {
+    "Referencia": "E023219.24.000",
+    "Descricao": "ENF. PASSANTE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "F004819.20.1.01",
+    "Descricao": "CONJ. FIV.C/GRAV. \"F\"+PASSADORES NIQUEL + OURO OURO CHAMP. ESC.",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E023217.00.000",
+    "Descricao": "COMP. ELO ABERTO BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E023218.00.000",
+    "Descricao": "COMP. ELO FECHADO BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E023235.25.000",
+    "Descricao": "ENF. MEIA ARGOLA BRUTA",
+    "Categoria": "30_50_080_MEIAS ARGOLAS",
+    "Classificacao": "3050080120"
+  },
+  {
+    "Referencia": "E023249.82.000",
+    "Descricao": "COMP. AMASSADO TAM \"G\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023234.16.000",
+    "Descricao": "ENF. REGULADOR BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "CTC 0562.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA NIQUEL",
+    "Categoria": "30_50_140_CONTRA CHAPAS",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E023228.00.000",
+    "Descricao": "ENF. BOTÃO RETANGULAR BRUTA",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E023211.00.000",
+    "Descricao": "ENF. PLACA ALVO PÉ AL 0,5 BRUTA",
+    "Categoria": "30_50_120_ACESSORIOS",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "CORR.4256.23.00",
+    "Descricao": "CORRENTE 4256 23CM SEM BANHO",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4256.32.00",
+    "Descricao": "CORRENTE 4256 32CM SEM BANHO",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E023227.00.000",
+    "Descricao": "ENF. MANUSCRITO \"ML\" PÉ AL 0,5 BRUTA",
+    "Categoria": "30_50_130_MANUSCRITOS",
+    "Classificacao": "3050130010"
+  },
+  {
+    "Referencia": "E023250.72.000",
+    "Descricao": "COMP. AMASSADO TAM \"M\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F3972.30.08",
+    "Descricao": "CONJ. FIV. ROL. MOVEL (ABERT. 30MM) GRAFITE",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CORR.4256.23.02",
+    "Descricao": "CORRENTE 4256 23CM NIQUEL",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4256.23.09",
+    "Descricao": "CORRENTE 4256 23CM GRAFITE",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4256.32.02",
+    "Descricao": "CORRENTE 4256 32CM NIQUEL",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E023215.34.000",
+    "Descricao": "ENF. ARGOLA ROLIÇA BRUTA",
+    "Categoria": "30_50_040_ARGOLAS",
+    "Classificacao": "3050040265"
+  },
+  {
+    "Referencia": "CORR.4256.32.09",
+    "Descricao": "CORRENTE 4256 32CM GRAFITE",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4205.18.09",
+    "Descricao": "CORRENTE FERRO 4205 18 CM GRAFITE",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4205.18.45",
+    "Descricao": "CORRENTE FERRO 4205 18CM GOLD LIGHT",
+    "Categoria": "30_80_120_CORRENTES",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E023226.00.000",
+    "Descricao": "ENF. MANUSCRITO \"ML\" PÉ AL 0,5 BRUTA",
+    "Categoria": "30_50_130_MANUSCRITOS",
+    "Classificacao": "3050130010"
+  },
+  {
+    "Referencia": "E023251.57.000",
+    "Descricao": "COMP. AMASSADO TAM \"P\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023252.41.000",
+    "Descricao": "COMP. AMASSADO TAM \"PP\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "PINO 037.43",
+    "Descricao": "PINO MEIA CANA 36.08 X 2,7 X 1,4 MM ZINCO",
+    "Categoria": "30_80_050_PINOS",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E023236.49.000",
+    "Descricao": "ENF. ARGOLA ROLIÇA BRUTA",
+    "Categoria": "30_50_040_ARGOLAS",
+    "Classificacao": "3050040365"
+  },
+  {
+    "Referencia": "E023239.35.000",
+    "Descricao": "ENF. ARO DUPLO BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023238.53.000",
+    "Descricao": "ENF. ARO TRIPLO BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023237.72.000",
+    "Descricao": "ENF. ARO QUADRUPLO BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023258.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023259.00.000",
+    "Descricao": "COMP. PEDRA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023240.40.000",
+    "Descricao": "ENF. PASSANTE OVAL BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030010"
+  },
+  {
+    "Referencia": "E023245.10.000",
+    "Descricao": "ENF. PASSANTE RETÂNGULO BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023253.10.000",
+    "Descricao": "ENF. PASSANTE OVAL MLR BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030010"
+  },
+  {
+    "Referencia": "E023244.00.000",
+    "Descricao": "ENF. PLACA OVAL M PÉ AL 0,5 BRUTA",
+    "Categoria": "30_50_120_ACESSORIOS",
+    "Classificacao": "3050120030"
+  },
+  {
+    "Referencia": "E023260.07.000",
+    "Descricao": "ENF. ARGOLA OVAL ANIMALE BRUTA",
+    "Categoria": "30_50_040_ARGOLAS",
+    "Classificacao": "3050040040"
+  },
+  {
+    "Referencia": "E023254.45.000",
+    "Descricao": "ENF. PASSANTE BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030010"
+  },
+  {
+    "Referencia": "CTC 0565.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA NIQUEL",
+    "Categoria": "30_50_140_CONTRA CHAPAS",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E023255.00.000",
+    "Descricao": "ENF. PLACA PÉ AL 0,5 FORUM BRUTA",
+    "Categoria": "30_50_120_ACESSORIOS",
+    "Classificacao": "3050120030"
+  },
+  {
+    "Referencia": "E023256.12.000",
+    "Descricao": "ENF. P/COSTURA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023243.16.000",
+    "Descricao": "COMP. PASSANTE BOLA BRUTA ",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030040"
+  },
+  {
+    "Referencia": "E023242.27.000",
+    "Descricao": "COMP. PASSANTE \"U\" BRUTA ",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030060"
+  },
+  {
+    "Referencia": "3863.14.29",
+    "Descricao": "CONJ. BOTÃO COLCHETE 7135/14 LATÃO (14MM) GOLD 4",
+    "Categoria": "30_80_010_BOTÕES",
+    "Classificacao": "3080010020"
+  },
+  {
+    "Referencia": "3713.00.29",
+    "Descricao": "BASE BOTÃO 1002/80 (G) LATÃO GOLD 4",
+    "Categoria": "30_80_010_BOTÕES",
+    "Classificacao": "3080010010"
+  },
+  {
+    "Referencia": "F004412.22.117",
+    "Descricao": "CONJ. FIV.+PASSADOR SANTA LOLLA LUMI GOLD",
+    "Categoria": "40_40_010_010 _CONJ. FIV COM PINO",
+    "Classificacao": "4040010020"
   }
 ]
