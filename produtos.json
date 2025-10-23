@@ -200632,5 +200632,35 @@
     "Descricao": "ENF. PASSANTE CANELADO BRUTA",
     "Categoria": "30_50_030_PASSADORES",
     "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023261.04.000",
+    "Descricao": "ENF. TUBO BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030040"
+  },
+  {
+    "Referencia": "E023262.30.000",
+    "Descricao": "ENF. PEGADOR CANELADO TOP BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023263.28.000",
+    "Descricao": "ENF. PASSANTE CANELADO BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023270.00.000",
+    "Descricao": "COMP. CHAPA P/REMANCHE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023271.00.000",
+    "Descricao": "COMP. CHAPA P/REMANCHE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
   }
 ]
