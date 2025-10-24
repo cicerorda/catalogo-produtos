@@ -200662,5 +200662,35 @@
     "Descricao": "COMP. CHAPA P/REMANCHE BRUTA",
     "Categoria": "30_50_110_ACESSORIOS",
     "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023272.15.000",
+    "Descricao": "ENF. REGULADOR BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023265.20.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. \"32 POLEGADAS\" BRUTA",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E023267.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E023268.22.000",
+    "Descricao": "COMP. SOBREPOSTO BRUTA",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E023269.22.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. \"36 POLEGADAS\" BRUTA",
+    "Categoria": "30_50_090_BOTÕES",
+    "Classificacao": "3050090020"
   }
 ]
