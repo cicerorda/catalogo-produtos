@@ -200692,5 +200692,29 @@
     "Descricao": "ENF. BOTÃO SIST. COST. \"36 POLEGADAS\" BRUTA",
     "Categoria": "30_50_090_BOTÕES",
     "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E023276.06.000",
+    "Descricao": "ENF. PASSADOR VIX BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030040"
+  },
+  {
+    "Referencia": "E023277.08.000",
+    "Descricao": "ENF. PASSADOR VIX BRUTA",
+    "Categoria": "30_50_030_PASSADORES",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E023275.03.000",
+    "Descricao": "ENF. PONTEIRA CEGA ANIMALE BRUTA",
+    "Categoria": "30_50_020_PONTEIRAS",
+    "Classificacao": "3050020020"
+  },
+  {
+    "Referencia": "E023274.00.000",
+    "Descricao": "COMP. CENTRAL C/GRAV. \"F\" BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
   }
 ]
