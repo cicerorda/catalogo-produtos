@@ -200716,5 +200716,35 @@
     "Descricao": "COMP. CENTRAL C/GRAV. \"F\" BRUTA",
     "Categoria": "30_50_110_ACESSORIOS",
     "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023279.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023280.22.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023282.00.000",
+    "Descricao": "COMP. BASE BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023283.00.000",
+    "Descricao": ".",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E023283.30.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "30_50_110_ACESSORIOS",
+    "Classificacao": "3050110010"
   }
 ]
