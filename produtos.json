@@ -30026,8 +30026,8 @@
   {
     "Referencia": "9808.05.1.00",
     "Descricao": "ENF. PONTEIRA SEM BANHO",
-    "Categoria": "30_50_020_PONTEIRAS",
-    "Classificacao": "3050020030"
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
   },
   {
     "Referencia": "9926.05.00",
@@ -52010,9 +52010,9 @@
   },
   {
     "Referencia": "E14823.30.1.00",
-    "Descricao": "CONJ. BASE C/BOTÃO COLCHETE+SOBREP. REDO",
-    "Categoria": "30_50_090_BOTÕES",
-    "Classificacao": "3050090020"
+    "Descricao": "CONJ.BASE C/BOTÃO COLCHETE+SOBREP.SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
   },
   {
     "Referencia": "E14824.10.00",
@@ -130976,8 +130976,8 @@
   {
     "Referencia": "8441.60.1.00",
     "Descricao": "FIV. REDONDA S/BANHO",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
   },
   {
     "Referencia": "8453.30.52",
@@ -131438,8 +131438,8 @@
   {
     "Referencia": "9123.18.1.00",
     "Descricao": "ENFEITE ESTRELA SEM BANHO",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
   },
   {
     "Referencia": "9124.13.00",
@@ -132428,8 +132428,8 @@
   {
     "Referencia": "9875.13.1.00",
     "Descricao": "ENFEITE SEM BANHO",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
   },
   {
     "Referencia": "9875.13.1.01",
@@ -133436,8 +133436,8 @@
   {
     "Referencia": "CP14467.00.1.00",
     "Descricao": "COMP. ILHOS BOCA REB 1,5 SEM BANHO",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
   },
   {
     "Referencia": "CP15227.00.06",
@@ -133568,8 +133568,8 @@
   {
     "Referencia": "CP3485.24.00",
     "Descricao": "COMP. FIVELA SEM BANHO",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
   },
   {
     "Referencia": "CP8399.22.91",
@@ -133580,8 +133580,8 @@
   {
     "Referencia": "CP8575.20.00",
     "Descricao": "COMP. FIVELA SEM BANHO (MT)",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
   },
   {
     "Referencia": "CP8719.00.07",
@@ -136591,9 +136591,9 @@
   },
   {
     "Referencia": "E10271.22.1.00",
-    "Descricao": "ENFEITE TERMINAL TRAPEZIO COMP.(E10235)",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Descricao": "ENFEITE TERMINAL TRAPEZIO COMP.(E10235) BRUTA COBRE",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
   },
   {
     "Referencia": "E10272.00.00",
@@ -136603,9 +136603,9 @@
   },
   {
     "Referencia": "E10272.00.1.00",
-    "Descricao": "ENFEITE APLIQUE INFERIOR COMP.(E10235) B",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Descricao": "ENFEITE APLIQUE INFERIOR COMP.(E10235) BRUTA COBRE",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
   },
   {
     "Referencia": "E10273.00.00",
@@ -136615,9 +136615,9 @@
   },
   {
     "Referencia": "E10273.00.1.00",
-    "Descricao": "ENFEITE. APLI. PIRAMIDE COMP.(E10235) BR",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Descricao": "ENFEITE APLI. PIRAMIDE COMP.(E10235) BRUTA COBRE",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
   },
   {
     "Referencia": "E10274.00.00",
@@ -136627,9 +136627,9 @@
   },
   {
     "Referencia": "E10274.00.1.00",
-    "Descricao": "ENF. EIXO PIRAMIDE COMP.(E10235) BRUTA",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Descricao": "ENF. EIXO PIRAMIDE COMP.(E10235) BRUTA COBRE",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
   },
   {
     "Referencia": "E10278.00.00",
@@ -136645,9 +136645,9 @@
   },
   {
     "Referencia": "E10279.00.1.00",
-    "Descricao": "CADEADO SANTA LOLLA. COMP.(E12956) BRUTA",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Descricao": "CADEADO SANTA LOLLA. COMP.(E12956) BRUTA ",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
   },
   {
     "Referencia": "E10280.00.00",
@@ -137282,8 +137282,8 @@
   {
     "Referencia": "E10412.07.1.00",
     "Descricao": "ENF. EIXO PIRAMIDE COMP. BRUTA COBRE",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
   },
   {
     "Referencia": "E10416.00.00",
@@ -137930,8 +137930,8 @@
   {
     "Referencia": "E10556.03.1.00",
     "Descricao": "ENFEITE PUXADOR \"K\" S/BANHO",
-    "Categoria": "30_90_CLASSIFICAR",
-    "Classificacao": "3090090090"
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
   },
   {
     "Referencia": "E10557.22.00",
@@ -213466,5 +213466,4349 @@
     "Descricao": "FIV. ENCAIXE LOGO CAPO OURO 18",
     "Categoria": "40_40_010_020_CONJ FIV OUTROS COMP",
     "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E5992.00.20",
+    "Descricao": "ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E6303.82.00",
+    "Descricao": "ENF. ARGOLA PARF. BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E7031.00.00",
+    "Descricao": "CONJ. PIRAMIDE BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E6711.00.26",
+    "Descricao": "ETIQ. KAELYS 28 X 28MM RESINA SISTEMA COSTURA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E6712.00.26",
+    "Descricao": "PLACA KAELYS SIST. COSTURA PINTURA 30 X 29MM BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E6723.00.39",
+    "Descricao": "ENF. PONTEIRA RB 0,5 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E6484.00.00",
+    "Descricao": "CONJ. 4 ELOS BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E6210.12.39",
+    "Descricao": "MEIA ARGOLA BRUTA DOURADO 33",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E6457.00.00",
+    "Descricao": "CONJ. BRIDÃO ENF.LAÇOS E TIRAS BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E6456.00.00",
+    "Descricao": "CONJ.BRIDÃO ENF. LAÇOS E TIRAS BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E12219.00.00",
+    "Descricao": "ENF. BRIDÃO CURVADO BRUTA (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E2323.00.01",
+    "Descricao": "ENFEITE MORENA ROSA RB 1,0 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E5993.00.26",
+    "Descricao": "ETIQ. DENUNCIA SIST.COSTURA BRUTA MT",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F1815.20.09",
+    "Descricao": "FIVELA PINO BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "MOLA GRANDE 6MM",
+    "Descricao": "MOLA DE AÇO GRANDE 6,0 MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E6869.00.00",
+    "Descricao": "CONJ. BRIDAO AR 165B BRUTA (NAO USAR)",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E6143.00.00",
+    "Descricao": "CONJ. PASSANTE L BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E3670.45.00",
+    "Descricao": "ENFEITE GANCHO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E3669.45.00",
+    "Descricao": "ENFEITE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E5918.00.00",
+    "Descricao": "CONJ. PLACA BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E5881.00.00",
+    "Descricao": "CONJ.PLAQ. MEIA ARG. RB1,0 BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E0736.00.01",
+    "Descricao": "ENFEITE CONJ. BRUTA MT",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E2592.20.00",
+    "Descricao": "CONJ. 3 ARG. E 5 ELOS BRUTA (MT)",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F2063.24.1.05",
+    "Descricao": "COMP. INTERNO BRUTA FOSCO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E6181.00.00",
+    "Descricao": "CONJ. PLACA ALCA MARIA FILO BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E6763.00.00",
+    "Descricao": "CONJ. BRIDÃO REMANCHE BRUTA(MT)",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F1432.35.00",
+    "Descricao": "FIVELA ENGATE CONJ SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E7093.24.00",
+    "Descricao": "ENF. PASSANTE C/REBAIXO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7263.82.00",
+    "Descricao": "ENFEITE RB 0,5 ALTO MARIA.VALENTINA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E7127.02.00",
+    "Descricao": "ENFEITE MISSANGA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E7319.02.00",
+    "Descricao": "ENF PASS STRASS BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E7374.24.00",
+    "Descricao": "ENF BASE RESINA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7413.00.00",
+    "Descricao": "ENF. BORBOLETA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7432.09.00",
+    "Descricao": "ENF. BORBOLETA PASSANTE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7417.44.00",
+    "Descricao": "ENF PASSANTE BRUTA MT",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7415.44.00",
+    "Descricao": "ENF PASSANTE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7438.21.00",
+    "Descricao": "ENF PASSANTE GR BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E7515.20.00",
+    "Descricao": "ENF PASS ZINCO RESINA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "ALC0021.31",
+    "Descricao": "ALCA REMANCHADA ABERTURA 31MM BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020050"
+  },
+  {
+    "Referencia": "F1480.50.1.00",
+    "Descricao": "FIV. S/ BANHO C/ PINO NIQUEL",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E12187.06.2.00",
+    "Descricao": "ENF. PASSANTE S/GRAV. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E2674.00.58",
+    "Descricao": "ENF RB 1,0 BRUTA OURO 9",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7811.24.00",
+    "Descricao": "ENF PIRAMIDE RB 1,0 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7933.24.00",
+    "Descricao": "ENF REB 0,5 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E8008.00.00",
+    "Descricao": "ENF. BOLSA TINE PARTE MACHO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8009.00.00",
+    "Descricao": "ENF. BOLSA TINE PARTE FEMEA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "T0001.00",
+    "Descricao": "PRESILHA SD 70MM BRUTA(MT) + ZINCO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7826.00.00",
+    "Descricao": "ENF SANTA LOLLA PARAF M3X5 CAB FENDA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "T0007.00.00",
+    "Descricao": "VALVULA PNEUMATICA BRUTA 60076 (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "T0013.00",
+    "Descricao": "PRESILHA SD 90MM (1000950028) BRUTA(MT) + ZINCO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "T0012.00",
+    "Descricao": "PRESILHA SD 60MM (1000950027) BRUTA(MT) + ZINCO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "T0011.00",
+    "Descricao": "PRESILHA SD 120MM (1000950029) BRUTA(MT) + ZINCO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8717.00.00",
+    "Descricao": "COMP. RB1,5 DOBRADIÇA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0479.32.1.00",
+    "Descricao": "FIV. S/ BANHO (PARA FORRAR) PINO D33",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E9046.00.00",
+    "Descricao": "CONJ.ENFEITE M.R (RB0,5F) BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E10605.00.00",
+    "Descricao": "CONJ. PUXADOR MAIOR UNCLE K BRUTA (MT)",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E7659.05.1.00",
+    "Descricao": "PONTEIRA PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10442.99.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE FACETADA BRUTA (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E2271.63.00",
+    "Descricao": "ENF.  OVAL AREZZO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E1922.45.00",
+    "Descricao": "ENF. ARGOLA AREZZO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E8037.17.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11480.28.00",
+    "Descricao": "ENF. MEDALHA ANIMALE Ø28 MM BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021933.00.119",
+    "Descricao": "ENF. OVAL CANOA PÉ 6MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E.7259.27",
+    "Descricao": "ENFEITE REF. E.7259 RB0,5 X 3 MM BANHO OURO CHAMP.",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E9006.60.1.00",
+    "Descricao": "ENF PASS RET MAIOR VAZADO S/BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12001.00.00",
+    "Descricao": "ENF. BRIDÃO FORRADO BRUTA (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E11043.24.1.00",
+    "Descricao": "ENF. BOTÃO Ø 24MM S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10645.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE S/BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11121.20.1.00",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM S/BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13748.28.1.00",
+    "Descricao": "ENF. PASSANTE C/EIXO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CTC 7606.01.00",
+    "Descricao": "ENF. \" V \" COLCCI BRUTA NIQUEL S/ VERNIZ (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3063.51.85",
+    "Descricao": "FIV. P/FORRAR C/LIM. FREE OURO 18+ S/BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E4006.00.1.00",
+    "Descricao": "PONTEIRA S/BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11020.10.1.00",
+    "Descricao": "ENF. ARGOLA ZAMAC Ø10 MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3063.51.90",
+    "Descricao": "FIV. P/FORRAR C/LIM. FREE GRAFITE + S/BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "7437.29",
+    "Descricao": "ENF. ARAME 12 (Ø2,8 X 29,5CM) BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13266.00.1.85",
+    "Descricao": "CONJ. BRIDÃO SL FREE OURO 18 (C/COMPONENTE CENTRAL SEM BANHO)",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E12605.06.1.00",
+    "Descricao": "ENF. PONTEIRA CILINDRICA C/ALÇA NIQUEL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8014.00.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11583.20.1.00",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10773.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7508.15.1.00",
+    "Descricao": "ENF TUBO PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E3885.00.1.00",
+    "Descricao": "ENFEITE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10647.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10648.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8255.00.1.00",
+    "Descricao": "ENF PEQUENO GR + CTC SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10532.06.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11546.00.1.00",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11586.20.1.00",
+    "Descricao": "ENF. PASSADOR MEIA CANA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11044.17.1.00",
+    "Descricao": "ENF. BOTAO Ø 17MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1758.00.1.00",
+    "Descricao": "PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10441.04.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10528.001.77",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E12071.04.1.00",
+    "Descricao": "ENF. PONTEIRA NIQUEL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10530.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11346.13.1.00",
+    "Descricao": "ENF. PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "9041.00.1.00",
+    "Descricao": "PONTEIRA FURO 5MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10625.00.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1271.03.1.00",
+    "Descricao": "PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11120.15.1.00",
+    "Descricao": "ENF. BOTAO Ø 15 MM ABAULADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E0313.18.1.00",
+    "Descricao": "ENFEITE PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1270.04.1.00",
+    "Descricao": "PONTEIRA S/FURO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8183.18.1.00",
+    "Descricao": "BOTAO SIS COST SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8181.10.1.00",
+    "Descricao": "BOTÃO SIS COST SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1582.00.00.1",
+    "Descricao": "ENFEITE BRIDÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11588.14.1.00",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10486.03.1.00",
+    "Descricao": "ENFEITE PONTEIRA PASSANTE QUADRADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12356.20.1.00",
+    "Descricao": "ENF. BOTAO Ø 20MM SIST. COST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11814.20.1.00",
+    "Descricao": "ENF. PASSADOR MEIO TUBO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13358.05.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE 20 MM COMP. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10643.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13460.00.00",
+    "Descricao": "ENFEITE PLACA BASSE RB1,5 X 4,5 AUTO.P BRUTA (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8013.00.1.00",
+    "Descricao": "ENF. RETANGULAR PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E5176.26.1.00",
+    "Descricao": "ENFEITE PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8042.28.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13507.05.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8664.20.1.00",
+    "Descricao": "ENF PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1762.00.1.00",
+    "Descricao": "PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10839.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1711.09.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8637.15.1.00",
+    "Descricao": "PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3179.20.1.00",
+    "Descricao": "FIVELA S/ LIMITADOR SEM BANHO ",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E11844.13.1.00",
+    "Descricao": "ENF. PASSADOR ELIPSE TEXTURA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3206.25",
+    "Descricao": "FIVELA BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "9691.40.1.00",
+    "Descricao": "ENF. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7994.04.1.00",
+    "Descricao": "ENF PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13630.40.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13629.30.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13632.35.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13628.20.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3098.18.1.00",
+    "Descricao": "FIV. PASSADOR C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E11792.00.1.00",
+    "Descricao": "ENF. RETANGULO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E2723.16.1.00",
+    "Descricao": "ENFEITE PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8034.47.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7790.04.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13748.25.1.00",
+    "Descricao": "ENF. PASSANTE C/EIXO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11049.00.1.00",
+    "Descricao": "ENF. PASSADOR \"V\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E5828.00.3.00",
+    "Descricao": "ENFEITE BRIDÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13758.16.1.00",
+    "Descricao": "ENF. PASSADOR REGULADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12011.40.2.00",
+    "Descricao": "ENF. PASSADOR SL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12011.40.3.00",
+    "Descricao": "ENF. PASSADOR S/GRAV. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13735.18.1.00",
+    "Descricao": "ENF. REGULADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "6636.63.00",
+    "Descricao": "ENF. PASSANTE RETANGULAR BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7253.41.1.00",
+    "Descricao": "ENFEITE PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8039.34.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10071.55.3.00",
+    "Descricao": "ENFEITE PASSADOR 75X34 S/GRAV SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "T0027.00",
+    "Descricao": "PRESILHA 114MM BRUTA (MT) + ZINCO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8172.17.1.00",
+    "Descricao": "BOTÃO SISTEMA COSTRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11603.18.1.00",
+    "Descricao": "CONJ. BRIDÃO PIRAMIDE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12325.25.1.00",
+    "Descricao": "ENF. PASSANTE EIXO DUPLO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11587.15.1.00",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1760.05.1.00",
+    "Descricao": "PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3294.40.1.00",
+    "Descricao": "FIV. MLR C/ BATOQUE SEM BANHO (MT)",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E11045.13.1.00",
+    "Descricao": "ENF. BOTAO Ø 13MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13984.00.1.00",
+    "Descricao": "ENF. REINA RB0,5 X 4 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E2746.03.1.00",
+    "Descricao": "PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0640.40.1.00",
+    "Descricao": "FIV. RETANGULO S/PINO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "8529.45.1.00",
+    "Descricao": "FIV. RETANGULO S/PINO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3330.36.1.00",
+    "Descricao": "FIV. C/LIMITADOR S/BANHO C/PINO OURO VELHO ESC.",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E14153.00.00",
+    "Descricao": "COMP. SOBREPOSTO CHAPA \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3300.35.2.00",
+    "Descricao": "FIVELA S/LIM. S/BANHO PARA FORRAR C/PINO OURO VELHO ESC.",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E8029.00.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14179.24.1.00",
+    "Descricao": "ENF. PASSANTE REDONDO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8178.12.1.00",
+    "Descricao": "BOTÃO SIST. COST. S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12167.00.1.00",
+    "Descricao": "ENF. BONECA RB1,5X3,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3365.40.1.00",
+    "Descricao": "FIV. MLR C/BATOQUE SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14257.00.00",
+    "Descricao": "COMP. SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8016.49.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12785.00.1.00",
+    "Descricao": "ENF. M MILLER RB1,5 X4MM AUTO PERF. + CTC 0174  SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3393.70.00",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3392.42.00",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E8030.00.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7428.30.1.00",
+    "Descricao": "ENF PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8040.17.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3415.20.1.00",
+    "Descricao": "FIV. ALGEMA SL LADO ESQ. \"M\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3414.20.1.00",
+    "Descricao": "FIV. ALGEMA SL LADO DIR. \"M\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3410.20.1.00",
+    "Descricao": "CONJ. FIV. ALGEMAS SL LADO DIR/ESQ \"M\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3416.25.1.00",
+    "Descricao": "FIV. ALGEMA SL LADO DIR. \"G\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3417.25.1.00",
+    "Descricao": "FIV. ALGEMA SL LADO ESQ. \"G\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3411.25.1.00",
+    "Descricao": "CONJ. FIV. ALGEMAS SL LADO DIR/ESQ \"G\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3412.16.1.00",
+    "Descricao": "FIV. ALGEMA SL LADO DIR. \"P\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3413.16.1.00",
+    "Descricao": "FIV. ALGEMA SL LADO ESQ. \"P\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14339.00.1.00",
+    "Descricao": "COMP. SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14337.58.35",
+    "Descricao": "CONJ. ARGOLA C/SOBREPOSTO OURO 23 PRIME + SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3419.16.1.00",
+    "Descricao": "CONJ. FIV. ALGEMAS SL LADO DIR/ESQ \"P\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3430.70.1.00",
+    "Descricao": "FIV. SEM BANHO C/PINO BANHADO OURO 23 PRIME",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E13036.00.1.00",
+    "Descricao": "ENF. PLACA LISA REB 0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8035.50.1.00",
+    "Descricao": "ENF PASS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F2888.18.1.00",
+    "Descricao": "FIV. C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3462.79.1.00",
+    "Descricao": "FIV. RETANGULAR SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E10772.00.1.00",
+    "Descricao": "ENF. PONTEIRA PASSANTE ESPIRAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14518.45.00",
+    "Descricao": "ENF. ARGOLA CURVADA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3485.24.00",
+    "Descricao": "FIVELA SEM BANHO C/PINO NIQUEL",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3485.24.1.00",
+    "Descricao": "FIVELA SEM BANHO C/PINO GRAFITE",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3485.24.2.00",
+    "Descricao": "FIVELA SEM BANHO C/PINO OURO 23 PRIME",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3487.60.01",
+    "Descricao": "CONJ. FIV. RETANGULAR S/BANHO + NIQUEL ",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E10425.03.1.00",
+    "Descricao": "ENFEITE TUBO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E1759.00.1.00",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E0314.04.1.00",
+    "Descricao": "ENF. PONTEIRA CILINDRICA PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3471.20.1.00",
+    "Descricao": "FIV. C/LIM. DUNE SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2890.40.1.00",
+    "Descricao": "FIV. CURVADA C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14681.00.1.84",
+    "Descricao": "ENFEITE (RB0,5 X 4,6 SEM BANHO) FREE OURO 18",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14759.25.00",
+    "Descricao": "ENF. PINGENTE SIGNO VIRGEM BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "470570.27",
+    "Descricao": "ENF. E14681.00 C/2 REB. (S/BANHO) OURO CHAMP.",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E12220.00.1.00",
+    "Descricao": "ENF. BONECA MILLER SEM BANHO + CTC 0358",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13583.00.1.00",
+    "Descricao": "ENF. MANUS. MILLER RB1,5 X 4MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3308.65.1.00",
+    "Descricao": "FIV. MEIA ARGOLA S/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E13302.25.1.00",
+    "Descricao": "ENF. PONTEIRA S/GRAVAÇAO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14901.42.00",
+    "Descricao": "ENF. QUADRO C/ TRAVESSA REB 0,5 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E7269.00.1.00",
+    "Descricao": "ENF. BASTÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0865.08.1.00",
+    "Descricao": "FIVELA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F0195.08.1.00",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E15042.08.1.00",
+    "Descricao": "ENF. PASSADOR FRIZADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15041.04.1.00",
+    "Descricao": "ENF. PONTEIRA MARTELADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15044.04.1.00",
+    "Descricao": "ENF. PASSADOR CILINDRICO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14000.00.1.00",
+    "Descricao": "ENF. BASE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14057.30.1.00",
+    "Descricao": "COMP. BASE C/BOTÃO BASE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1480.50.4.00",
+    "Descricao": "FIV. S/ BANHO C/ PINO LATÃO POLIDO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F1480.50.5.00",
+    "Descricao": "FIV. S/ BANHO C/ 2 PINOS LATÃO POLIDO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3607.09.00",
+    "Descricao": "COMP. FIV. SL C/LIM. LADO/ESQ (ABERT 9MM) BRUTA (MT)",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14936.25.1.00",
+    "Descricao": "ENF. PUXADOR ARGOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14937.43.1.00",
+    "Descricao": "ENF. PUXADOR ARGOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3606.09.00",
+    "Descricao": "COMP. FIV. SL C/LIM. LADO/DIR (ABERT 9MM) BRUTA (MT)",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E15407.30.1.00",
+    "Descricao": "ENF. PASSANTE MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15438.45.00",
+    "Descricao": "ENF. PASSANTE REINALDO LOUREÇO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F2830.30.1.00",
+    "Descricao": "FIV. C/LIM. RLT. FIXO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E15559.17.00",
+    "Descricao": "ENF. PINGENTE \"AMOR\" BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E15592.00.00",
+    "Descricao": "PINGENTE TRIANGULO C/OLHO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E15599.00.11",
+    "Descricao": "ENF. PLACA SIST. COST. FN BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13859.18.1.00",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14504.18.1.00",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15705.21.1.00",
+    "Descricao": "ENF. PASSANTE C/EIXO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15745.00.1.00",
+    "Descricao": "ENF. PIERCING C/BONECA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15746.00.1.00",
+    "Descricao": "ENF. PIERCING QUADRO C/BONECA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14202.26.1.00",
+    "Descricao": "ENF. ARGOLA SANTA LOLLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16057.00.1.00",
+    "Descricao": "ENF. PUXADOR MADRE REINA \"G\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16055.00.1.00",
+    "Descricao": "ENF. PUXADOR MADRE REINA \"P\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16056.00.1.00",
+    "Descricao": "ENF. PUXADOR MADRE REINA \"M\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16077.00.1.00",
+    "Descricao": "ENF. ELO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15978.17.1.00",
+    "Descricao": "ENF. BOTÃO MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16023.00.00",
+    "Descricao": "ENF. BOTÃO C/PREGO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16024.00.00",
+    "Descricao": "ENF. BOTÃO C/PREGO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16264.00.1.00",
+    "Descricao": "ENF. PUXADOR BONECA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16322.00.1.00",
+    "Descricao": "ENF. PINGENTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16086.00.1.00",
+    "Descricao": "ENF. LOGO SIST. COST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F2743.11.1.00",
+    "Descricao": "FIV. OVAL C/ LIM. (AB 11MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16449.00.02",
+    "Descricao": "ABRIDOR METALBURGO BRUTA (MT)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E15913.00.1.00",
+    "Descricao": "ENF. ELO MONTAGEM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16449.00.1.00",
+    "Descricao": "ABRIDOR METALBURGO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16028.06.1.00",
+    "Descricao": "CONJ. CORRENTE ELOS (6 ELOS) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0206.11.1.00",
+    "Descricao": "FIVELA C/ LIMITADOR SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16094.80.1.00",
+    "Descricao": "ENF. OVAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3067.12.1.00",
+    "Descricao": "FIV. C/ LIM. S/ BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16017.00.1.00",
+    "Descricao": "CONJ. BRIDÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16012.00.1.00",
+    "Descricao": "CONJ. BRIDÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0206.09.1.00",
+    "Descricao": "FIV. OVAL C/ LIM. S/ BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14668.20.1.00",
+    "Descricao": "ENF. BOTÃO MILLER DELUXE SEM BANHO(BASE LATÃO)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1087.12.1.00",
+    "Descricao": "FIV. C/LIM.(AB12MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16047.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"O\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16049.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"E\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16048.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"V\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16560.25",
+    "Descricao": "COMP.PASSANTE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16664.05.84",
+    "Descricao": "ENF. BOTÃO LISO RB0,5 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F2430.08.119",
+    "Descricao": "FIV. C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16050.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"Y\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16051.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16045.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"I\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16044.00.1.00",
+    "Descricao": "CONJ. PING. CHAVES \"I LOVE YOU\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3749.22.1.00",
+    "Descricao": "FIV. C/LIM. ROLETE MOVEL SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3863.20.42",
+    "Descricao": "COMP. FIV. S/LIM BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010020"
+  },
+  {
+    "Referencia": "E16035.00.1.00",
+    "Descricao": "ENF. LOGO SUNSET RB0,5 X 5MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13652.17.1.00",
+    "Descricao": "BOTÃO FLEX MILLER DLX 17MM (BASE MISTA) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16046.00.1.00",
+    "Descricao": "COMP. PING. CHAVE \"L\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16037.52.00",
+    "Descricao": "ENF. PASSANTE OVAL SANTA LOLLA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E7397.40.1.00",
+    "Descricao": "ENF PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1087.10.100",
+    "Descricao": "FIV. REDONDA C/LIMITADOR SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E17047.00.1.00",
+    "Descricao": "ENF. ANEL C/CORAÇÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16464.00.1.00",
+    "Descricao": "CONJ. ELOS + RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16965.30.00",
+    "Descricao": "CONJ. MONTAGEM 2 ELOS RETANGULOS BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "40095.09.94",
+    "Descricao": "S/BANHO PASSADOR FREE GOLD LIGHT",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14506.00.1.00",
+    "Descricao": "ENF. PUXADOR GRAV. MILLER + BONECA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16965.50.00",
+    "Descricao": "CONJ. MONTAGEM 3 ELOS RETANGULOS BRUTA",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E15295.04.1.00",
+    "Descricao": "ENF. PONTEIRA CONICA Ø4,5MM BONECA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16222.20.1.00",
+    "Descricao": "ENF. BOTÃO PRESSÃO MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3781.16.00",
+    "Descricao": "COMP. FIV. S/ BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3782.20.00",
+    "Descricao": "COMP. FIV. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16124.20.1.00",
+    "Descricao": "COMP. BASE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "8529.45.2.00",
+    "Descricao": "FIV. RETANGULO SEM BANHO C/PINO GRAFITE",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3883.40.1.00",
+    "Descricao": "CONJ. FIV. MILLER DELUXE RB1,0 X 4MM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16319.05.1.00",
+    "Descricao": "ENF. PONTEIRA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16326.20.1.00",
+    "Descricao": "BOTÃO MILLER JEANS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15789.40.1.00",
+    "Descricao": "ENF. ARGOLA MILLER JEANS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15392.30.1.00",
+    "Descricao": "ENF. ARGOLA MILLER JEANS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15614.20.1.00",
+    "Descricao": "ENF. ARGOLA MILLER DELUXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14590.35.1.00",
+    "Descricao": "ENF. MEIA ARGOLA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E10568.07.1.00",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15884.00.",
+    "Descricao": "ENF. ESCRITO MILLER RB0,5 (CHINELO) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15884.00.2.00",
+    "Descricao": "ENF. ESCRITO MILLER RB0,5 (CHINELO) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16603.45.00",
+    "Descricao": "ENF.QUADRO BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16891.05.1.00",
+    "Descricao": "ENF. PONTEIRA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3963.11.1.00",
+    "Descricao": "FIV. C/ LIM. S/ BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3957.25.00",
+    "Descricao": "CONJ. FIVELA QUADRO C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16104.03.1.00",
+    "Descricao": "ENF. PONTEIRA C/PARAF. M3X3 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3899.25.84",
+    "Descricao": "FIV. OVAL C/LIMITADOR BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F3768.09.1.00",
+    "Descricao": "FIV. C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16080.00.1.00",
+    "Descricao": "ENF. PONTEIRA CAVEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7320.16.1.00",
+    "Descricao": "BRIDÃO CONJ. S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16778.40.1.00",
+    "Descricao": "CONJ. PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12903.00.1.00",
+    "Descricao": "ENF. MLR RB1,5 X 4MM AUTO PERF.SEM BANHO+ CTC 0178",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16789.00.1.00",
+    "Descricao": "ENFEITE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E5343.04.1.00",
+    "Descricao": "REGULADOR ESTRANGULADOR C/MOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15439.15.1.00",
+    "Descricao": "CONJ. PASSANTE C/BATO.LADO DIR/ESQ SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3839.12.84",
+    "Descricao": "FIV. C/LIM. BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E16793.09.00",
+    "Descricao": "ENF. PONTEIRA OPEN BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3603.07.1.00",
+    "Descricao": "CONJ.FIV.SL LADO DIR/ESQ(ABERT 7MM)SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E16797.00.1.00",
+    "Descricao": "ENF. ESCRITO BAGS STORE C/GARRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3612.25.1.00",
+    "Descricao": "FIV. PASSANTE MILLER SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E11962.00.1.00",
+    "Descricao": "ENF. ALGEMA SL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8179.16.1.00",
+    "Descricao": "BOTÃO SIST. COST. S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1064.10.02",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18301.45.00",
+    "Descricao": "ENF. PASSADOR BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18300.45.00",
+    "Descricao": "ENF. PASSADOR BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F0858.12.1.00",
+    "Descricao": "FIV. S/ BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E17586.20",
+    "Descricao": "ENF. ARGOLA C/ TRAVESSA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16838.00.1.00",
+    "Descricao": "ENF. PIERCING \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16949.00.1.00",
+    "Descricao": "CONJ. ENFEITE RB1 X 3,6MM (50 MM) SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E16931.20.1.00",
+    "Descricao": "CONJ. BOTÃO FLEXIVEL MILLER DELUXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16934.22.1.00",
+    "Descricao": "COMP. BASE BOTÃO FLXIVEL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11870.10.1.00",
+    "Descricao": "ENF. PASSANTE CORAÇAO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17078.20.1.00",
+    "Descricao": "ENF. BOTÃO FLEXIVEL C/FURO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F4113.10",
+    "Descricao": "FIV. TRIANGULO C/LIMITADOR BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E16946.20.1.00",
+    "Descricao": "ENF. BOTÃO FLEXIVEL MILLER DELUXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14711.15.1.00",
+    "Descricao": "BOTÃO PRESSÃO ZAMAC MILLER Ø15MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7206.20.1.00",
+    "Descricao": "ENF. PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F4101.40.00.1",
+    "Descricao": "FIV. MILLER C/BATOQUE SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18167.00.01",
+    "Descricao": "ENF. PLACA MILLER JEANS SEM BANHO + CTC 0353",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18067.45.00",
+    "Descricao": "ENF. QUADRO PASSANTE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16819.15.1.00",
+    "Descricao": "ENF. PASSANTE LETRA \"I\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17660.00.1.00",
+    "Descricao": "COMP. ENCAIXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16739.00.01",
+    "Descricao": "COMP. BASE C/BATOQUE BRUTA (BORRACHA)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E8180.15.1.00",
+    "Descricao": "BOTAO SIS COST SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17439.03.1.00",
+    "Descricao": "ENF. PONTEIRA MILLER (4 FUROS) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17962.00.1.00",
+    "Descricao": "COMP. CENTRAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17963.00.1.00",
+    "Descricao": "COMP. ELO TERMINAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13930.20.1.00",
+    "Descricao": "ENF. PLACA PASSANTE BOTTERO RB0,5 X 3,6 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17888.00.1.00",
+    "Descricao": "CONJ. BULMERANGUES DIR/ESQ SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17984.01.00",
+    "Descricao": "COMP. PINGENTE MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13713.00.00.1",
+    "Descricao": "COMP. PINGENTE BONECA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18448.31.1.00",
+    "Descricao": "ENF. BOTÃO + RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18450.44.00",
+    "Descricao": "ENF. ENTREMEIO TRIANGULO BONECA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18414.00.1.00",
+    "Descricao": "COMP. CENTRAL \"B\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18493.00.1.00",
+    "Descricao": "COMP. SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1279.12.1.00",
+    "Descricao": "FIV. C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E12795.50.1.00",
+    "Descricao": "PIERCING LATÃO 50 MM ENTRE ROSCA C/ESF. Ø9MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3441.16.2.00",
+    "Descricao": "FIV. C/LIM. ABERTURA 16 SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E12768.16.1.00",
+    "Descricao": "ENF. PASSADOR LISO AB.16MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3036.19.1.00",
+    "Descricao": "FIV. C/ LIM. ROL. FIXO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18459.20.1.00",
+    "Descricao": "ENF. BOTÃO FLEXIVEL \"BE DENIM\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E2148.08.119",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13656.08.1.00",
+    "Descricao": "ENF. PONTEIRA SL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18246.00.1.00",
+    "Descricao": "CONJ. MOLDURA + LETRA M SEM BANHO + CTC 0352",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18187.00.1.00",
+    "Descricao": "ENF. PUXADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18500.00.1.00",
+    "Descricao": "ENF. PLACA + RB1,0 SEM BANHO + CTC 0356",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18501.00.1.00",
+    "Descricao": "ENF. PLACA + RB1,0 SEM BANHO + CTC 0357",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16492.20.1.00",
+    "Descricao": "ENF. BOTÃO MILLER FLEXIVEL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0826.14.1.00",
+    "Descricao": "FIV. C/LIMITADOR (AB 14MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F4181.10.1.00",
+    "Descricao": "FIV. REDONDA  C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E3155.12.119",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F4167.27.1.00",
+    "Descricao": "FIV. ELO S/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E17400.20.1.00",
+    "Descricao": "CONJ. BOTÃO FLEXIVEL MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E5121.35.1.00",
+    "Descricao": "ENF. BOTAO C/GARRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18306.11.1.00",
+    "Descricao": "ENF. REDONDO PE 3,6MM + RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18307.00.1.00",
+    "Descricao": "ENF. P/SAPATO PÉ 4MM + RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18307.00.2.00",
+    "Descricao": "ENF. P/SAPATO PÉ 3MM + RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F4136.20.1.00",
+    "Descricao": "FIV. PASSANTE C/LIM CRAVO E CANELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18449.00.1.00",
+    "Descricao": "ENF. PLACA \"CRAVO E CANELA\" PÉ 3,6MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18848.43.1.92",
+    "Descricao": "CONJ. PASSANTE SEM BANHO + SOBREPOSTO FREE OURO 10",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E18821.43.92",
+    "Descricao": "ENF. PASSANTE BIMETAL SEM BANHO + SOBREPOSTO FREE OURO 10",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18821.43.93",
+    "Descricao": "ENF. PASSANTE BIMETAL SEM BANHO + SOBREPOSTO FREE OURO CLARO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18849.43.1.00",
+    "Descricao": "COMP. PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18848.43.93",
+    "Descricao": "CONJ. PASSANTE SEM BANHO + SOBREPOSTO FREE OURO CLARO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18402.00.00",
+    "Descricao": "CONJ. BRACELETE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15556.27.1.00",
+    "Descricao": "ENF. ARGOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18547.27.1.00",
+    "Descricao": "ENF. TRANGULO PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E3016.14.2.00",
+    "Descricao": "ENFEITE BOTÃO RB 1,5 X 6MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0442.30.1.00",
+    "Descricao": "FIV. S/ BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F0991.22.1.00",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F1238.10.2.00",
+    "Descricao": "FIVELA C/LIM.  SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F1239.12.1.00",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2501.10.1.00",
+    "Descricao": "FIV. LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2594.15.1.00",
+    "Descricao": "FIV. ROL. FIXO C/ LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2806.10.1.00",
+    "Descricao": "FIV. C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2807.12.1.00",
+    "Descricao": "FIV. ROLE FIXO C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18822.43.1.00",
+    "Descricao": "COMP. PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18954.00.1.00",
+    "Descricao": "ENF. PLACA MILLER 20 X 35 SEM BANHO + CTC 0370",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13900.00.2.00",
+    "Descricao": "ENF. PLACA LISA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18845.106.1.00",
+    "Descricao": "ENF. PIERCING 106MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F4219.30.1.00",
+    "Descricao": "FIV. BONECA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18844.86.1.00",
+    "Descricao": "ENF. PIERCING 86MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18843.66.1.00",
+    "Descricao": "ENF. PIERCING 66MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18846.00.1.00",
+    "Descricao": "ENF. ARO U C/ALÇAS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18821.43.67",
+    "Descricao": "ENF. PASSANTE BIMETAL SEM BANHO + SOBREPOSTO FREE GRAFITE ESC.",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F4192.14.1.00",
+    "Descricao": "FIV. QUADRADA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3441.14.1.00",
+    "Descricao": "FIV. C/LIM. ABERTURA 14 SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E18918.00.1.00",
+    "Descricao": "ENF. ENTREMEIO TEXTURIZADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18865.00.104",
+    "Descricao": "ENF. METAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18261.03.1.00",
+    "Descricao": "ENF. PONTEIRA C/PINO ELAST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13652.17.2.00",
+    "Descricao": "BOTÃO FLEX MILLER DLX 17MM (BASE LATÃO) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18821.43.00",
+    "Descricao": "ENF. PASSANTE BIMETAL + SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18848.43.00",
+    "Descricao": "CONJ. PASSANTE + SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18977.00.119",
+    "Descricao": "ENF. PLACA TRIANGULAR MILLER SEM BANHO + CTC 0396",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18866.00.1.00",
+    "Descricao": "ENF. METAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18867.00.1.00",
+    "Descricao": "ENF. METAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14668.20.2.00",
+    "Descricao": "ENF. BOTÃO MILLER DELUXE (BASE MISTA) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18848.43.92",
+    "Descricao": "CONJ. PASSANTE SEM BANHO + SOBREPOSTO FREE OURO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E18848.43.91",
+    "Descricao": "CONJ. PASSANTE SEM BANHO + SOBREPOSTO FREE NIQUEL",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E18848.43.67",
+    "Descricao": "CONJ. PASSANTE SEM BANHO + SOBREPOSTO FREE GRAFITE ESC.",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18976.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER DELUXE (BASE LATÃO) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18976.20.1.119",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER DELUXE (BASE MISTA)  SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16094.80.119",
+    "Descricao": "ENF. OVAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18758.00.119",
+    "Descricao": "ENF. PLACA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019009.00.119",
+    "Descricao": "CONJ. PUXADOR MILLER STRASS SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E18257.00.104",
+    "Descricao": "ENF.SISTEMA COSTURA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18078.00.104",
+    "Descricao": "ENF. \"MILLER DELUXE\" PLACA SIST. COST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18527.00.104",
+    "Descricao": "ENF. PLACA MILLER SEM BANHO + CTC 0153",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "3856.04.000",
+    "Descricao": "AR FIO 1,2 X 4MM LATÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019394.19.119",
+    "Descricao": "ENF. PASSADOR ORGANICO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16900.00.119",
+    "Descricao": "ENF. PUXADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004278.29.119",
+    "Descricao": "FIV. C/LIM S/BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14548.00.119",
+    "Descricao": "ENF. PUXADOR BONECA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0826.07.119",
+    "Descricao": "FIV. C/LIMITADOR SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E2148.07.119",
+    "Descricao": "ENF. PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3014.25.119",
+    "Descricao": "FIV. C/LIM. RLT FIXO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1052.19.119",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E019815.04.119",
+    "Descricao": "ENF. PONTEIRA AMASSADA CEGA 12X7 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019813.00.119",
+    "Descricao": "ENF. PASSADOR DEBBIE 35X7 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E14879.04.119",
+    "Descricao": "ENF. PONTEIRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019798.15.119",
+    "Descricao": "ENF. ENTREMEIO TEXTURA AMASSADA 20X20 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019806.40.119",
+    "Descricao": "ENF. ARGOLA AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019810.05.119",
+    "Descricao": "ENF. METAL NIC \"P\" TEXTURA AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019489.00.119",
+    "Descricao": "ENF. CURVO CANELADO FINO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019484.04.119",
+    "Descricao": "ENF. PONTEIRA CEGA TEXTURA CANELADA FINA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019490.00.119",
+    "Descricao": "ENF. CURVO CANELADO FINO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019465.05.119",
+    "Descricao": "ENF. PONTEIRA TEXTURA CANELADA FINA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019492.06.119",
+    "Descricao": "ENF. PASSADOR CANELADO FINO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019758.00.119",
+    "Descricao": "ENF. OVAL VAZADO PÉ 4MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18495.05.119",
+    "Descricao": "ENF. PONTEIRA ORGANICA MODA PRAIA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18495.04.119",
+    "Descricao": "ENF. PONTEIRA ORGANICA VESTUARIO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1512.10.119",
+    "Descricao": "FIVELA C/LIM. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019808.11.119",
+    "Descricao": "ENF. PASSADOR QUADRADO 15X15 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019799.11.119",
+    "Descricao": "ENF. PASSADOR BARRETE 20X20 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019965.11.119",
+    "Descricao": "ENF. PASSADOR QUADRADO 15X15 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019830.09.119",
+    "Descricao": "ENF. METAL NIC \"G\" TEXTURA AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019936.00.119",
+    "Descricao": "ENF. PIERCING SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E019941.00.119",
+    "Descricao": "ENF. PIERCING CURVADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019737.19.119",
+    "Descricao": "ENF. BOTÃO FLEX. FORUM S/BASE FLEX. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16900.00.1.119",
+    "Descricao": "ENF. PUXADOR C/CURSOR 5 NYLON ITALIANO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019803.26.119",
+    "Descricao": "ENF. METAL BECKY BANDEAU SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019804.26.119",
+    "Descricao": "ENF. METAL BECKY TEXTURA GROSSA C/ALÇA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F2588.10.119",
+    "Descricao": "FIV. C/ LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F1303.10.119",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019800.11..119",
+    "Descricao": "ENF. PASSADOR RAJADO 20X20 S/VIBRO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18413.00.119",
+    "Descricao": "CONJ. BRIDÃO ENCAIXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E16860.16.119",
+    "Descricao": "CONJ. MONTAGEM BRIDÃO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019964.00.000",
+    "Descricao": "ENF. PLACA ALVO PÉ BX 0,5 BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019814.06.119",
+    "Descricao": "ENF. TUBO BARRETE AMASSADO PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019805.40.119",
+    "Descricao": "ENF. ARGOLA TEXTURA FINA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019749.00.119",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. SEM BANHO +CTC0396",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019800.11.119",
+    "Descricao": "ENF. PASSADOR RAJADO 20X20 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019807.11.119",
+    "Descricao": "ENF. PASSADOR QUADRADO 20X20 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13619.00.119",
+    "Descricao": "ENF. PUXADOR LAFORT SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E8023.20.119",
+    "Descricao": "ENF PASS CONCHA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019716.07.119",
+    "Descricao": "ENF. REBITE C/GRAV.\"F\" C/PREGO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019721.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. FORUM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP12220.00.119",
+    "Descricao": "CP. BONECA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019982.10.000",
+    "Descricao": "ENF. PING. \"P\" BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019983.12.000",
+    "Descricao": "ENFEITE PINGENTE \"P\" BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019981.00.000",
+    "Descricao": "ENF. MEDALHA \"R\" BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP18167.00.01",
+    "Descricao": "CP. PLACA MILLER JEANS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019352.00.119",
+    "Descricao": "COMP. PING. TRIANGULO MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019353.00.119",
+    "Descricao": "COMP. REMANCHE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019354.31.119",
+    "Descricao": "COMP. BASE PASSADOR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004258.30.119",
+    "Descricao": "COMP. FIV. S/LIM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020087.00.119",
+    "Descricao": "COMP. MOLDE PEDRA DE RESINA ESQ. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004355.40.099",
+    "Descricao": "FIV. QUADRADA C/LIM SEM BANHO+PINO FREE NIQUEL",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004355.40.119",
+    "Descricao": "FIV. QUADRADA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020088.00.119",
+    "Descricao": "COMP. MOLDE PEDRA DE RESINA DIR. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019612.00.119",
+    "Descricao": "COMP. SOBREP. M SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019613.00.119",
+    "Descricao": "COMP. BASE MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020085.00.119",
+    "Descricao": "E020085 MOLDE PEDRA DE RESINA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020084.00.119",
+    "Descricao": "E020084 PEDRA MOLDE PARA RESINA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019610.00.119",
+    "Descricao": "COMP. SOBREP. BONECA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019611.00.119",
+    "Descricao": "COMP. BASE MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP019749.00.119",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019204.00.119",
+    "Descricao": "COMP. TERMINAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019205.00.119",
+    "Descricao": "COMP. P/ MONTAGEM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019206.00.119",
+    "Descricao": "COMP. CENTRAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019207.00.119",
+    "Descricao": "COMP. P/REMANCHE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019436.25.119",
+    "Descricao": "COMP. BASE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019437.00.119",
+    "Descricao": "COMP. LETRA M SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019438.00.119",
+    "Descricao": "COMP. LETRA I SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019439.00.119",
+    "Descricao": "COMP. LETRA L SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019440.00.119",
+    "Descricao": "COMP. LETRA E SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019441.00.119",
+    "Descricao": "COMP. LETRA R SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004276.25.119",
+    "Descricao": "FIV. MILLER SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E019550.20.119",
+    "Descricao": "COMP. BASE SEM BANHO (BASE MISTA)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019551.00.119",
+    "Descricao": "COMP. SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP18527.00.104",
+    "Descricao": "CP. PLACA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP18977.00.119",
+    "Descricao": "CP. PLACA TRIANGULAR MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP14711.15.1.00",
+    "Descricao": "CP. BOTÃO PRESSÃO MILLER Ø15MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3427.19.119",
+    "Descricao": "FIV. C/ROLETE FIXO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020283.00.119",
+    "Descricao": "COMP. LADO DIR. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020282.00.119",
+    "Descricao": "COMP. LADO ESQ. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020281.00.119",
+    "Descricao": "COMP. ALÇA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020070.00.119",
+    "Descricao": "COMP. BASE \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020071.12.119",
+    "Descricao": "COMP. ESFERA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP019620.20.119",
+    "Descricao": "CP. BOTÃO COLCHETE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019620.20.119",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020203.16.119",
+    "Descricao": "COMP. ARGOLA ORGANICA S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020204.17.119",
+    "Descricao": "COMP. QUADRADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020205.00.119",
+    "Descricao": "COMP. P/REMANCHE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020206.00.119",
+    "Descricao": "COMP. CHAPA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E11043.24.119",
+    "Descricao": "ENF. BOTAO Ø 24MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12356.20.119",
+    "Descricao": "ENF. BOTAO Ø 20MM SIST. COST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020412.00.119",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER SEM BANHO+CTC0459",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020510.00.119",
+    "Descricao": "COMP. CHAPA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15520.00.119",
+    "Descricao": "CONJ. PLACA LOGO \"VT\" REB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15247.00.119",
+    "Descricao": "ENF. P/BONÉ CB REB0,5 \"G\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004392.20.119",
+    "Descricao": "FIV. RETANGULAR MILLER DELUXE SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020426.40.119",
+    "Descricao": "COMP. SOBREPOSTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP020412.00.119",
+    "Descricao": "CP. PLACA TRIANGULO MILLER SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020427.00.119",
+    "Descricao": "COMP. BASE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020425.40.119",
+    "Descricao": "ENF. BIMETAL P/BONE \"C BOY\"+RB0,5 SEM BANHO+CTC0460",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019282.10.119",
+    "Descricao": "CONJ. MONTAGEM BRIDÃO SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E020438.00.119",
+    "Descricao": "COMP. BASE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020439.00.119",
+    "Descricao": "COMP. ESFERA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7322.16.119",
+    "Descricao": "BRIDÃO STRASS EM TODA PEÇA S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020507.00.119",
+    "Descricao": "COMP. TERMINAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020508.00.119",
+    "Descricao": "COMP. CENTRAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020509.00.119",
+    "Descricao": "COMP. P/REMANCHE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019956.00.119",
+    "Descricao": "ENF. ENTREMEIO NÓ SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17870.00.1.00",
+    "Descricao": "ENF. PIRCING SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020370.00.119",
+    "Descricao": "COMP. SPIKE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020371.00.119",
+    "Descricao": "COMP. REDONDO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020651.00.119",
+    "Descricao": "COMP. CHAPA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020650.00.119",
+    "Descricao": "COMP. ALÇA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020649.00.119",
+    "Descricao": "COMP. P/REMANCHE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020051.08.119",
+    "Descricao": "ENF. PASSANTE C/GRAV.\"DD\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0580.08.119",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004362.10.119",
+    "Descricao": "FIV. OVAL C/GRAV. \"BB\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020716.00.119",
+    "Descricao": "ENF. PLACA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020715.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020655.39.119",
+    "Descricao": "ENF. BARRETE AMASSADO (ALTURA 4MM) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020654.00.119",
+    "Descricao": "ENF. CANTONEIRA NIXIE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020678.05.119",
+    "Descricao": "COMP. \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020679.05.119",
+    "Descricao": "COMP. BOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020677.05.119",
+    "Descricao": "CONJ. METAL BOLA C/ \"U\" FURO PEQUENO SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E020681.07.119",
+    "Descricao": "COMP. \"U\" S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020682.07.119",
+    "Descricao": "COMP. BOLA S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020680.07.119",
+    "Descricao": "CONJ. METAL BOLA C/ \"U\" SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E020687.27.119",
+    "Descricao": "COMP. \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004488.30.000",
+    "Descricao": "FIV. C/RLT FIXO BRUTA",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E020688.16.119",
+    "Descricao": "COMP. BOLA (VIX) S/ BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020686.27.119",
+    "Descricao": "CONJ. METAL BOLA C/ \"U\" FURO GRANDE SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP15099.00.119",
+    "Descricao": "CP. BONECA BONÉ AUTO.PERF. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15099.00.119",
+    "Descricao": "ENF. BONECA BONÉ AUTO PERF. SEM BANHO+CTC0474",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020661.00.119",
+    "Descricao": "ENF. METAL AMASSADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020819.07.119",
+    "Descricao": "ENF. REBITE C/GRAV.\"F\"+RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020927.07.119",
+    "Descricao": "ENF. BOLA NANCY AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020642.07.119",
+    "Descricao": "ENF. PASSADOR ORGANICO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020662.05.119",
+    "Descricao": "ENF. PONTEIRA PASSANTE AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020663.43.119",
+    "Descricao": "ENF. ARGOLA JOY AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020684.33.119",
+    "Descricao": "COMP. \"U\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020685.24.119",
+    "Descricao": "COMP. BOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020683.33.119",
+    "Descricao": "CONJ. METAL BOLA C/ \"U\" SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E020926.05.119",
+    "Descricao": "ENF. BOLA NANCY AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3965.09.119",
+    "Descricao": "FIV. C/ LIM. (9MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020928.21.119",
+    "Descricao": "ENF. TUBO AMASSADO BIA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020930.38.119",
+    "Descricao": "ENF. PASSADOR C/2FUROS (ALTURA 7MM) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020884.00.119",
+    "Descricao": "CP. PLACA MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020883.00.119",
+    "Descricao": "ENF. PLACA MILLER SEM BANHO+CTC0473",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020875.18.000",
+    "Descricao": "COMP. ELO FECHADO BRUTA MT",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020872.18.000",
+    "Descricao": "COMP. ELO ABERTO BRUTA MT",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17604.05.119",
+    "Descricao": "ENF. PONTEIRA AMASSADA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020900.22.119",
+    "Descricao": "ENF. MONTAGEM ARGOLAS ORGANICAS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019193.00.119",
+    "Descricao": "ENF. PLACA MILLER SIST. COST. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020897.67.119",
+    "Descricao": "ENF. ARO GRANDE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020896.57.119",
+    "Descricao": "ENF. ARO PEQUENO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020895.13.119",
+    "Descricao": "ENF. TUBO \"P\" ORGANICO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020898.17.119",
+    "Descricao": "ENF. PASSANTE ARGOLAS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020901.22.119",
+    "Descricao": "ENF. MONTAGEM ARGOLAS ORGANICAS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019793.00.119",
+    "Descricao": "ENF. PLACA REDONDA MLR SEM BANHO+CTC0432",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP019793.00.119",
+    "Descricao": "CP. PLACA REDONDA MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020899.16.119",
+    "Descricao": "ENF. PASSANTE ARGOLAS SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020652.08.119",
+    "Descricao": "ENF. PASSADOR AMASSADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019549.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. BIMETAL MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020963.00.119",
+    "Descricao": "ENF. METAL ENTREMEIO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020966.09.119",
+    "Descricao": "ENF. BARRETE PASSANTE KIT CASSIA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020968.00.119",
+    "Descricao": "ENF. ENTREMEIO ARO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020967.00.119",
+    "Descricao": "ENF. ENTREMEIO ARO C/ALÇA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020960.00.119",
+    "Descricao": "ENF. METAL C/DOBRA ASSIMETRICO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020961.00.119",
+    "Descricao": "ENF. METAL C/DOBRA SIMETRICO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020959.00.119",
+    "Descricao": "ENF. METAL C/DOBRA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020244.00.119",
+    "Descricao": "ENF. PING. MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E12765.23.119",
+    "Descricao": "ENF. PASSADOR LISO AB.23MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020962.00.119",
+    "Descricao": "ENF. ENTREMEIO \"U\" C/ALÇA LATERAL SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020964.08.119",
+    "Descricao": "ENF. BARRETE PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F2419.23.119",
+    "Descricao": "FIVELA C/LIM. RLT MOVEL CHAPA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "CP021256.00.119",
+    "Descricao": "CP. BONECA GRANDE PÉ DE ESTALAR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021256.00.119",
+    "Descricao": "ENF. BONECA GRANDE PÉ DE ESTALAR SEM BANHO+CTC0478",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021134.00.000",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.000",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP17444.00.119",
+    "Descricao": "CP. ESCRITO MILLER SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17444.00.119",
+    "Descricao": "ENF. ESCRITO MILLER SEM BANHO+ CTC 0348",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP019793.24.119",
+    "Descricao": "CP. PLACA REDONDA MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019793.24.119",
+    "Descricao": "ENF. PLACA REDONDA MLR SEM BANHO+CTC0432",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021245.15.119",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021246.00.119",
+    "Descricao": "ENF. LOGO ALME PÉ BX+RB0,5 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F0528.09.119",
+    "Descricao": "FIV. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "9692.00.119",
+    "Descricao": "ENF. TRIANGULO ABERTO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E2390.09.119",
+    "Descricao": "PASSADOR ALT.4MM X 9 C/LIXA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "9138.07.00",
+    "Descricao": "ENF. PONTEIRA BRUTA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E10886.08.119",
+    "Descricao": "ENF. BOTÃO ZAMAC ANIMALE Ø 8MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F1238.10.119",
+    "Descricao": "FIVELA S/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E15792.27.119",
+    "Descricao": "CONJ. PASSANTE C/ALÇAS VERTICAL \"P\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E15793.38.119",
+    "Descricao": "CONJ. PASSANTE C/ALÇAS VERTICAL \"M\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E15794.50.119",
+    "Descricao": "CONJ. PASSANTE C/ALÇAS VERTICAL \"G\" SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E021314.00.119",
+    "Descricao": "ENF. ENTREMEIO C/CARACOL NO CENTRO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E020667.30.119",
+    "Descricao": "ENF. PASSANTE MARTELADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13275.07.119",
+    "Descricao": "CONJ. CORRENTE ELOS (7CM) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020415.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER JEANS DELUXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019191.00.119",
+    "Descricao": "CONJ. MONTAGEM ARTICULADO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15478.10.119",
+    "Descricao": "CONJ. BRIDÃO MONTAGEM (10,5 CM) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17240.14.119",
+    "Descricao": "CONJ. MONTAGEM CORRENTES SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021315.00.119",
+    "Descricao": "ENF. ENTREMEIO C/CARACOL NO CENTRO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP16949.00.119",
+    "Descricao": "CP. ENFEITE RB1 X 3,6MM (50 MM) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020970.15.119",
+    "Descricao": "ENF. PING. MILLER JEANS DELUXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021524.04.119",
+    "Descricao": "ENF. PUXADOR C/GRAV.\"B\" (C/CURSOR FORNECIDO) SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004584.22.119",
+    "Descricao": "FIV. OVAL C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E17025.30.119",
+    "Descricao": "CONJ. PASSANTE MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15851.20.119",
+    "Descricao": "ENF. \"M\" PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15853.20.119",
+    "Descricao": "ENF. \"L\" PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15855.20.119",
+    "Descricao": "ENF. \"R\" PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019233.10.119",
+    "Descricao": "COMP. PING, PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020718.00.119",
+    "Descricao": "ENF. \"CC\" PÉ BX+RB0,5 SEM BANHO+ARRUELA",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP020718.00.119",
+    "Descricao": "CP. \"CC\" PÉ BX SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019695.00.119",
+    "Descricao": "ENF. REBITE \"CC\" C/PREGO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E019426.25.119",
+    "Descricao": "ENF. ENCAIXE SEM BANHO (PROJEÇÃO PEÇA)",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004517.29.119",
+    "Descricao": "FIV. C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "CP021101.20.119",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021101.20.119",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. SEM BANHO+CTC0494",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18671.00.119",
+    "Descricao": "ENF. BONECA SEM BANHO + CTC 0403",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021532.06.119",
+    "Descricao": "ENF. PUXADOR \"HUSH PUPPIES\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP18671.00.119",
+    "Descricao": "CP. BONECA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021791.14.119",
+    "Descricao": "ENF. PEDRA \"G\" AMASSADA PÉ 3MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021790.12.119",
+    "Descricao": "ENF. PEDRA \"M\" AMASSADA PÉ 3MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021789.09.119",
+    "Descricao": "ENF. PEDRA \"P\" AMASSADA PÉ 3MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020829.00.119",
+    "Descricao": "ENF. PLACA MILLER PÉ/AUTOPERF. SEM BANHO+CTC0395",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP020829.00.119",
+    "Descricao": "CP. PLACA MILLER PÉ/AUTOPERF. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E15896.08.119",
+    "Descricao": "BOTÃO ABAULADO PÉ 3,5MM X RB0,5 Ø8MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E7091.05.119",
+    "Descricao": "PONTEIRA C/M3 X 4 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004642.18.119",
+    "Descricao": "FIV. RLT FIXO C/PASSANTE SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004647.20.119",
+    "Descricao": "FIV. QUADRADA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004647.25.119",
+    "Descricao": "FIV. QUADRADA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2829.20.119",
+    "Descricao": "FIV. C/LIM. RLT FIXO SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004642.25.119",
+    "Descricao": "FIV. RLT FIXO C/PASSANTE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP004471.25.119",
+    "Descricao": "CP. FIV. OPEN SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2353.25.119",
+    "Descricao": "FIVELA SEM BANHO PINO FREE OURO 15",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP2353.25.119",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004280.20.119",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E2290.15.119",
+    "Descricao": "ARGOLA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F1261.07.119",
+    "Descricao": "FIV. OVAL C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3657.20.119",
+    "Descricao": "FIV. QUADRADA C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F4099.08.119",
+    "Descricao": "FIV. C/ LIM. (8MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004286.12.119",
+    "Descricao": "FIV. C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3985.07.119",
+    "Descricao": "FIV. C/LIM. (ABERT.7MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3985.12.119",
+    "Descricao": "FIV. C/ LIM. (ABERT.12MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E14235.07.119",
+    "Descricao": "ENF. BOTÃO REB 1,0 X 6MM SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP18953.00.119",
+    "Descricao": "CP. PLACA MILLER 45 X 20 SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E18953.00.119",
+    "Descricao": "ENF. PLACA MILLER 45 X 20 SEM BANHO + CTC 0525",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E7246.15.119",
+    "Descricao": "ENFEITE VIX SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E13786.00.119",
+    "Descricao": "ENF. MISSANGA REMANCHE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020365.09.119",
+    "Descricao": "ENF. BRIDÃO SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F0222.09.119",
+    "Descricao": "FIV. OVAL C/ LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F1261.10.119",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2958.15.119",
+    "Descricao": "FIV. C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3965.07.119",
+    "Descricao": "FIV. C/ LIM. (7MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F4099.09.119",
+    "Descricao": "FIV. C/ LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004286.15.119",
+    "Descricao": "FIV. C/ LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F0911.12.119",
+    "Descricao": "FIV. RLT FIXO C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2743.09.119",
+    "Descricao": "FIV. OVAL (9MM ABERT.) C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2430.07.119",
+    "Descricao": "FIVELA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2430.09.119",
+    "Descricao": "FIVELA C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E2391.09.119",
+    "Descricao": "PASSADOR FIVELA ATL. 5,5MM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "CP022537.00.119",
+    "Descricao": "CP. PLACA TRIANGULAR MILLER PARIS PÉ ESTALAR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022537.00.119",
+    "Descricao": "ENF. PLACA TRIANGULAR MILLER PARIS PÉ ESTALAR SEM BANHO+CTC0528",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004711.08.119",
+    "Descricao": "FIV. C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004711.21.119",
+    "Descricao": "FIV. C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F0222.08.119",
+    "Descricao": "FIV. C/ LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F0249.11.119",
+    "Descricao": "FIVELA SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "CP022575.00.119",
+    "Descricao": "CP. PLACA MILLER DLX 20X35 PÉ ESTALAR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022575.00.119",
+    "Descricao": "ENF. PLACA MILLER DLX 20X35 PÉ ESTALAR SEM BANHO+CTC0530",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022040.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER DLX. SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022369.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004705.16.119",
+    "Descricao": "FIV. PASSANTE MLR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17452.00.119",
+    "Descricao": "ENF. PING. C/BONECA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17451.00.119",
+    "Descricao": "ENF. PING. C/BONECA SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E5236.00.119",
+    "Descricao": "PUXADOR GRANDE SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004747.20.119",
+    "Descricao": "FIV. PASSANTE MILLER DLX SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F0368.10.119",
+    "Descricao": "FIV. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3947.08.119",
+    "Descricao": "FIV. OVAL C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3965.08.119",
+    "Descricao": "FIV. C/ LIM. (8MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3965.12.119",
+    "Descricao": "FIV. C/ LIM. (12MM) SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F004584.20.119",
+    "Descricao": "FIV. OVAL C/LIM SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F3748.10.119",
+    "Descricao": "FIV. C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "F2430.10.119",
+    "Descricao": "FIV. C/LIM. SEM BANHO",
+    "Categoria": "40_20_010_FIVELA PINO BRUTA",
+    "Classificacao": "4020010010"
+  },
+  {
+    "Referencia": "E0967.35.119",
+    "Descricao": "ENFEITE QUADRO SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP023012.00.119",
+    "Descricao": "CP. PLACA M PÉ ESTALAR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E023012.00.119",
+    "Descricao": "ENF. PLACA M PÉ ESTALAR SEM BANHO+CTC0554",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022453.00.119",
+    "Descricao": "COMP. PING. \"J\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022379.00.119",
+    "Descricao": "COMP. PING. \"C\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E023190.23.119",
+    "Descricao": "COMP. MONTAGEM CORR.4256+AR SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E023191.32.119",
+    "Descricao": "COMP. MONTAGEM CORR.4256+AR+LETRAS \"MLR\" SEM BANHO",
+    "Categoria": "40_20_020_ETIQ. TRIANGULO LUCIANA GIMENEZ BRUTA",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E023189.00.119",
+    "Descricao": "CONJ. MONTAGEM C/CORR.4256+LETRAS \"MLR\" SEM BANHO",
+    "Categoria": "40_40_020_CONJ. PIRAMIDE BRUTA",
+    "Classificacao": "4040020010"
   }
 ]
