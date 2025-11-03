@@ -237,15 +237,23 @@ function obterProdutosFiltrados() {
         });
 }
 
-
-// 🔹 Atualizar produtos e paginação
 function atualizarProdutos() {
-    let listaFiltrada = obterProdutosFiltrados();
-    totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
-    grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
+  let listaFiltrada = obterProdutosFiltrados();
 
-    exibirProdutos(listaFiltrada);
-    criarPaginacao(listaFiltrada);
+  // 🔹 Remove duplicados pela imagem
+  const vistos = new Set();
+  listaFiltrada = listaFiltrada.filter(p => {
+    const url = encontrarImagem(p.Referencia);
+    if (vistos.has(url)) return false;
+    vistos.add(url);
+    return true;
+  });
+
+  totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
+  grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
+
+  exibirProdutos(listaFiltrada);
+  criarPaginacao(listaFiltrada);
 }
 
 // 🔹 Buscar categorias
