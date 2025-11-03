@@ -221,21 +221,22 @@ function toggleCategoria(categoria, selecionado) {
 }
 
 function obterProdutosFiltrados() {
-    const termosProibidos = ["ouro", "níquel", "niquel", "grafite", "gold", "latão", "latao", "zinco", "dourado"];
-
     return produtos
-        .filter(p => categoriasSelecionadas.size === 0 || categoriasSelecionadas.has(p.CategoriaLimpa))
+        .filter(p =>
+            categoriasSelecionadas.size === 0 ||
+            categoriasSelecionadas.has(p.CategoriaLimpa)
+        )
         .filter(p => {
-            let buscaNome = !termoBusca.trim() || 
-                (String(p.Referencia ?? "").toLowerCase().includes(termoBusca.toLowerCase())) ||
-                (String(p.Descricao ?? "").toLowerCase().includes(termoBusca.toLowerCase()));
-            return buscaNome;
-        })
-        .filter(p => {
-            const descricao = String(p.Descricao ?? "").toLowerCase();
-            return !termosProibidos.some(termo => descricao.includes(termo));
+            const ref = String(p.Referencia ?? "").toLowerCase();
+            const desc = String(p.Descricao ?? "").toLowerCase();
+            const termo = termoBusca.toLowerCase().trim();
+
+            if (!termo) return true;
+
+            return ref.includes(termo) || desc.includes(termo);
         });
 }
+
 
 // 🔹 Atualizar produtos e paginação
 function atualizarProdutos() {
