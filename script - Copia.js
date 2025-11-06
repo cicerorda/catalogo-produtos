@@ -7,23 +7,13 @@ let termoBusca = "";
 let grupoAtual = 1;
 const botoesPorGrupo = 10;
 let totalPaginas = 0;
-
 let listaImagens = [];
-let mapaImagemPorNomeLimpo = new Map(); // 🆕 mapa rápido nome → url
 
 const BASE_IMAGEKIT_URL = "https://ik.imagekit.io/t7590uzhp/imagens/";
-const URL_SEM_IMAGEM = "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg";
-
-// Cache de variantes e de imagem por referência
-const cacheVariantes = new Map();
-const cacheImagemPorRef = new Map(); // 🆕 cache ref → url
-
-// Listas auxiliares para paginação com deduplicação por imagem
-let listaFiltradaAtual = [];         // tudo filtrado
-let listaFiltradaSemDuplicatas = []; // filtrado + 1 por imagem
-
 
 console.log("✅ script.js foi carregado!");
+
+const cacheVariantes = new Map();
 
 function gerarVariantesComCache(ref) {
   if (cacheVariantes.has(ref)) return cacheVariantes.get(ref);
@@ -91,10 +81,14 @@ function gerarVariantes(ref) {
   return Array.from(variantes);
 }
 
-function encontrarImagem(ref) {
+const cacheImagemPorRef = new Map();
+
+const URL_SEM_IMAGEM = "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg";
+
+function encontrarImagem(ref, imagens = listaImagens) {
   if (!ref) return URL_SEM_IMAGEM;
 
-  // Cache: mesma referência → mesma URL
+  // Se já calculamos para essa referência, usa do cache
   if (cacheImagemPorRef.has(ref)) {
     return cacheImagemPorRef.get(ref);
   }
@@ -103,9 +97,12 @@ function encontrarImagem(ref) {
   let urlEncontrada = URL_SEM_IMAGEM;
 
   for (const v of variantes) {
-    const url = mapaImagemPorNomeLimpo.get(v); // consulta no Map
-    if (url) {
-      urlEncontrada = url;
+    const img = imagens.find((img) =>
+      limparTexto(img.nome) === v ||
+      (img.nome_limpo && img.nome_limpo === v)
+    );
+    if (img) {
+      urlEncontrada = img.url;
       break;
     }
   }
@@ -113,6 +110,7 @@ function encontrarImagem(ref) {
   cacheImagemPorRef.set(ref, urlEncontrada);
   return urlEncontrada;
 }
+
 
 fetch("imagens.json")
   .then(res => {
@@ -148,15 +146,6 @@ fetch("imagens.json")
       ...img,
       nome_limpo: processarNomeImagem(img.nome)
     }));
-
-    // 🆕 monta mapa nome_limpo → url para busca O(1)
-    mapaImagemPorNomeLimpo = new Map();
-    listaImagens.forEach(img => {
-      if (img.nome_limpo) {
-        mapaImagemPorNomeLimpo.set(img.nome_limpo, img.url);
-      }
-    });
-
     console.log("🔍 Imagens carregadas:", listaImagens);
     imagensCarregadas = true;
 
@@ -268,32 +257,15 @@ function obterProdutosFiltrados() {
         });
 }
 
+
 // 🔹 Atualizar produtos e paginação
 function atualizarProdutos() {
-  // 1) aplica filtros (categoria + busca)
-  listaFiltradaAtual = obterProdutosFiltrados();
+    let listaFiltrada = obterProdutosFiltrados();
+    totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
+    grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
 
-  // 2) remove duplicados por URL de imagem na lista inteira filtrada
-  const urlsVistas = new Set();
-  listaFiltradaSemDuplicatas = [];
-
-  for (const produto of listaFiltradaAtual) {
-    const url = encontrarImagem(produto.Referencia);
-
-    if (!urlsVistas.has(url)) {
-      urlsVistas.add(url);
-      listaFiltradaSemDuplicatas.push(produto);
-    }
-  }
-
-  // 3) calcula paginação em cima da lista SEM duplicatas
-  totalPaginas = Math.ceil(listaFiltradaSemDuplicatas.length / itensPorPagina);
-  if (paginaAtual > totalPaginas) paginaAtual = 1; // segurança
-  grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
-
-  // 4) exibe e desenha paginação
-  exibirProdutos(listaFiltradaSemDuplicatas);
-  criarPaginacao(listaFiltradaSemDuplicatas);
+    exibirProdutos(listaFiltrada);
+    criarPaginacao(listaFiltrada);
 }
 
 // 🔹 Buscar categorias
@@ -370,14 +342,14 @@ function criarBotao(texto, funcao) {
 
 // 🔹 Mudar grupo de páginas
 function mudarGrupo(novoGrupo) {
-  grupoAtual = novoGrupo;
-  criarPaginacao(listaFiltradaSemDuplicatas);
+    grupoAtual = novoGrupo;
+    criarPaginacao(obterProdutosFiltrados());
 }
 
+// 🔹 Mudar de página mantendo filtros ativos
 function mudarPagina(pagina) {
-  paginaAtual = pagina;
-  exibirProdutos(listaFiltradaSemDuplicatas);
-  criarPaginacao(listaFiltradaSemDuplicatas);
+    paginaAtual = pagina;
+    atualizarProdutos();
 }
 
 // 🔹 Toggle da lista de categorias
@@ -456,7 +428,22 @@ function exibirProdutos(lista) {
   container.innerHTML = "";
 
   const inicio = (paginaAtual - 1) * itensPorPagina;
-  const produtosPagina = lista.slice(inicio, inicio + itensPorPagina);
+  const fim = inicio + itensPorPagina;
+  const paginaBruta = lista.slice(inicio, fim);
+
+  // Remove duplicados por URL de imagem dentro da página
+  const urlsVistas = new Set();
+  const produtosPagina = [];
+
+  paginaBruta.forEach(produto => {
+    const urlImg = encontrarImagem(produto.Referencia);
+
+    if (!urlsVistas.has(urlImg)) {
+      urlsVistas.add(urlImg);
+      // guardamos a url para não precisar chamar encontrarImagem de novo
+      produtosPagina.push({ ...produto, _imagemUrl: urlImg });
+    }
+  });
 
   if (!produtosPagina.length) {
     container.innerHTML = `<p class="mensagem-nenhum-produto">Nenhum produto encontrado.</p>`;
@@ -467,7 +454,7 @@ function exibirProdutos(lista) {
     const card = document.createElement("div");
     card.classList.add("card");
 
-    const caminhoImagem = encontrarImagem(produto.Referencia);
+    const caminhoImagem = produto._imagemUrl || encontrarImagem(produto.Referencia);
 
     card.innerHTML = `
       <div class="image-container">
@@ -484,7 +471,6 @@ function exibirProdutos(lista) {
     container.appendChild(card);
   });
 }
-
 
 function atualizarCarrinho() {
     const cartContainer = document.getElementById("cart-items");
@@ -577,52 +563,26 @@ function baixarPesquisaEmPDF() {
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" });
 
-    // 🟡 Base para o PDF:
-    // se já temos a lista sem duplicatas (tela atual), reaproveita
-    // se não, cai para obterProdutosFiltrados() como fallback
-    let baseLista = (Array.isArray(listaFiltradaSemDuplicatas) && listaFiltradaSemDuplicatas.length)
-        ? listaFiltradaSemDuplicatas
-        : obterProdutosFiltrados();
-
-    if (!baseLista.length) {
+    let listaFiltrada = obterProdutosFiltrados();
+    if (!listaFiltrada.length) {
         alert("Nenhum item encontrado.");
         return;
     }
 
-    // 🟢 Remove duplicados por imagem também no PDF
-    const urlsVistas = new Set();
-    const listaSemDuplicatas = [];
-
-    for (const produto of baseLista) {
-        const urlImg = encontrarImagem(produto.Referencia);
-
-        if (!urlsVistas.has(urlImg)) {
-            urlsVistas.add(urlImg);
-            listaSemDuplicatas.push(produto);
-        }
-    }
-
-    if (!listaSemDuplicatas.length) {
-        alert("Nenhum item encontrado.");
-        return;
-    }
-
-    // 📝 Cabeçalho
     doc.setFont("helvetica", "bold");
     doc.setFontSize(18);
     doc.text("Catálogo de Produtos", 10, 15);
 
     let x = 10, y = 25;
-    const larguraCard = 62;
-    const alturaCard = 62;
-    const imgMaxLargura = 50;
-    const imgMaxAltura = 30;
-    const espacamentoX = 3;
-    const espacamentoY = 3;
-    const colunas = 3;
+    let larguraCard = 62;    
+    let alturaCard = 62;
+    let imgMaxLargura = 50;
+    let imgMaxAltura = 30;
+    let espacamentoX = 3;
+    let espacamentoY = 3;
+    let colunas = 3;
 
-    // 🔄 Carrega imagens de todos os produtos (sem duplicatas)
-    const promessas = listaSemDuplicatas.map(produto => {
+    const promessas = listaFiltrada.map(produto => {
         return new Promise(resolve => {
             const img = new Image();
             img.crossOrigin = "anonymous";
@@ -634,11 +594,9 @@ function baixarPesquisaEmPDF() {
 
     Promise.all(promessas).then(resultados => {
         resultados.forEach(({ produto, img }, index) => {
-            // Card de fundo
             doc.setFillColor(245, 245, 245);
-            doc.roundedRect(x, y, larguraCard, alturaCard, 3, 3, "FD");
+            doc.roundedRect(x, y, larguraCard, alturaCard, 3, 3, 'FD');
 
-            // Imagem (se carregou)
             if (img) {
                 const canvas = document.createElement("canvas");
                 canvas.width = img.width;
@@ -647,10 +605,8 @@ function baixarPesquisaEmPDF() {
                 ctx.drawImage(img, 0, 0);
                 const base64 = canvas.toDataURL("image/jpeg");
 
-                const escala = Math.min(
-                    imgMaxLargura / img.width,
-                    imgMaxAltura / img.height
-                );
+                // Proporcional
+                const escala = Math.min(imgMaxLargura / img.width, imgMaxAltura / img.height);
                 const imgLarguraAjustada = img.width * escala;
                 const imgAlturaAjustada = img.height * escala;
 
@@ -671,10 +627,7 @@ function baixarPesquisaEmPDF() {
             doc.text((produto.Referencia || "Sem Referência").toString(), x + 5, textoY);
 
             doc.setFont("helvetica", "normal");
-            const desc = doc.splitTextToSize(
-                (produto.Descricao || "Sem Descrição").toString(),
-                larguraCard - 10
-            );
+            const desc = doc.splitTextToSize((produto.Descricao || "Sem Descrição").toString(), larguraCard - 10);
             doc.text(desc, x + 5, textoY + 5);
 
             doc.setFont("helvetica", "italic");
@@ -682,7 +635,7 @@ function baixarPesquisaEmPDF() {
             doc.setTextColor(100);
             doc.text(`Cat: ${(produto.CategoriaLimpa || "Sem Categoria")}`, x + 5, textoY + 15);
 
-            // Próximo card (3 colunas)
+            // Posicionamento para 3 colunas
             if ((index + 1) % colunas === 0) {
                 x = 10;
                 y += alturaCard + espacamentoY;
@@ -690,7 +643,6 @@ function baixarPesquisaEmPDF() {
                 x += larguraCard + espacamentoX;
             }
 
-            // Próxima página se precisar
             if (y + alturaCard > 295) {
                 doc.addPage();
                 y = 25;
