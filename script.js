@@ -92,7 +92,7 @@ function encontrarImagem(ref, imagens = listaImagens) {
   return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg";
 }
 
-fetch("imagens.json")
+fetch("https://cicerorda.github.io/catalogo-produtos/imagens.json")
   .then(res => {
     console.log("📦 Status imagens.json:", res.status);
     if (!res.ok) throw new Error("Erro ao carregar imagens.json");
@@ -143,7 +143,7 @@ fetch("imagens.json")
   })
   .catch(err => console.error("❌ Erro ao carregar imagens.json:", err));
 
-fetch("produtos.json")
+fetch("https://cicerorda.github.io/catalogo-produtos/produtos.json")
 <<<<<<< HEAD
   .then(res => {
     console.log("📦 Status produtos.json:", res.status);
