@@ -98,6 +98,33 @@ fetch("imagens.json")
     if (!res.ok) throw new Error("Erro ao carregar imagens.json");
     return res.json();
   })
+<<<<<<< HEAD
+=======
+  .then(data => {
+    console.log("✔️ JSON de imagens carregado com sucesso:", data);
+  })
+  .catch(err => {
+    console.error("❌ Erro ao carregar imagens.json:", err);
+  });
+
+fetch("produtos.json")
+  .then(res => {
+    console.log("Resposta bruta produtos.json:", res);
+    return res.json();
+  })
+  .then(data => {
+    console.log("✔️ JSON de produtos carregado com sucesso:", data);
+  })
+  .catch(err => {
+    console.error("❌ Erro ao carregar produtos.json:", err);
+  });
+
+let imagensCarregadas = false;
+let produtosCarregados = false;
+
+fetch("imagens.json")
+  .then(res => res.json())
+>>>>>>> 492439662cbcfc571e5606fbbdcf40ab1428b127
   .then(imagensData => {
     listaImagens = imagensData.map(img => ({
       ...img,
@@ -117,11 +144,15 @@ fetch("imagens.json")
   .catch(err => console.error("❌ Erro ao carregar imagens.json:", err));
 
 fetch("produtos.json")
+<<<<<<< HEAD
   .then(res => {
     console.log("📦 Status produtos.json:", res.status);
     if (!res.ok) throw new Error("Erro ao carregar produtos.json");
     return res.json();
   })
+=======
+  .then(res => res.json())
+>>>>>>> 492439662cbcfc571e5606fbbdcf40ab1428b127
   .then(produtosData => {
     produtos = produtosData;
 
