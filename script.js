@@ -223,16 +223,21 @@ function atualizarProdutos() {
   console.log("🔁 Entrou em atualizarProdutos()");
   console.log("📦 Total de produtos:", produtos.length);
 
-  // 🔹 Remove duplicados pela imagem, mas mantém produtos sem imagem
-  const vistos = new Set();
-  listaFiltrada = listaFiltrada.filter(p => {
-    const url = encontrarImagem(p.Referencia);
-    if (!url || url.includes("sem-imagem")) return true; // mantém se não houver imagem válida
-    if (vistos.has(url)) return false; // já vimos essa imagem → descarta
-    vistos.add(url);
-    return true;
-  });
+      const imagemParaProduto = new Map();
 
+      for (const produto of listaFiltrada) {
+          const url = encontrarImagem(produto.Referencia);
+
+          // Se não tem imagem ou imagem é inválida, mantém sempre
+          if (!url || url.includes("sem-imagem")) {
+              imagemParaProduto.set(Symbol(), produto); // usa chave única pra manter
+          } else if (!imagemParaProduto.has(url)) {
+              imagemParaProduto.set(url, produto); // só adiciona o primeiro que usar essa imagem
+          }
+      }
+
+      // Converte os valores do Map de volta para array
+      listaFiltrada = Array.from(imagemParaProduto.values());
 
   totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
   grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
