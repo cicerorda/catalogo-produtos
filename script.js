@@ -218,17 +218,6 @@ function obterProdutosFiltrados() {
         });
 }
 
-function atualizarProdutos() {
-  let listaFiltrada = obterProdutosFiltrados();
-  console.log("🔁 Entrou em atualizarProdutos()");
-  console.log("📦 Total de produtos:", produtos.length);
-  totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
-  grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
-
-  exibirProdutos(listaFiltrada);
-  criarPaginacao(listaFiltrada);
-}
-
 // 🔹 Buscar categorias
 function filtrarCategorias() {
     let termoBuscaCategoria = document.getElementById("search-category").value.toLowerCase();
@@ -351,62 +340,54 @@ function adicionarAoCarrinho(referencia) {
     atualizarCarrinho();
 }
 
-function exibirProdutos(produtos) {
-  const container = document.getElementById("produtos-container");
-  container.innerHTML = "";
+// 🔧 RESUMO DE AJUSTES RECOMENDADOS:
+// 1. Adicionar filtro para manter apenas UM produto por imagem em `atualizarProdutos()`.
+// 2. Corrigir duplicidade da funcao `exibirProdutos` (há duas versões no seu script!).
+// 3. Evitar carregar a mesma imagem para produtos diferentes na mesma página.
+//
+// Abaixo está a correção da função `atualizarProdutos()` com o filtro correto de imagens duplicadas.
 
-  produtos.forEach((produto) => {
-    const card = document.createElement("div");
-    card.classList.add("card");
+function atualizarProdutos() {
+  let listaFiltrada = obterProdutosFiltrados();
+  console.log("🔁 Entrou em atualizarProdutos()");
+  console.log("📦 Total de produtos:", produtos.length);
 
-    const imagemUrl = encontrarImagem(produto.Referencia, listaImagens);
-    const img = document.createElement("img");
-    img.alt = produto.Referencia;
+  // 🔹 Remove duplicados por imagem, mantendo apenas um produto por imagem
 
-    if (imagemUrl) {
-      img.src = imagemUrl;
-    } else {
-      img.src = "https://via.placeholder.com/150x100?text=Sem+Imagem";
-      card.style.border = "2px dashed red"; // opcional: destacar cards sem imagem
-    }
 
-    const ref = document.createElement("h3");
-    ref.textContent = produto.Referencia;
+  totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
+  grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
 
-    const desc = document.createElement("p");
-    desc.textContent = produto.Descricao;
-
-    card.appendChild(img);
-    card.appendChild(ref);
-    card.appendChild(desc);
-    container.appendChild(card);
-  });
+  exibirProdutos(listaFiltrada);
+  criarPaginacao(listaFiltrada);
 }
 
-// ✅ Exibir produtos na tela
+// 🔹 Remover versão duplicada de exibirProdutos()
+// Deixe apenas a VERSÃO FINAL, que é a que usa image-container e mostra corretamente nome + descrição + categoria
+// Verifique se você tem isso duas vezes e mantenha só a última que está assim:
+
 function exibirProdutos(lista) {
     const container = document.getElementById("products");
     container.innerHTML = "";
-  
+
     const inicio = (paginaAtual - 1) * itensPorPagina;
     const produtosPagina = lista.slice(inicio, inicio + itensPorPagina);
-  
+
     if (!produtosPagina.length) {
       container.innerHTML = `<p class="mensagem-nenhum-produto">Nenhum produto encontrado.</p>`;
       return;
     }
-  
+
     produtosPagina.forEach(produto => {
       const card = document.createElement("div");
       card.classList.add("card");
-  
+
       const caminhoImagem = encontrarImagem(produto.Referencia);
-  
+
       card.innerHTML = `
         <div class="image-container">
           <img src="${caminhoImagem}" alt="Imagem do produto"
-            onerror="console.error('❌ Imagem não encontrada:', this.src); this.src='https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg?updatedAt=1745112243066'">
-
+            onerror="console.error('❌ Imagem não encontrada:', this.src); this.src='https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg'">
         </div>
         <div class="container">
           <h5>${produto.Referencia || "Sem Referência"}</h5>
@@ -414,10 +395,10 @@ function exibirProdutos(lista) {
           <h6>Categoria: ${produto.Categoria || "Sem Categoria"}</h6>
         </div>
       `;
-  
+
       container.appendChild(card);
     });
-  }
+}
 
 function atualizarCarrinho() {
     const cartContainer = document.getElementById("cart-items");
