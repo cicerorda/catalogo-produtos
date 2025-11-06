@@ -92,47 +92,27 @@ function encontrarImagem(ref, imagens = listaImagens) {
   return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg";
 }
 
-fetch("https://cicerorda.github.io/catalogo-produtos/imagens.json")
-  .then(res => {
-    console.log("📦 Status imagens.json:", res.status);
-    if (!res.ok) throw new Error("Erro ao carregar imagens.json");
-    return res.json();
-  })
-<<<<<<< HEAD
-=======
-  .then(data => {
-    console.log("✔️ JSON de imagens carregado com sucesso:", data);
-  })
-  .catch(err => {
-    console.error("❌ Erro ao carregar imagens.json:", err);
-  });
-
-fetch("produtos.json")
-  .then(res => {
-    console.log("Resposta bruta produtos.json:", res);
-    return res.json();
-  })
-  .then(data => {
-    console.log("✔️ JSON de produtos carregado com sucesso:", data);
-  })
-  .catch(err => {
-    console.error("❌ Erro ao carregar produtos.json:", err);
-  });
-
 let imagensCarregadas = false;
 let produtosCarregados = false;
 
+function processarNomeImagem(nome) {
+  return limparTexto(removerSufixoDeVariacao(nome));
+}
+
+// Carrega imagens.json
 fetch("imagens.json")
-  .then(res => res.json())
->>>>>>> 492439662cbcfc571e5606fbbdcf40ab1428b127
+  .then(res => {
+    console.log("📂 Status imagens.json:", res.status);
+    if (!res.ok) throw new Error("Erro ao carregar imagens.json");
+    return res.json();
+  })
   .then(imagensData => {
     listaImagens = imagensData.map(img => ({
       ...img,
       nome_limpo: processarNomeImagem(img.nome)
     }));
-
-    console.log("✅ Imagens carregadas:", listaImagens.length);
     imagensCarregadas = true;
+    console.log("✅ Imagens carregadas:", listaImagens.length);
 
     if (produtosCarregados) {
       console.log("📦 Chamando atualizarProdutos()");
@@ -143,20 +123,15 @@ fetch("imagens.json")
   })
   .catch(err => console.error("❌ Erro ao carregar imagens.json:", err));
 
-fetch("https://cicerorda.github.io/catalogo-produtos/produtos.json")
-<<<<<<< HEAD
+// Carrega produtos.json
+fetch("produtos.json")
   .then(res => {
-    console.log("📦 Status produtos.json:", res.status);
+    console.log("📂 Status produtos.json:", res.status);
     if (!res.ok) throw new Error("Erro ao carregar produtos.json");
     return res.json();
   })
-=======
-  .then(res => res.json())
->>>>>>> 492439662cbcfc571e5606fbbdcf40ab1428b127
   .then(produtosData => {
     produtos = produtosData;
-
-    console.log("✅ Produtos carregados:", produtos.length);
 
     produtos.forEach(produto => {
       if (produto.Categoria) {
@@ -168,8 +143,8 @@ fetch("https://cicerorda.github.io/catalogo-produtos/produtos.json")
     });
 
     criarListaDeCategorias();
-
     produtosCarregados = true;
+    console.log("✅ Produtos carregados:", produtos.length);
 
     if (imagensCarregadas) {
       console.log("📦 Chamando atualizarProdutos()");
@@ -178,20 +153,7 @@ fetch("https://cicerorda.github.io/catalogo-produtos/produtos.json")
       console.log("⌛ Aguardando imagens serem carregadas...");
     }
   })
-  .catch(err => console.error("❌ Erro ao carregar produtos.json:", err));function processarNomeImagem(nome) {
-    const nomeOriginal = nome.toLowerCase();
-    const partes = nomeOriginal.split("_");
-
-    let nomeBase = partes[0];
-
-    // Se for tipo ctc_005800 → mantém inteiro
-    if (partes.length > 1 && /^[a-z]+$/.test(partes[0])) {
-        nomeBase = partes[0] + partes[1];
-    }
-
-    const nomeLimpo = nomeBase.replace(/[\.\s\-_]/g, "");
-    return nomeLimpo;
-}
+  .catch(err => console.error("❌ Erro ao carregar produtos.json:", err));
 
 // 🔹 Criar lista de categorias com checkboxes invisíveis e clique no nome
 function criarListaDeCategorias() {
