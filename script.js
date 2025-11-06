@@ -220,15 +220,17 @@ function obterProdutosFiltrados() {
 
 function atualizarProdutos() {
   let listaFiltrada = obterProdutosFiltrados();
+  console.log("🔁 Entrou em atualizarProdutos()");
+console.log("📦 Total de produtos:", produtos.length);
 
   // 🔹 Remove duplicados pela imagem
-  const vistos = new Set();
-  listaFiltrada = listaFiltrada.filter(p => {
-    const url = encontrarImagem(p.Referencia);
-    if (vistos.has(url)) return false;
-    vistos.add(url);
-    return true;
-  });
+  //const vistos = new Set();
+  //listaFiltrada = listaFiltrada.filter(p => {
+  //  const url = encontrarImagem(p.Referencia);
+  //  if (vistos.has(url)) return false;
+  //  vistos.add(url);
+  //  return true;
+  //});
 
   totalPaginas = Math.ceil(listaFiltrada.length / itensPorPagina);
   grupoAtual = Math.ceil(paginaAtual / botoesPorGrupo);
@@ -504,14 +506,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }, 300)); // você pode ajustar esse tempo se quiser
         }
     }, 1000); // Espera 1 segundo para garantir que o DOM foi carregado
-});
-
-// 🔹 Limpa toda a lista de compras
-document.getElementById("clear-cart").addEventListener("click", () => {
-    if (confirm("Tem certeza que deseja limpar a lista de compras?")) {
-        listaDeCompras = [];
-        atualizarCarrinho();
-    }
 });
 
 function baixarPesquisaEmPDF() {
