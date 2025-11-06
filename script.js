@@ -92,7 +92,7 @@ function encontrarImagem(ref, imagens = listaImagens) {
   return "https://ik.imagekit.io/t7590uzhp/imagens/sem-imagem_Ga_BH1QVQo.jpg";
 }
 
-fetch("./imagens.json")
+fetch("imagens.json")
   .then(res => {
     console.log("Resposta bruta imagens.json:", res);
     return res.json();
@@ -104,7 +104,7 @@ fetch("./imagens.json")
     console.error("❌ Erro ao carregar imagens.json:", err);
   });
 
-fetch("./produtos.json")
+fetch("produtos.json")
   .then(res => {
     console.log("Resposta bruta produtos.json:", res);
     return res.json();
@@ -119,7 +119,7 @@ fetch("./produtos.json")
 let imagensCarregadas = false;
 let produtosCarregados = false;
 
-fetch("./imagens.json")
+fetch("imagens.json")
   .then(res => res.json())
   .then(imagensData => {
     listaImagens = imagensData.map(img => ({
@@ -135,7 +135,7 @@ fetch("./imagens.json")
   })
   .catch(err => console.error("❌ Erro ao carregar imagens.json:", err));
 
-fetch("./produtos.json")
+fetch("produtos.json")
   .then(res => res.json())
   .then(produtosData => {
     produtos = produtosData;
