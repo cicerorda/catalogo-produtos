@@ -88,6 +88,17 @@ function gerarVariantes(ref) {
     }
   }
 
+  // 🔧 NOVO CASO: tratar E0xxxxx.xx → gerar variantes sem o zero depois do E
+  const m = ref.match(/^E0(\d{5})\.(\d{2})/i);
+  if (m) {
+    const bloco1 = m[1]; // ex: 23241
+    const bloco2 = m[2]; // ex: 27
+
+    variantes.add(`e${bloco1}${bloco2}`);
+    variantes.add(limparTexto(`e.${bloco1}.${bloco2}`));
+    variantes.add(`e.${bloco1}.${bloco2}`);
+  }
+
   return Array.from(variantes);
 }
 
