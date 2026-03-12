@@ -4,7 +4,15 @@ from pathlib import Path
 # Caminhos dos arquivos
 json_antigo_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos.json")
 json_novos_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\produtos_novos.json")
-json_saida_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos.json")
+
+# Pasta de saída
+saida_dir = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos")
+saida_dir.mkdir(exist_ok=True)
+
+index_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\New folder\produtos_index.json")
+
+# Quantos produtos por arquivo
+TAMANHO_BLOCO = 50000
 
 # Carrega os dados antigos
 with open(json_antigo_path, "r", encoding="utf-8") as f:
@@ -14,7 +22,7 @@ with open(json_antigo_path, "r", encoding="utf-8") as f:
 with open(json_novos_path, "r", encoding="utf-8") as f:
     novos = json.load(f)
 
-# Cria um dicionário para mapear prefixo da classificação para categoria
+# Cria um mapa classificação → categoria
 mapa_classificacao_categoria = {}
 for item in antigos:
     if "Classificacao" in item and "Categoria" in item:
@@ -22,13 +30,14 @@ for item in antigos:
         if prefixo not in mapa_classificacao_categoria:
             mapa_classificacao_categoria[prefixo] = item["Categoria"]
 
-# Converte os novos itens para o formato do JSON antigo
+# Converte os novos itens
 novos_convertidos = []
+
 for item in novos:
     prefixo = item["CLASSIFICACAO"][:7]
     categoria = mapa_classificacao_categoria.get(prefixo)
-    
-    if categoria:  # Só adiciona se encontrou uma categoria correspondente
+
+    if categoria:
         novos_convertidos.append({
             "Referencia": item["ITEM"],
             "Descricao": item["DESCRICAO"],
@@ -36,12 +45,41 @@ for item in novos:
             "Classificacao": item["CLASSIFICACAO"]
         })
 
-# Junta os antigos com os novos (pode adicionar lógica para evitar duplicatas se quiser)
+# Junta tudo
 atualizado = antigos + novos_convertidos
 
-# Salva o novo JSON unificado
-with open(json_saida_path, "w", encoding="utf-8") as f:
-    json.dump(atualizado, f, ensure_ascii=False, indent=2)
+print(f"📦 Total de produtos após merge: {len(atualizado)}")
 
-print(f"✅ Arquivo mesclado salvo como {json_saida_path}")
+# ===============================
+# DIVIDIR EM ARQUIVOS
+# ===============================
+
+arquivos = []
+
+for i in range(0, len(atualizado), TAMANHO_BLOCO):
+
+    bloco = atualizado[i:i + TAMANHO_BLOCO]
+
+    nome_arquivo = f"produtos_{i//TAMANHO_BLOCO:03}.json"
+    caminho = saida_dir / nome_arquivo
+
+    with open(caminho, "w", encoding="utf-8") as f:
+        json.dump(bloco, f, ensure_ascii=False)
+
+    arquivos.append(nome_arquivo)
+
+    print(f"✅ Gerado {nome_arquivo} ({len(bloco)} itens)")
+
+# ===============================
+# GERAR INDEX
+# ===============================
+
+index = {
+    "arquivos": arquivos
+}
+
+with open(index_path, "w", encoding="utf-8") as f:
+    json.dump(index, f, ensure_ascii=False)
+
+print(f"\n📑 Index criado: {index_path}")
 print(f"🧮 Itens novos adicionados: {len(novos_convertidos)}")

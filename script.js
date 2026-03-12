@@ -251,22 +251,30 @@ function processarCategoria(categoriaRaw) {
   };
 }
 
-fetch("produtos.json")
-  .then(res => res.json())
-  .then(produtosData => {
-    produtos = produtosData;
+async function carregarProdutos() {
+  try {
 
-    categoriasMap.clear(); // usa o global
+    const index = await fetch("produtos_index.json").then(r => r.json());
+
+    let todosProdutos = [];
+
+    for (const arquivo of index.arquivos) {
+      const data = await fetch(`produtos/${arquivo}`).then(r => r.json());
+      todosProdutos = todosProdutos.concat(data);
+    }
+
+    produtos = todosProdutos;
+
+    categoriasMap.clear();
 
     produtos.forEach(produto => {
       if (!produto.Categoria) return;
 
       const cat = processarCategoria(produto.Categoria);
 
-      produto.CategoriaNome = cat.nomeCategoria;   // PEÇAS EM ARAME
-      produto.CategoriaCodigo = cat.codigo;        // 30_40_010
-      produto.CategoriaPai = cat.codigoCategoria;  // 30_40
-
+      produto.CategoriaNome = cat.nomeCategoria;
+      produto.CategoriaCodigo = cat.codigo;
+      produto.CategoriaPai = cat.codigoCategoria;
 
       if (!categoriasMap.has(produto.CategoriaNome)) {
         categoriasMap.set(produto.CategoriaNome, new Set());
@@ -284,9 +292,13 @@ fetch("produtos.json")
     if (imagensCarregadas) {
       atualizarProdutos();
     }
-  })
-  .catch(err => console.error("❌ Erro ao carregar produtos.json:", err));
 
+  } catch (err) {
+    console.error("❌ Erro ao carregar produtos:", err);
+  }
+}
+
+carregarProdutos();
 
 function processarNomeImagem(nome) {
     const nomeOriginal = nome.toLowerCase();
@@ -420,73 +432,74 @@ function selecionarCategoriaCompleta(nomeCategoria) {
   atualizarProdutos();
 }
 
-function obterProdutosFiltrados() {
-  const filtrarComponentes = categoriasSelecionadas.has("COMPONENTES");
+// ----------------- FUNÇÃO UNIFICADA PARA FILTRO -----------------
+async function obterProdutosFiltrados() {
+    const filtrarComponentes = categoriasSelecionadas.has("COMPONENTES");
 
-  return produtos.filter(produto => {
+    let listaBase = [];
 
-    // 🔹 REGRA COMPONENTES (invertida)
-    const ehComponente = produto.Descricao?.toUpperCase().includes("COMP.");
-
-    if (!filtrarComponentes && ehComponente) {
-      return false; // remove componentes quando NÃO marcado
+    if (termoBusca) {
+        // Busca ativa → carregamos apenas os blocos necessários por prefixo
+        const prefixos = new Set();
+        termoBusca.split(/\s+/).forEach(t => prefixos.add(t.slice(0, 4)));
+        listaBase = await carregarProdutosPorPrefixos([...prefixos]);
+    } else {
+        // Busca vazia → retorna todos os produtos já carregados
+        listaBase = produtos;
     }
 
-    // 🔹 REGRA CATEGORIA (normal)
-    const passaCategoria =
-      categoriasSelecionadas.size === 0 ||
-      categoriasSelecionadas.has(produto.CategoriaCodigo);
+    // Aplica filtros de componentes, categoria e termo de busca
+    return listaBase.filter(produto => {
+        const ehComponente = produto.Descricao?.toUpperCase().includes("COMP.");
+        if (!filtrarComponentes && ehComponente) return false;
 
-    // 🔹 REGRA BUSCA
-    const passaBusca =
-      !termoBusca ||
-      limparTexto(produto.Referencia).includes(limparTexto(termoBusca)) ||
-      limparTexto(produto.Descricao).includes(limparTexto(termoBusca));
+        const passaCategoria =
+            categoriasSelecionadas.size === 0 ||
+            categoriasSelecionadas.has(produto.CategoriaCodigo);
 
-    return passaCategoria && passaBusca;
-  });
+        const passaBusca =
+            !termoBusca ||
+            limparTexto(produto.Referencia).includes(limparTexto(termoBusca)) ||
+            limparTexto(produto.Descricao).includes(limparTexto(termoBusca));
+
+        return passaCategoria && passaBusca;
+    });
 }
 
+async function carregarProdutosPorPrefixos(prefixos) {
+    if (!prefixos.length) return []; // evita fetch vazio
 
-function atualizarProdutos() {
-  categoriasSelecionadas.clear();
-
-  document
-    .querySelectorAll(".categoria-checkbox:checked")
-    .forEach(cb => categoriasSelecionadas.add(cb.value));
-
-  paginaAtual = 1;
-
-  listaFiltradaAtual = obterProdutosFiltrados();
-
-  const urlsVistas = new Set();
-  listaFiltradaSemDuplicatas = listaFiltradaAtual.filter(p => {
-    const url = encontrarImagem(p.Referencia);
-    if (urlsVistas.has(url)) return false;
-    urlsVistas.add(url);
-    return true;
-  });
-
-  exibirProdutos(listaFiltradaSemDuplicatas);
-  criarPaginacao(listaFiltradaSemDuplicatas);
-
-  document.querySelectorAll(".categoria-checkbox").forEach(cb => {
-    const liSub = cb.closest("li");
-    if (!liSub) return;
-    liSub.classList.toggle("ativa", cb.checked);
-  });
-
-  document.querySelectorAll(".categoria").forEach(li => {
-    const checkboxes = li.querySelectorAll(".categoria-checkbox");
-    const titulo = li.querySelector(".categoria-nome");
-
-    if (!checkboxes.length || !titulo) return;
-
-    const todasMarcadas = [...checkboxes].every(cb => cb.checked);
-    titulo.classList.toggle("ativa", todasMarcadas);
-  });
-
+    const promessas = prefixos.map(p =>
+        fetch(`produtos/${p}.json`).then(r => r.json())
+    );
+    const blocos = await Promise.all(promessas);
+    return blocos.flat();
 }
+
+// ----------------- ATUALIZAÇÃO DE PRODUTOS -----------------
+async function atualizarProdutos() {
+    categoriasSelecionadas.clear();
+
+    document
+      .querySelectorAll(".categoria-checkbox:checked")
+      .forEach(cb => categoriasSelecionadas.add(cb.value));
+
+    paginaAtual = 1;
+
+    listaFiltradaAtual = await obterProdutosFiltrados();
+
+    const urlsVistas = new Set();
+    listaFiltradaSemDuplicatas = listaFiltradaAtual.filter(p => {
+        const url = encontrarImagem(p.Referencia);
+        if (urlsVistas.has(url)) return false;
+        urlsVistas.add(url);
+        return true;
+    });
+
+    exibirProdutos(listaFiltradaSemDuplicatas);
+    criarPaginacao(listaFiltradaSemDuplicatas);
+}
+
 
 // 🔹 Buscar categorias
 function filtrarCategorias() {
