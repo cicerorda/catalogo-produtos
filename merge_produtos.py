@@ -15,7 +15,7 @@ TAMANHO_BLOCO = 1000
 
 # Determina o dia
 hoje = datetime.now()
-sabado = hoje.weekday() == 3
+sabado = hoje.weekday() == 5
 
 # Carrega produtos novos
 with open(json_novos_path, "r", encoding="utf-8") as f:
