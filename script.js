@@ -252,25 +252,33 @@ function processarCategoria(categoriaRaw) {
 }
 
 async function carregarProdutos() {
+
   try {
 
     const index = await fetch("produtos_index.json").then(r => r.json());
 
     let todosProdutos = [];
 
-    for (const arquivo of index.arquivos) {
-      const data = await fetch(`produtos/${arquivo}`).then(r => r.json());
-      todosProdutos = todosProdutos.concat(data);
-    }
+    const promessas = index.arquivos.map(arquivo =>
+      fetch(`produtos/${arquivo}`).then(r => r.json())
+    );
+
+    const resultados = await Promise.all(promessas);
+
+    resultados.forEach(bloco => {
+      todosProdutos = todosProdutos.concat(bloco);
+    });
 
     produtos = todosProdutos;
 
     categoriasMap.clear();
 
     produtos.forEach(produto => {
+
       if (!produto.Categoria) return;
 
       const cat = processarCategoria(produto.Categoria);
+      if (!cat) return;
 
       produto.CategoriaNome = cat.nomeCategoria;
       produto.CategoriaCodigo = cat.codigo;
@@ -286,7 +294,10 @@ async function carregarProdutos() {
 
     });
 
+    console.log("Categorias criadas:", categoriasMap);
+
     criarListaDeCategorias();
+
     produtosCarregados = true;
 
     if (imagensCarregadas) {
@@ -294,8 +305,11 @@ async function carregarProdutos() {
     }
 
   } catch (err) {
+
     console.error("❌ Erro ao carregar produtos:", err);
+
   }
+
 }
 
 carregarProdutos();
