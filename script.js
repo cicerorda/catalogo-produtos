@@ -257,17 +257,7 @@ async function carregarProdutos() {
 
     const index = await fetch("produtos_index.json").then(r => r.json());
 
-    let todosProdutos = [];
-
-    const promessas = index.arquivos.map(arquivo =>
-      fetch(`produtos/${arquivo}`).then(r => r.json())
-    );
-
-    const resultados = await Promise.all(promessas);
-
-    resultados.forEach(bloco => {
-      todosProdutos = todosProdutos.concat(bloco);
-    });
+    produtos = resultados.flat();
 
     produtos = todosProdutos;
 
@@ -278,7 +268,7 @@ async function carregarProdutos() {
       if (!produto.Categoria) return;
 
       const cat = processarCategoria(produto.Categoria);
-      if (!cat) return;
+      if (!cat || !cat.codigo) return;
 
       produto.CategoriaNome = cat.nomeCategoria;
       produto.CategoriaCodigo = cat.codigo;
@@ -447,8 +437,8 @@ function selecionarCategoriaCompleta(nomeCategoria) {
 }
 
 // ----------------- FUNÇÃO UNIFICADA PARA FILTRO -----------------
-async function obterProdutosFiltrados() {
-
+function obterProdutosFiltrados() {
+  
     const filtrarComponentes = categoriasSelecionadas.has("COMPONENTES");
 
     return produtos.filter(produto => {
@@ -474,7 +464,7 @@ async function obterProdutosFiltrados() {
 }
 
 // ----------------- ATUALIZAÇÃO DE PRODUTOS -----------------
-async function atualizarProdutos() {
+function atualizarProdutos() {
     categoriasSelecionadas.clear();
 
     document
@@ -483,7 +473,7 @@ async function atualizarProdutos() {
 
     paginaAtual = 1;
 
-    listaFiltradaAtual = await obterProdutosFiltrados();
+    listaFiltradaAtual = obterProdutosFiltrados();
 
     const urlsVistas = new Set();
     listaFiltradaSemDuplicatas = listaFiltradaAtual.filter(p => {
