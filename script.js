@@ -434,22 +434,11 @@ function selecionarCategoriaCompleta(nomeCategoria) {
 
 // ----------------- FUNÇÃO UNIFICADA PARA FILTRO -----------------
 async function obterProdutosFiltrados() {
+
     const filtrarComponentes = categoriasSelecionadas.has("COMPONENTES");
 
-    let listaBase = [];
+    return produtos.filter(produto => {
 
-    if (termoBusca) {
-        // Busca ativa → carregamos apenas os blocos necessários por prefixo
-        const prefixos = new Set();
-        termoBusca.split(/\s+/).forEach(t => prefixos.add(t.slice(0, 4)));
-        listaBase = await carregarProdutosPorPrefixos([...prefixos]);
-    } else {
-        // Busca vazia → retorna todos os produtos já carregados
-        listaBase = produtos;
-    }
-
-    // Aplica filtros de componentes, categoria e termo de busca
-    return listaBase.filter(produto => {
         const ehComponente = produto.Descricao?.toUpperCase().includes("COMP.");
         if (!filtrarComponentes && ehComponente) return false;
 
@@ -457,23 +446,17 @@ async function obterProdutosFiltrados() {
             categoriasSelecionadas.size === 0 ||
             categoriasSelecionadas.has(produto.CategoriaCodigo);
 
+        const textoBusca = limparTexto(termoBusca);
+
         const passaBusca =
-            !termoBusca ||
-            limparTexto(produto.Referencia).includes(limparTexto(termoBusca)) ||
-            limparTexto(produto.Descricao).includes(limparTexto(termoBusca));
+            !textoBusca ||
+            limparTexto(produto.Referencia).includes(textoBusca) ||
+            limparTexto(produto.Descricao).includes(textoBusca);
 
         return passaCategoria && passaBusca;
+
     });
-}
 
-async function carregarProdutosPorPrefixos(prefixos) {
-    if (!prefixos.length) return []; // evita fetch vazio
-
-    const promessas = prefixos.map(p =>
-        fetch(`produtos/${p}.json`).then(r => r.json())
-    );
-    const blocos = await Promise.all(promessas);
-    return blocos.flat();
 }
 
 // ----------------- ATUALIZAÇÃO DE PRODUTOS -----------------
