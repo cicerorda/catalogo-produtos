@@ -1,0 +1,6002 @@
+[
+  {
+    "Referencia": "E021176.00.104",
+    "Descricao": "COMP. CENTRAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021178.00.000",
+    "Descricao": "COMP. P/REMANCHE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021178.00.104",
+    "Descricao": "COMP. P/REMANCHE COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004525.25.111",
+    "Descricao": "FIV. S/LIM LANÇA PERFUME OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "HASTE M3X25.119",
+    "Descricao": "HASTE M3 X 25 MM (CORTADA) SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "3080170010"
+  },
+  {
+    "Referencia": "E021179.00.000",
+    "Descricao": "COMP. CHAPA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021179.00.104",
+    "Descricao": "COMP. CHAPA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004525.25.111",
+    "Descricao": "CP. FIV. S/LIM LANÇA PERFUME OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E020663.43.027",
+    "Descricao": "ENF. ARGOLA JOY AMASSADA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021173.16.028",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021066.25.111",
+    "Descricao": "ENF. PASSANTE LANÇA PERFUME OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021088.23.171",
+    "Descricao": "ENF. PIERCING VIX OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "9120.0700.17.42",
+    "Descricao": "ARGOLA INJETADA P.T. (MIAMI 661 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021195.22.000",
+    "Descricao": "COMP. TERMINAL BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021083.45.170",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "9120.0700.18.42",
+    "Descricao": "ARGOLA INJETADA P.T. (CORAL DOCE 4535 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021195.22.104",
+    "Descricao": "COMP. TERMINAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "9120.0700.19.42",
+    "Descricao": "ARGOLA INJETADA P.T. (ROSA 4198 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E10568.07.10.42",
+    "Descricao": "ENFEITE PASSADOR P.T.(MIAMI 661 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019822.00.2.42",
+    "Descricao": "CONJ. MONTAGEM ELOS P.T.(PTOB)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E019928.18.042",
+    "Descricao": "ENF. PASSADOR ARGOLAS P.T.(PTOB)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E17110.00.126",
+    "Descricao": "ENF. SETA LADO/DIR. REB0,5 FREE GOLD 4 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "3854.02.158",
+    "Descricao": "TUBO LATÃO CEGO 15.80 X 4 PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "3080140010"
+  },
+  {
+    "Referencia": "E10568.07.11.42",
+    "Descricao": "ENFEITE PASSADOR P.T.(CORAL DOCE 4535 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E10568.07.12.42",
+    "Descricao": "ENFEITE PASSADOR P.T.(ROSA 4198 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021196.00.000",
+    "Descricao": "COMP. CENTRAL BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021196.00.104",
+    "Descricao": "COMP. CENTRAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021197.00.000",
+    "Descricao": "COMP. P/REMANCHE BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021197.00.104",
+    "Descricao": "COMP. P/REMANCHE COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021198.00.000",
+    "Descricao": "COMP. CHAPA BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021198.00.104",
+    "Descricao": "COMP. CHAPA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP2833.20.30",
+    "Descricao": "CP. FIV. C/LIM. GOLD 4",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021174.22.054",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP2833.20.85",
+    "Descricao": "CP. FIV. C/LIM. FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F4048.40.09",
+    "Descricao": "FIV. ROLETE FIXO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP2833.20.91",
+    "Descricao": "CP. FIV. C/LIM. FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP2833.20.92",
+    "Descricao": "CP. FIV. C/ LIM. FREE OURO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021079.02.124",
+    "Descricao": "ENF. PONTEIRA BOLA PASSANTE FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E4005.19.81",
+    "Descricao": "ENF PASS OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F0826.12.168",
+    "Descricao": "FIVELA C/LIM. LUMI GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021191.16.000",
+    "Descricao": "COMP. TERMINAL BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP004546.30.063",
+    "Descricao": "CP. BASE FIV. OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021191.16.104",
+    "Descricao": "COMP. TERMINAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021192.00.000",
+    "Descricao": "COMP. RETANGULAR BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021110.00.010",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\"  GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16891.05.123.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (COURO 18064 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E16891.05.124.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (VERMELHO 14079 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP4048.40.09",
+    "Descricao": "CP. FIV. ROLETE FIXO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004531.25.000",
+    "Descricao": "FIV. S/LIM COLCCI VAZADA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010200"
+  },
+  {
+    "Referencia": "E16891.05.126.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (PALACE BLUE 16101 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004531.25.003",
+    "Descricao": "FIV. S/LIM COLCCI VAZADA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004531.25.160",
+    "Descricao": "FIV. S/LIM COLCCI VAZADA OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021192.00.104",
+    "Descricao": "COMP. RETANGULAR COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021172.40.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "E021190.00.000",
+    "Descricao": "COMP. CENTRAL BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021190.00.104",
+    "Descricao": "COMP. CENTRAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021193.00.000",
+    "Descricao": "COMP. P/REMANCHE BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021244.20.159",
+    "Descricao": "ENF. PEGADOR TUBULAR C/BOLA PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021193.00.104",
+    "Descricao": "COMP. P/REMANCHE COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021171.40.000",
+    "Descricao": "COMP. BASE \"PP\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050200010"
+  },
+  {
+    "Referencia": "F0391.06.99",
+    "Descricao": "FIVELA FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004548.40.002",
+    "Descricao": "FIV. \"PP\" NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021170.10.000",
+    "Descricao": "ENF. PASSADOR LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021170.10.175",
+    "Descricao": "ENF. PASSADOR LISO GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F2833.20.01",
+    "Descricao": "FIV. C/LIM. NIQUEL (ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E12236.15.81",
+    "Descricao": "ENF. PASSANTE C/EIXO S/GRAVAÇAO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E3155.10.117",
+    "Descricao": "ENF. PASSADOR LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021097.50.000",
+    "Descricao": "COMP. PASSADOR \"CC\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021097.50.009",
+    "Descricao": "COMP. PASSADOR \"CC\" GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021194.00.000",
+    "Descricao": "COMP. CHAPA BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021194.00.104",
+    "Descricao": "COMP. CHAPA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004549.10.000",
+    "Descricao": "FIV. C/LIM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010050"
+  },
+  {
+    "Referencia": "F004524.50.1.09",
+    "Descricao": "COMP. FIV. S/LIM \"CC\" GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E0004.10.1.99",
+    "Descricao": "BOTAO ALT 3,2MM RB0,5 FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004535.50.009",
+    "Descricao": "CONJ. FIV.+PASSADOR \"CC\" GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021080.03.000",
+    "Descricao": "ENF. BARRETE CORAL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004549.10.175",
+    "Descricao": "FIV. C/LIM GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004536.30.000",
+    "Descricao": "FIV. C/LIM MILLER DELUXE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010250"
+  },
+  {
+    "Referencia": "E021080.03.170",
+    "Descricao": "ENF. BARRETE CORAL OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E0018.12.122",
+    "Descricao": "ILHOS VOLUTO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021163.22.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. LAFORT BRUTA MT(13T-R 80 X 140-6CAV)",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "F004550.10.175",
+    "Descricao": "CONJ. FIV.+PASSADOR GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004536.30.167",
+    "Descricao": "FIV. C/LIM MILLER DELUXE COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E0003.09.122",
+    "Descricao": "ILHOS VOLUTO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13173.12.122",
+    "Descricao": "ILHOS ZAMAC C/ARRUELA VOLUTO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021175.16.028",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004536.30.007",
+    "Descricao": "FIV. C/LIM MILLER DELUXE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004536.30.109",
+    "Descricao": "FIV. C/LIM MILLER DELUXE OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004536.30.004",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004536.30.002",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004536.30.045",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004536.30.009",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004536.30.145",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004536.30.159",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021080.03.158",
+    "Descricao": "ENF. BARRETE CORAL PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021163.22.042",
+    "Descricao": "ENF. BOTÃO SIST. COST. LAFORT P.T.(AZUL PROFUNDO F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP004536.30.063",
+    "Descricao": "CP. FIV. C/LIM MILLER DELUXE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004536.30.002",
+    "Descricao": "FIV. C/LIM MILLER DELUXE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004536.30.063",
+    "Descricao": "FIV. C/LIM MILLER DELUXE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004536.30.045",
+    "Descricao": "FIV. C/LIM MILLER DELUXE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004536.30.004",
+    "Descricao": "FIV. C/LIM MILLER DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004536.30.009",
+    "Descricao": "FIV. C/LIM MILLER DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004536.30.145",
+    "Descricao": "FIV. C/LIM MILLER DELUXE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021169.08.000",
+    "Descricao": "ENF. BOTÃO PÉ BX 0,5 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050070010"
+  },
+  {
+    "Referencia": "PINO 075.145",
+    "Descricao": "PINO MEIA CANA 47.29 X 4,0 X 1,5 MM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 075.159",
+    "Descricao": "PINO MEIA CANA 47.29 X 4,0 X 1,5 MM PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F004536.30.159",
+    "Descricao": "FIV. C/LIM MILLER DELUXE PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021163.22.1.42",
+    "Descricao": "ENF. BOTÃO SIST. COST. LAFORT P.T.(CINZA F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021169.08.175",
+    "Descricao": "ENF. BOTÃO PÉ BX +RB0,5 GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004552.15.000",
+    "Descricao": "FIV. RLT FIXO C/LIM DUPLO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010100"
+  },
+  {
+    "Referencia": "E0095.00.124",
+    "Descricao": "BOTAO Ø10 MM ALT4,2 RB1,0 STRASS(SS28) FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004552.15.114",
+    "Descricao": "FIV. RLT FIXO C/LIM DUPLO FREE GOLD 4 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E11922.00.1.84",
+    "Descricao": "ENF. PUXADOR PRUNE C/CURSOR FORNEC.) FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CTC 0478.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA MT ZINCO",
+    "Categoria": "",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E021256.00.000",
+    "Descricao": "ENF. BONECA GRANDE PÉ DE ESTALAR BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021249.00.000",
+    "Descricao": "ENF. OMBREIRA PEIXE AMASSADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021249.00.082",
+    "Descricao": "ENF. OMBREIRA PEIXE AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021188.00.000",
+    "Descricao": "ENF. ENTREMEIO C/CENTRO ORGANICO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E13784.08.149",
+    "Descricao": "ENF. REGULADOR OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16855.05.78.42",
+    "Descricao": "ENF. PONTEIRA LISA P.T.(CINZA ARENITO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020484.14.042",
+    "Descricao": "ENF. PASSADOR FORUM P.T.(MARROM NOBUCK 19-1012 TPG B)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021139.27.161",
+    "Descricao": "ENF. PASSADOR AMASSADO OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020297.08.1.01",
+    "Descricao": "ENF. REBITE FORUM C/PREGO NIQUEL C/PINT.(PRETA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021188.00.082",
+    "Descricao": "ENF. ENTREMEIO C/CENTRO ORGANICO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021154.40.000",
+    "Descricao": "ENF. GOTA PASSANTE BRUTA MT (30T-G 80 X 140-2CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E021227.20.000",
+    "Descricao": "ENF. ENTREMEIO AMASSADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021154.40.002",
+    "Descricao": "ENF. GOTA PASSANTE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18589.18.02",
+    "Descricao": "ENF. ANEL + ESFERA NIQUEL  C/PEROLA",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021227.20.161",
+    "Descricao": "ENF. ENTREMEIO AMASSADO OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021155.40.000",
+    "Descricao": "ENF. PASSANTE RETANGULAR BRUTA MT (30T-G MAQ. 8 - 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021227.20.082",
+    "Descricao": "ENF. ENTREMEIO AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021155.40.002",
+    "Descricao": "ENF. PASSANTE RETANGULAR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP021256.00.045",
+    "Descricao": "CP. BONECA GRANDE PÉ DE ESTALAR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019229.15.001",
+    "Descricao": "ENF. PASSADOR C/TEXTURA ORGANICA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021242.25.000",
+    "Descricao": "COMP. REDONDO AMASSADO C/3FUROS PÉ 0,5 BX BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060020"
+  },
+  {
+    "Referencia": "E16855.05.77.42",
+    "Descricao": "ENF. PONTEIRA LISA P.T.(MARROM HOLLOW)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "3875.00.175",
+    "Descricao": "ARRUELA P/ ILHOS I-70 GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "3080040020"
+  },
+  {
+    "Referencia": "F004543.19.028",
+    "Descricao": "CONJ. FIV. DE ENCAIXE LENNY OURO CHAMP",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021242.25.098",
+    "Descricao": "COMP. REDONDO AMASSADO C/3FUROS PÉ 0,5 BX FREE OURO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021241.19.000",
+    "Descricao": "COMP. REDONDO AMASSADO C/2FUROS BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060020"
+  },
+  {
+    "Referencia": "E021187.00.000",
+    "Descricao": "ENF. ENTREMEIO C/CENTRO ORGANICO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP021256.00.002",
+    "Descricao": "CP. BONECA GRANDE PÉ DE ESTALAR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021241.19.098",
+    "Descricao": "COMP. REDONDO AMASSADO C/2FUROS FREE OURO ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021161.40.002",
+    "Descricao": "ENF. MEIA ARGOLA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021187.00.082",
+    "Descricao": "ENF. ENTREMEIO C/CENTRO ORGANICO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021240.19.000",
+    "Descricao": "COMP. REDONDO AMASSADO C/1FUROS PÉ 0,5 BX BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060020"
+  },
+  {
+    "Referencia": "CP021256.00.119",
+    "Descricao": "CP. BONECA GRANDE PÉ DE ESTALAR SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021240.19.098",
+    "Descricao": "COMP. REDONDO AMASSADO C/1FUROS PÉ 0,5 BX FREE OURO ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021220.11.000",
+    "Descricao": "ENF. SPIKE TEXTURIZADO PÉ 0,5 BX BRUTA ",
+    "Categoria": "",
+    "Classificacao": "3050070010"
+  },
+  {
+    "Referencia": "E021220.11.084",
+    "Descricao": "ENF. SPIKE TEXTURIZADO PÉ 0,5 BX FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021256.00.045",
+    "Descricao": "ENF. BONECA GRANDE PÉ DE ESTALAR GOLD LIGHT+CTC0478",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "AR261.98",
+    "Descricao": "AR261 ARAME 3 X 5,5 MM FREE OURO",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021256.00.002",
+    "Descricao": "ENF. BONECA GRANDE PÉ DE ESTALAR NIQUEL+CTC0478",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021189.06.000",
+    "Descricao": "ENF. LOSANGO PÉ ALT BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050070010"
+  },
+  {
+    "Referencia": "E021239.00.098",
+    "Descricao": "ENF. MONTAGEM DE PINGENTES AMASSADOS FREE OURO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021189.06.160",
+    "Descricao": "ENF. LOSANGO PÉ ALT+RB0,5 OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021186.12.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO BRUTA MT(13T-G 80 X 140-8CAV)",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021186.12.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021185.20.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E021185.20.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021184.23.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E021184.23.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021183.20.000",
+    "Descricao": "ENF. BOTÃO PRESSÃO AMASSADO BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "CP021183.20.082",
+    "Descricao": "CP. BOTÃO PRESSÃO AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020927.07.170",
+    "Descricao": "ENF. BOLA NANCY AMASSADA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019575.17.009",
+    "Descricao": "ENF. MEIA ARGOLA OPEN GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021256.00.119",
+    "Descricao": "ENF. BONECA GRANDE PÉ DE ESTALAR SEM BANHO+CTC0478",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021183.20.082",
+    "Descricao": "ENF. BOTÃO PRESSÃO AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021199.23.000",
+    "Descricao": "COMP. REDONDO LOGO \"YY\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021199.23.104",
+    "Descricao": "COMP. REDONDO LOGO \"YY\" COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021200.08.000",
+    "Descricao": "COMP. ELO FECHADO BRUTA MT (13T-R 65 X 90-6CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E14787.17.28",
+    "Descricao": "ENF. MEIA ARGOLA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021112.21.000",
+    "Descricao": "ENF. PASSANTE TRITON BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021112.21.063",
+    "Descricao": "ENF. PASSANTE TRITON OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021200.00.104",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021112.21.174",
+    "Descricao": "ENF. PASSANTE TRITON OURO V. CLARO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021200.08.104",
+    "Descricao": "COMP. ELO FECHADO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021201.00.000",
+    "Descricao": "COMP. ELO ABERTO BRUTA MT (13T-R 65 X 90-6CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021134.00.000",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE BRUTA",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021243.00.000",
+    "Descricao": "COMP. TRAVA BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021201.00.104",
+    "Descricao": "COMP. ELO ABERTO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021111.05.000",
+    "Descricao": "ENF. BOTÃO LISO PÉ 5MM BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021134.00.007",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021134.00.063",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021202.09.000",
+    "Descricao": "COMP. MEIA ARGOLA TERMINAL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021134.00.003",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021202.09.104",
+    "Descricao": "COMP. MEIA ARGOLA TERMINAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021134.00.001",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021181.00.082",
+    "Descricao": "ENF. MONTAGEM DE ELOS C/LOGO \"YY\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021134.00.008",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021220.11.00",
+    "Descricao": "ENF. SPIKE TEXTURIZADO PÉ 0,5 ALT BRUTA ",
+    "Categoria": "",
+    "Classificacao": "3050070010"
+  },
+  {
+    "Referencia": "E021135.00.000",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE BRUTA",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.008",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021220.11.84",
+    "Descricao": "ENF. SPIKE TEXTURIZADO PÉ 0,5 ALT FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.063",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.044",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.003",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.001",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3973.26.00",
+    "Descricao": "COMP. FIV. C/ LIM. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010210"
+  },
+  {
+    "Referencia": "E17087.26.00",
+    "Descricao": "COMP. ROLETE MOVEL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3090090090"
+  },
+  {
+    "Referencia": "F3972.26.84",
+    "Descricao": "CONJ. FIV. ROLETE MOVEL (ABERT. 26MM) FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021207.25.000",
+    "Descricao": "COMP. ARGOLA TERMINAL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050080120"
+  },
+  {
+    "Referencia": "F004538.30.000",
+    "Descricao": "COMP. FIV. S/LIM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010250"
+  },
+  {
+    "Referencia": "F3972.26.99",
+    "Descricao": "CONJ. FIV. ROLETE MOVEL (ABERT. 26MM) FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004538.30.167",
+    "Descricao": "COMP. FIV. S/LIM COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021202.25.104",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050080120"
+  },
+  {
+    "Referencia": "E021207.25.104",
+    "Descricao": "COMP. ARGOLA TERMINAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004538.30.007",
+    "Descricao": "COMP. FIV. S/LIM NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021229.00.124",
+    "Descricao": "ENF. MONTAGEM 2 ELOS C/STRASS FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004538.30.109",
+    "Descricao": "COMP. FIV. S/LIM OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004538.30.004",
+    "Descricao": "CP. FIV. S/LIM NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004538.30.002",
+    "Descricao": "CP. FIV. S/LIM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004538.30.009",
+    "Descricao": "CP. FIV. S/LIM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004538.30.045",
+    "Descricao": "CP. FIV. S/LIM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004538.30.145",
+    "Descricao": "CP. FIV. S/LIM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004538.30.159",
+    "Descricao": "CP. FIV. S/LIM PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021180.25.009",
+    "Descricao": "CONJ. MONTAGEM DE ARGOLAS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021219.06.000",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO PÉ 0,5 ALT BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "CP004538.30.063",
+    "Descricao": "CP. FIV. S/LIM OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004538.30.063",
+    "Descricao": "COMP. FIV. S/LIM OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021111.05.084",
+    "Descricao": "ENF. BOTÃO LISO PÉ 5MM+RB0,5 FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021219.06.084",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO PÉ 0,5 ALT FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004538.30.004",
+    "Descricao": "COMP. FIV. S/LIM NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18846.00.02",
+    "Descricao": "ENF. ARO U C/ALÇAS NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004538.30.002",
+    "Descricao": "COMP. FIV. S/LIM NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18846.00.82",
+    "Descricao": "ENF. ARO U C/ALÇAS OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004538.30.009",
+    "Descricao": "COMP. FIV. S/LIM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004538.30.145",
+    "Descricao": "COMP. FIV. S/ LIM. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004538.30.159",
+    "Descricao": "COMP. FIV. S/LIM PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004538.30.045",
+    "Descricao": "COMP. FIV. S/LIM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "PINO 070.145",
+    "Descricao": "PINO MEIA CANA 33,83 X 3,5 X 1,50 MM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 070.159",
+    "Descricao": "PINO MEIA CANA 33,83 X 3,5 X 1,50 MM PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E021219.06.00",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO PÉ 0,5 BX BRUTA ",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021219.06.84",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO PÉ 0,5 BX FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4215.09.84",
+    "Descricao": "FIV. QUADRADA C/LIM FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E17330.07.117",
+    "Descricao": "ENF. PASSADOR (ABERT.7MM) LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021111.05.1.00",
+    "Descricao": "ENF. BOTÃO LISO PÉ 3MM BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "F3985.07.117",
+    "Descricao": "FIV. C/LIM. (ABERT.7MM) LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021111.05.1.84",
+    "Descricao": "ENF. BOTÃO LISO PÉ 3MM+RB0,5 FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021203.26.000",
+    "Descricao": "COMP. ELO \"P\" ABERTO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021216.10.000",
+    "Descricao": "COMP. TERMINAL BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F3965.14.00",
+    "Descricao": "FIV. C/ LIM. (14MM) BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010090"
+  },
+  {
+    "Referencia": "F3965.14.84",
+    "Descricao": "FIV. C/ LIM. (14MM) FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021136.30.000",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021136.30.004",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021136.30.002",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021203.26.104",
+    "Descricao": "COMP. ELO \"P\" ABERTO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021136.30.009",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021245.15.084",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 FREE OURO 18+RES.(BAUNILHA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E0008.25.84",
+    "Descricao": "ARGOLA FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11029.30.84",
+    "Descricao": "ENF. ARGOLA ZAMAC Ø30 MM FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11029.30.99",
+    "Descricao": "ENF. ARGOLA ZAMAC Ø30 MM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021136.30.145",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021136.30.159",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021103.00.000",
+    "Descricao": "ENF. PUXADOR OPEN BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050050010"
+  },
+  {
+    "Referencia": "E021103.00.001",
+    "Descricao": "ENF. PUXADOR OPEN NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021103.00.008",
+    "Descricao": "ENF. PUXADOR OPEN GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021103.00.081",
+    "Descricao": "ENF. PUXADOR OPEN OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021204.26.000",
+    "Descricao": "COMP. ELO \"P\" FECHADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021216.10.104",
+    "Descricao": "COMP. TERMINAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021204.26.104",
+    "Descricao": "COMP. ELO \"P\" FECHADO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021136.30.007",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021205.36.000",
+    "Descricao": "COMP. ELO \"G\" ABERTO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021205.36.104",
+    "Descricao": "COMP. ELO \"G\" ABERTO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021206.36.000",
+    "Descricao": "COMP. ELO \"G\" FECHADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021136.30.045",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021096.39.000",
+    "Descricao": "ENF. BOLA \"CC\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021096.39.002",
+    "Descricao": "ENF. BOLA \"CC\"+RB0,5 NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021136.30.063",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021096.39.004",
+    "Descricao": "ENF. BOLA \"CC\"+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021096.39.082",
+    "Descricao": "ENF. BOLA \"CC\"+RB0,5 OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021206.36.104",
+    "Descricao": "COMP. ELO \"G\" FECHADO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021217.00.000",
+    "Descricao": "COMP. P/REMANCHE BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP021182.00.082",
+    "Descricao": "CP. MONTAGEM DE ELOS AMASSADOS \"P+G\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021136.30.109",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021217.00.104",
+    "Descricao": "COMP. P/REMANCHE COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021218.00.000",
+    "Descricao": "COMP. CHAPA BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021101.20.000",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021182.00.082",
+    "Descricao": "ENF. MONTAGEM DE ELOS AMASSADOS \"P+G\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "MOSQ KPAL906.82",
+    "Descricao": "MOSQUETÃO KPAL 906 OURO 18 (ESTATICO)",
+    "Categoria": "",
+    "Classificacao": "3080080010"
+  },
+  {
+    "Referencia": "F009.81",
+    "Descricao": "AR LATÃO ABR 7,5MM ARAME 1,2 OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080020020"
+  },
+  {
+    "Referencia": "E021101.20.151",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. PRATA BRILHO+RES.(BCO)+CTC0494",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021170.10.117",
+    "Descricao": "ENF. PASSADOR LISO LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004549.10.119",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004549.10.117",
+    "Descricao": "FIV. C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004550.10.117",
+    "Descricao": "CONJ. FIV.+PASSADOR LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E020564.00.009",
+    "Descricao": "COMP. BASE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021101.20.008",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. GRAFITE+RES.(BCO)+CTC0494",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "ILHOS I-70.175",
+    "Descricao": "ILHOS I-70 BAIXO GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E021208.00.000",
+    "Descricao": "COMP. FRENTE MACHO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021208.00.104",
+    "Descricao": "COMP. FRENTE MACHO COBRE ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021218.00.104",
+    "Descricao": "COMP. CHAPA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14593.40.2.42",
+    "Descricao": "ENF. PASSADOR RETANGULAR P.T.(PRETO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021215.00.000",
+    "Descricao": "COMP. ELO CENTRAL BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021209.00.000",
+    "Descricao": "COMP. FRENTE FEMEA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021209.00.104",
+    "Descricao": "COMP. FRENTE FEMEA COBRE ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021210.00.000",
+    "Descricao": "COMP. VERSO P/MACHO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021101.20.001",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(BCO)+CTC0494",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021210.00.104",
+    "Descricao": "COMP. VERSO P/MACHO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021136.30.167",
+    "Descricao": "COMP. PASSADOR MILLER DELUXE COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021211.00.000",
+    "Descricao": "COMP. VERSO P/FEMEA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021211.00.104",
+    "Descricao": "COMP. VERSO P/FEMEA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021126.00.082",
+    "Descricao": "CONJ. MONTAGEM ENTREMEIO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021215.00.104",
+    "Descricao": "COMP. ELO CENTRAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021137.00.00",
+    "Descricao": "COMP. P/REMANCHE LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021101.20.1.01",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(PTO)+CTC0494",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020563.00.009",
+    "Descricao": "COMP. SOBREP. OPEN GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021101.20.044",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. GOLD LIGHT+RES.(BCO)+CTC0494",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021101.20.1.44",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. GOLD LIGHT+RES.(PTO)+CTC0494",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021137.00.004",
+    "Descricao": "COMP. P/REMANCHE LISO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020565.00.009",
+    "Descricao": "COMP. MOVEL GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021110.00.000",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021110.00.003",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\"  NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021110.00.008",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\"  GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021212.10.054",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16505.12.02",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16505.12.01",
+    "Descricao": "ENF. BOTÃO SIST. COST. Ø12MM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16503.20.02",
+    "Descricao": "ENF. BOTÃO SIST. COST. Ø20MM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021137.00.002",
+    "Descricao": "COMP. P/REMANCHE LISO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F4192.16.2.42",
+    "Descricao": "FIV. QUADRADA C/LIM P.T.(CURCUMA SEMI B)",
+    "Categoria": "",
+    "Classificacao": "4020010020"
+  },
+  {
+    "Referencia": "E17915.20.84",
+    "Descricao": "ENF. LOGO PASSANTE FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004529.25.000",
+    "Descricao": "FIV. QUADRADA S/LIM OPEN BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010200"
+  },
+  {
+    "Referencia": "F004245.22.070",
+    "Descricao": "FIV. C/ LIM. SANTA LOLLA FREE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021109.00.000",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E3155.15.00",
+    "Descricao": "ENF. PASSADOR BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021109.00.003",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\"  NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021109.00.010",
+    "Descricao": "ENF. PLACA SIST. COST. \"MARIANNE IMPERIA\"  GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021137.00.009",
+    "Descricao": "COMP. P/REMANCHE LISO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021137.00.145",
+    "Descricao": "COMP. P/REMANCHE LISO PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004544.10.000",
+    "Descricao": "FIV. C/RLT FIXO BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050010050"
+  },
+  {
+    "Referencia": "F004544.10.084",
+    "Descricao": "FIV. C/RLT FIXO FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021153.07.000",
+    "Descricao": "ENF. PASSANTE \"CC\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E3155.15.117",
+    "Descricao": "ENF. PASSADOR LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021137.00.159",
+    "Descricao": "COMP. P/REMANCHE LISO PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021153.07.001",
+    "Descricao": "ENF. PASSANTE \"CC\" NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021153.07.008",
+    "Descricao": "ENF. PASSANTE \"CC\" GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021213.10.054",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3620.45.3.42",
+    "Descricao": "FIV. RETANGULAR ANIMALE PINT.TOTAL(ROSE GOLD 14-1220 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021189.06.003",
+    "Descricao": "ENF. LOSANGO PÉ ALT+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020952.13.1.06",
+    "Descricao": "ENF. BOTÃO SIST. COST. ESTRELA NIQUEL ANT.+RES.(VERMELHO TANGO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021137.00.045",
+    "Descricao": "COMP. P/REMANCHE LISO GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17915.20.100",
+    "Descricao": "ENF. LOGO PASSANTE FREE GOLD 4",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 177.84",
+    "Descricao": "PINO MEIA CANA 12 X 1,6 X 0,8MM FREE OURO 18(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F3157.26.1.91",
+    "Descricao": "FIV. S/ LIM. (2PINOS) FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021245.15.1.84",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 FREE OURO 18+RES.(PTA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004532.20.009",
+    "Descricao": "CONJ. FIV. MOVEL ANIMALE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021245.15.001",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 NIQUEL+RES.(PTA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E8935.00.27",
+    "Descricao": "PUXADOR COLCCI OURO LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021137.00.007",
+    "Descricao": "COMP. P/REMANCHE LISO NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021245.15.1.01",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 NIQUEL+RES.(BAUNILHA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020637.12.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. \"LAF\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "MOSQ KPAL906.59",
+    "Descricao": "MOSQUETÃO KPAL 906 OURO 9 (ESTATICO)",
+    "Categoria": "",
+    "Classificacao": "3080080010"
+  },
+  {
+    "Referencia": "CP021049.32.004",
+    "Descricao": "CP. MONTAGEM DE ELOS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021049.32.004",
+    "Descricao": "ENF. MONTAGEM DE ELOS +KPAL NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021148.13.028",
+    "Descricao": "COMP. ENCAIXE LISO OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021232.03.000",
+    "Descricao": "ENF. PUXADOR MILLER DENIM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050050010"
+  },
+  {
+    "Referencia": "E021050.16.059",
+    "Descricao": "ENF. MONTAGEM DE ELOS +KPAL OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E18074.12.84",
+    "Descricao": "ENF. PONTEIRA \"SL\" C/PINO ELAST. FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021149.13.028",
+    "Descricao": "COMP. ENCAIXE LISO LENNY OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP021050.16.004",
+    "Descricao": "CP. MONTAGEM DE ELOS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021050.16.004",
+    "Descricao": "ENF. MONTAGEM DE ELOS +KPAL NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021232.03.003",
+    "Descricao": "ENF. PUXADOR MILLER DENIM NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021049.32.059",
+    "Descricao": "ENF. MONTAGEM DE ELOS +KPAL OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021231.05.000",
+    "Descricao": "ENF. PUXADOR MILLER BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050050010"
+  },
+  {
+    "Referencia": "E021038.22.040",
+    "Descricao": "ENF. PASSADOR REDONDO LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020995.16.040",
+    "Descricao": "ENF. BOTÃO PÉ 3,6MM+RB0,5 LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021231.05.003",
+    "Descricao": "ENF. PUXADOR MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004334.10.084",
+    "Descricao": "FIV. OVAL C/GRAV. \"D\" FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004447.14.124",
+    "Descricao": "FIV. DUPLA C/1 LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004447.14.099",
+    "Descricao": "FIV. DUPLA C/1 LIM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021232.03.001",
+    "Descricao": "ENF. PUXADOR MILLER DENIM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021232.03.007",
+    "Descricao": "ENF. PUXADOR MILLER DENIM NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004447.14.097",
+    "Descricao": "FIV. DUPLA C/1 LIM FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021232.03.044",
+    "Descricao": "ENF. PUXADOR MILLER DENIM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021232.03.008",
+    "Descricao": "ENF. PUXADOR MILLER DENIM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021232.03.063",
+    "Descricao": "ENF. PUXADOR MILLER DENIM OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021231.05.001",
+    "Descricao": "ENF. PUXADOR MILLER NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021231.05.007",
+    "Descricao": "ENF. PUXADOR MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 148.124",
+    "Descricao": "PINO MEIA CANA 14 X 2,4 X 1,2 MM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 148.99",
+    "Descricao": "PINO MEIA CANA 14 X 2,4 X 1,2 MM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E021348.06.104",
+    "Descricao": "COMP. CORAÇÃO TERMINAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004387.08.117",
+    "Descricao": "FIV. C/PASSANTE DUPLO LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E17322.90.28",
+    "Descricao": "ENF. C/TEXTURA MARTELADO OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021347.00.104",
+    "Descricao": "COMP. CORAÇÃO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E17049.00.28",
+    "Descricao": "ENF. C/TEXTURA MARTELADO \"P\" OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004409.18.117",
+    "Descricao": "FIV. C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021345.06.171",
+    "Descricao": "CONJ. CORRENTE CORAÇÃO 7CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004409.25.117",
+    "Descricao": "FIV. C/LIM LUMI GOLD(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004428.08.117",
+    "Descricao": "FIV. OVAL C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004447.14.117",
+    "Descricao": "FIV. DUPLA C/1 LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021350.00.000",
+    "Descricao": "COMP. ELO ABERTO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021350.00.170",
+    "Descricao": "COMP. ELO ABERTO OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021351.00.000",
+    "Descricao": "COMP. ELO FECHADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "3876.00.01",
+    "Descricao": "ILHÓS I-54 LATÃO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "F004447.19.099",
+    "Descricao": "FIV. DUPLA C/1 LIM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E14787.17.42",
+    "Descricao": "ENF. MEIA ARGOLA P.T.(AZUL MARINHO AZULEJOS)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020676.30.06",
+    "Descricao": "ENF. PASSADOR TEXTURIZADO NIQUEL ANT.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3967.08.117",
+    "Descricao": "FIV. RETANGULAR LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "3876.00.03",
+    "Descricao": "ILHÓS I-54 LATÃO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E021231.05.063",
+    "Descricao": "ENF. PUXADOR MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "3876.00.06",
+    "Descricao": "ILHÓS I-54 LATÃO NIQUEL ANT.",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "ILHOS I-54.19.4",
+    "Descricao": "ILHOS I-54 BAIXO C/ARRUELA 3744 PINTURA TOTAL(VERDE FIGO 18-0627 TCX)",
+    "Categoria": "",
+    "Classificacao": "3080040030"
+  },
+  {
+    "Referencia": "ILHOS I-54.20.4",
+    "Descricao": "ILHOS I-54 BAIXO C/ARRUELA 3744 PINTURA TOTAL(MARROM CAFE 19-1419 TCX)",
+    "Categoria": "",
+    "Classificacao": "3080040030"
+  },
+  {
+    "Referencia": "ILHOS I-54.21.4",
+    "Descricao": "ILHOS I-54 BAIXO C/ARRUELA 3744 PINTURA TOTAL(ROSE GOLD 14-1220 TCX)",
+    "Categoria": "",
+    "Classificacao": "3080040030"
+  },
+  {
+    "Referencia": "3876.00.07",
+    "Descricao": "ILHÓS I-54 LATÃO NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "3876.00.08",
+    "Descricao": "ILHÓS I-54 LATÃO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "F4163.10.124",
+    "Descricao": "FIV. CURVADA C/ROL. FIXO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F4163.12.124",
+    "Descricao": "FIV. CURVADA C/ROL. FIXO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F4163.14.124",
+    "Descricao": "FIV. CURVADA C/ROL. FIXO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021231.05.008",
+    "Descricao": "ENF. PUXADOR MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021231.05.044",
+    "Descricao": "ENF. PUXADOR MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E8501.20.81",
+    "Descricao": "BOTÃO ANIMALE SIST.COST. OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 148.98",
+    "Descricao": "PINO MEIA CANA 14 X 2,4 X 1,2 MM FREE OURO ",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F4173.20.124",
+    "Descricao": "FIV. OVAL C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004533.25.009",
+    "Descricao": "CONJ. FIV. MOVEL ANIMALE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021157.30.000",
+    "Descricao": "ENF. PASSADOR SOL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E021156.00.000",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050190010"
+  },
+  {
+    "Referencia": "E021156.00.007",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021156.00.167",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4173.25.124",
+    "Descricao": "FIV. OVAL C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021156.00.109",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "3876.00.40",
+    "Descricao": "ILHÓS I-54 LATÃO LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "F4173.23.124",
+    "Descricao": "FIV. OVAL C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "PINO 148.121",
+    "Descricao": "PINO MEIA CANA 14 X 2,4 X 1,2 MM FREE SMOKED GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "7665.00.045",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F4181.10.124",
+    "Descricao": "FIV. REDONDA  C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "3876.00.42",
+    "Descricao": "ILHÓS I-54 LATÃO PINT. TOTAL",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "7665.00.044",
+    "Descricao": "PINO MEIA CANA COPIA FIEL GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "3876.00.44",
+    "Descricao": "ILHÓS I-54 LATÃO GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E021156.00.063",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021156.00.004",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021259.18.000",
+    "Descricao": "ENF. PRESILHA WAVY BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021156.00.002",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021156.00.009",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021156.00.045",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021259.18.170",
+    "Descricao": "ENF. PRESILHA WAVY OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4182.21.124",
+    "Descricao": "CONJ. FIV. + PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021156.00.145",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021156.00.159",
+    "Descricao": "COMP. SOBREPOSTO M C/BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "3876.00.58",
+    "Descricao": "ILHÓS I-54 LATÃO OURO 9",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E021258.07.000",
+    "Descricao": "ENF. TUBO WAVY 3,5CM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "PINO 070.58",
+    "Descricao": "PINO MEIA CANA 33,83 X 3,5 X 1,50 MM OURO 9(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "CP004383.43.058",
+    "Descricao": "CP. FIV. S/LIM C/GRAV. ISY OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "3876.00.63",
+    "Descricao": "ILHÓS I-54 LATÃO OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E021137.00.063",
+    "Descricao": "COMP. P/REMANCHE LISO OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "3876.00.98",
+    "Descricao": "ILHÓS I-54 LATÃO FREE OURO",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E021258.07.170",
+    "Descricao": "ENF. TUBO WAVY 3,5CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F1577.09.70",
+    "Descricao": "FIVELA C/LIM. FREE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021255.45.000",
+    "Descricao": "ENF. PEGADOR WAVY 4,5CM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E019968.03.042",
+    "Descricao": "COMP. BASE OPEN P.T. (VERMELHO LOVIN)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021006.25.081",
+    "Descricao": "COMP. BOTÃO PEDRAS OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021255.45.171",
+    "Descricao": "ENF. PEGADOR WAVY 4,5CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F4183.21.124",
+    "Descricao": "COMP. FIV. C/ROL. FIXO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021003.25.081",
+    "Descricao": "CONJ. BOTÃO SIST. COST. OURO 18+PEDRAS(VERMELHA CEREJA + ESMERALDA)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021253.60.000",
+    "Descricao": "ENF. PEGADOR WAVY 6CM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "3876.00.151",
+    "Descricao": "ILHÓS I-54 LATÃO PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E019967.03.042",
+    "Descricao": "CONJ. FECHO ESTRANGULADOR OPEN P.T.(VERMELHO LOVIN)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021137.00.109",
+    "Descricao": "COMP. P/REMANCHE LISO OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021253.60.171",
+    "Descricao": "ENF. PEGADOR WAVY 6CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021137.00.167",
+    "Descricao": "COMP. P/REMANCHE LISO COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021254.00.000",
+    "Descricao": "ENF. GANCHINHO WAVY BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP004546.30.004",
+    "Descricao": "CP. BASE FIV. NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E020837.20.008",
+    "Descricao": "ENF. BOTÃO SIST. COST. 20MM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021138.00.00",
+    "Descricao": "COMP. CHAPA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021254.00.171",
+    "Descricao": "ENF. GANCHINHO WAVY OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004383.43.110",
+    "Descricao": "CP. FIV. S/LIM C/GRAV. ISY OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E020838.20.008",
+    "Descricao": "ENF. BOTÃO SIST. COST. 20MM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004546.30.002",
+    "Descricao": "CP. BASE FIV. NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004546.30.009",
+    "Descricao": "CP. BASE FIV. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "3876.00.170",
+    "Descricao": "ILHÓS I-54 LATÃO OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E11586.20.01",
+    "Descricao": "ENF. PASSADOR MEIA CANA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021573.05.000",
+    "Descricao": "ENF. METAL ENTRELAÇADO 4CM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021573.05.170",
+    "Descricao": "ENF. METAL ENTRELAÇADO 4CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004546.30.045",
+    "Descricao": "CP. BASE FIV. GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021246.00.001",
+    "Descricao": "ENF. LOGO ALME PÉ BX+RB0,5 NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11121.20.92.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(JASPER)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E11121.20.93.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(GRASS GREEN)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F1848.10.114",
+    "Descricao": "FIV. OVAL C/LIM FREE GOLD 4 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004546.30.145",
+    "Descricao": "CP. BASE FIV. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E11121.20.94.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(PRATA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP004546.30.159",
+    "Descricao": "CP. BASE FIV. PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004546.30.004",
+    "Descricao": "COMP. BASE FIV. NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E11121.20.95.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(TEA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004546.30.002",
+    "Descricao": "COMP. BASE FIV. NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "3876.00.81",
+    "Descricao": "ILHÓS I-54 LATÃO OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "F004546.30.009",
+    "Descricao": "COMP. BASE FIV. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E11121.20.96.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(TÂMARA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004546.30.045",
+    "Descricao": "COMP. BASE FIV. GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "3876.00.68",
+    "Descricao": "ILHÓS I-54 LATÃO FREE OURO ESC.",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "F004546.30.063",
+    "Descricao": "COMP. BASE FIV. OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "3876.00.20",
+    "Descricao": "ILHÓS I-54 LATÃO OURO 20",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "E11121.20.97.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(ÁGATA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E11121.20.98.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(CHESTNUT)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021244.20.000",
+    "Descricao": "ENF. PEGADOR TUBULAR C/BOLA BRUTA MT(30T-G 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021244.20.171",
+    "Descricao": "ENF. PEGADOR TUBULAR C/BOLA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E11922.00.000",
+    "Descricao": "ENF. PUXADOR PRUNE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050050010"
+  },
+  {
+    "Referencia": "E11922.00.084",
+    "Descricao": "ENF. PUXADOR PRUNE FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11121.20.99.42",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(AMETISTA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004546.30.145",
+    "Descricao": "COMP. BASE FIV. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18532.21.124",
+    "Descricao": "COMP. PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021165.20.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. \"TUFI DUEK\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11121.20.100.4",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(GRASS)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021138.00.007",
+    "Descricao": "COMP. CHAPA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004546.30.159",
+    "Descricao": "COMP. BASE FIV. PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E11121.20.101.4",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(BRICK)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021237.15.000",
+    "Descricao": "COMP. PING. RETANGULAR PASSANTE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F2694.25.84",
+    "Descricao": "FIV. C/ LIM RLT FIXO SANTA LOLLA FREE OURO 18(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021237.15.001",
+    "Descricao": "COMP. PING. RETANGULAR PASSANTE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021237.15.008",
+    "Descricao": "COMP. PING. RETANGULAR PASSANTE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.004",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E10213.00.97",
+    "Descricao": "ENFEITE SPIKE RB 0,5 BX FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP019749.00.1.1",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(CAFÉ 1058)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021237.15.044",
+    "Descricao": "COMP. PING. RETANGULAR PASSANTE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13713.00.08",
+    "Descricao": "COMP. PINGENTE BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP019749.00.2.1",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(ROXINHO 4478)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP019749.00.3.1",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(GUARANÁ 179)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13713.00.001",
+    "Descricao": "COMP. PINGENTE BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021236.15.001",
+    "Descricao": "CONJ. MONTAGEM PASSANTE RETANGULAR+BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP019749.00.4.1",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(PINK 4013)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021291.00.000",
+    "Descricao": "COMP. FRENTE BRUTA MT(90T-R 160 X 200-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021236.15.008",
+    "Descricao": "CONJ. MONTAGEM PASSANTE RETANGULAR+BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP019749.00.5.1",
+    "Descricao": "CP. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(PINK POWER 4489)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.002",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021236.15.044",
+    "Descricao": "CONJ. MONTAGEM PASSANTE RETANGULAR+BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E019749.00.3.01",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(CAFÉ 1058)+CTC0396",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.009",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021138.00.003",
+    "Descricao": "COMP. CHAPA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019749.00.4.01",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(ROXINHO 4478)+CTC0396",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.159",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E019749.00.5.01",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(GUARANÁ 179)+CTC0396",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021291.00.170",
+    "Descricao": "COMP. FRENTE OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.145",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E019749.00.6.01",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(PINK 4013)+CTC0396",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019749.00.7.01",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER AUTOPERF. NIQUEL+RES.(PINK POWER 4489)+CTC0396",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021323.10.124",
+    "Descricao": "ENF. BOTÃO \"B\" PÉ 0,5 BX+RB0,5 FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16891.05.128.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (VERMELHO 2001  F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E16891.05.129.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (AMARELO LIMÃO 1700  F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E16891.05.130.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (VERDE SELVA 540 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021292.00.000",
+    "Descricao": "COMP. VERSO BRUTA MT(90T-R 160 X 200-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021292.00.170",
+    "Descricao": "COMP. VERSO OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.063",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021293.00.000",
+    "Descricao": "COMP. PEDRA CENTRAL BRUTA MT (90T-R 160 X 200-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021223.20.000",
+    "Descricao": "ENF. BOTÃO CARACOL SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E021223.20.161",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4184.15.124",
+    "Descricao": "CONJ. FIV. + PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004545.30.007",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004545.30.045",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021223.20.160",
+    "Descricao": "ENF. BOTÃO CARACOL SIST. COST. OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004545.30.109",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F4185.15.124",
+    "Descricao": "COMP. FIV. C/ROL. FIXO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004545.30.167",
+    "Descricao": "CONJ. FIV. BIMETAL \"M\" C/BONECA COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021223.20.081",
+    "Descricao": "ENF. BOTÃO CARACOL SIST. COST. OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E15556.27.28",
+    "Descricao": "ENF. ARGOLA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021138.00.001",
+    "Descricao": "COMP. CHAPA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021224.20.000",
+    "Descricao": "ENF. BOTÃO PEIXE SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E021224.20.160",
+    "Descricao": "ENF. BOTÃO PEIXE SIST. COST. OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3093.25.1.06",
+    "Descricao": "FIV. C/LIM. RLT. FIXO C/REBOQUE NIQUEL ANTIQUE",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E18533.15.124",
+    "Descricao": "COMP. PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021224.20.081",
+    "Descricao": "ENF. BOTÃO PEIXE SIST. COST. OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021293.00.042",
+    "Descricao": "COMP. PEDRA CENTRAL P.T.(TARTARUGA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021222.24.000",
+    "Descricao": "ENF. CARACOL PASSANTE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E021222.24.161",
+    "Descricao": "ENF. CARACOL PASSANTE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3093.25.1.40",
+    "Descricao": "FIV. C/LIM. RLT. FIXO C/REBOQUE LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021351.00.158",
+    "Descricao": "COMP. ELO FECHADO PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004469.35.033",
+    "Descricao": "CP. FIV. C/RLT FIXO FORUM GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004469.35.054",
+    "Descricao": "CP. FIV. C/RLT FIXO FORUM OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004469.35.033",
+    "Descricao": "FIV. C/RLT FIXO FORUM 2 PINOS GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021293.00.1.42",
+    "Descricao": "COMP. PEDRA CENTRAL P.T.(VERDE MILITAR 190511 TPX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021323.10.099",
+    "Descricao": "ENF. BOTÃO \"B\" PÉ 0,5 BX+RB0,5 FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021290.20.170",
+    "Descricao": "ENF. METAL PASSANTE OURO 9 ESC.(PARCIAL)+P.T.(TARTARUGA B)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021290.20.170.",
+    "Descricao": "ENF. METAL PASSANTE OURO 9 ESC.(PARCIAL)+P.T.(VERDE MILITAR 190511 TPX)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021321.10.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050150010"
+  },
+  {
+    "Referencia": "E021352.00.000",
+    "Descricao": "COMP. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040500"
+  },
+  {
+    "Referencia": "E021324.10.124",
+    "Descricao": "ENF. BRIDÃO LISO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021324.10.000",
+    "Descricao": "ENF. BRIDÃO LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050150010"
+  },
+  {
+    "Referencia": "E021324.10.099",
+    "Descricao": "ENF. BRIDÃO LISO FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021325.10.000",
+    "Descricao": "ENF. BRIDÃO CURVADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050150010"
+  },
+  {
+    "Referencia": "E021325.10.124",
+    "Descricao": "ENF. BRIDÃO CURVADO FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021325.10.099",
+    "Descricao": "ENF. BRIDÃO CURVADO FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021322.20.000",
+    "Descricao": "ENF. PASSANTE \"B\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030040"
+  },
+  {
+    "Referencia": "E021322.20.124",
+    "Descricao": "ENF. PASSANTE \"B\" FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 059.09",
+    "Descricao": "PINO MEIA CANA 15,37X2,4X1,4MM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 059.28",
+    "Descricao": "PINO MEIA CANA 15,37X2,4X1,4MM OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F004469.35.054",
+    "Descricao": "FIV. C/RLT FIXO FORUM 2 PINOS OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F2932.30.114",
+    "Descricao": "FIV. S/GRAV. C/LIM. DUPLO FREE GOLD 4 ESC.",
+    "Categoria": "",
+    "Classificacao": "3090090090"
+  },
+  {
+    "Referencia": "F4192.12.124",
+    "Descricao": "FIV. QUADRADA C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021322.20.099",
+    "Descricao": "ENF. PASSANTE \"B\" FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021352.00.158",
+    "Descricao": "COMP. ARGOLA PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021326.18.000",
+    "Descricao": "ENF. PASSANTE PÉ 3MM BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E11928.04.70",
+    "Descricao": "COMP. ILHOS SUP. ESTRELA FREE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021352.00.170",
+    "Descricao": "COMP. ARGOLA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP020467.00.002",
+    "Descricao": "CP. PINGENTE SIGNATURA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E11929.00.70",
+    "Descricao": "COMP. ILHOS INFERIOR FREE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11871.04.70",
+    "Descricao": "CONJ. ILHOS ZAMAC ESTRELA C/ARRUELA FREE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004513.12.084",
+    "Descricao": "FIV. RETANGULAR C/LIM FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021230.20.000",
+    "Descricao": "ENF. BOTÃO ESTRELA SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "F4192.14.124",
+    "Descricao": "FIV. QUADRADA C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F4192.16.124",
+    "Descricao": "FIV. QUADRADA C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP020467.00.059",
+    "Descricao": "CP. PINGENTE SIGNATURA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021261.25.000",
+    "Descricao": "ENF. PLACA COLCCI SIST. COST. BRUTA MT(13T-G 80 X 140-8CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021222.24.082",
+    "Descricao": "ENF. CARACOL PASSANTE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021261.25.008",
+    "Descricao": "ENF. PLACA COLCCI SIST. COST. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4192.18.124",
+    "Descricao": "FIV. QUADRADA C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021261.25.024",
+    "Descricao": "ENF. PLACA COLCCI SIST. COST. OURO LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021326.18.099",
+    "Descricao": "ENF. PASSANTE PÉ 0,5 BX+RB0,5 FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021230.20.160",
+    "Descricao": "ENF. BOTÃO ESTRELA SIST. COST. OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "3856.04.158",
+    "Descricao": "AR FIO 1,2 X 4MM LATÃO (ABERTA) PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021230.20.081",
+    "Descricao": "ENF. BOTÃO ESTRELA SIST. COST. OURO 18 ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021233.00.000",
+    "Descricao": "ENF. PUXADOR MILLER BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050050010"
+  },
+  {
+    "Referencia": "E021233.00.003",
+    "Descricao": "ENF. PUXADOR MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021326.18.124",
+    "Descricao": "ENF. PASSANTE PÉ 0,5 BX+RB0,5 FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004558.20.000",
+    "Descricao": "FIV. C/PASSANTE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010150"
+  },
+  {
+    "Referencia": "E021138.00.008",
+    "Descricao": "COMP. CHAPA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021349.07.170",
+    "Descricao": "CONJ. ELO DUPLO C/ARGOLAS OURO 9 ESC.(PARCIAL)+PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021260.15.000",
+    "Descricao": "ENF. BOTÃO COLCCI SIST. COST. BRUTA MT (13T-G 65 X 90-4CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021233.00.001",
+    "Descricao": "ENF. PUXADOR MILLER NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021233.00.008",
+    "Descricao": "ENF. PUXADOR MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16891.05.120.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (LARANJA 21650 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E16891.05.121.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (AZUL 21647  F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021260.15.008",
+    "Descricao": "ENF. BOTÃO COLCCI SIST. COST. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021260.15.024",
+    "Descricao": "ENF. BOTÃO COLCCI SIST. COST. OURO LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16891.05.122.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (MARROM 21677  F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F4194.36.124",
+    "Descricao": "FIV. C/LIM REDONDA FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F4208.13.124",
+    "Descricao": "FIV. REDONDA STRASS FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004551.21.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050010160"
+  },
+  {
+    "Referencia": "E021226.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "E021225.00.000",
+    "Descricao": "COMP. BASE CARACOL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050200010"
+  },
+  {
+    "Referencia": "F004558.20.124",
+    "Descricao": "FIV. C/PASSANTE FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004551.21.161",
+    "Descricao": "FIV. CARACOL OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004551.21.082",
+    "Descricao": "FIV. CARACOL OURO 18 ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004558.20.099",
+    "Descricao": "FIV. C/PASSANTE FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021248.14.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. (4FUROS) BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "CP17444.00.119",
+    "Descricao": "CP. ESCRITO MILLER SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E17444.00.119",
+    "Descricao": "ENF. ESCRITO MILLER SEM BANHO+ CTC 0348",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021221.00.000",
+    "Descricao": "COMP. BASE COLAR ORGANICO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050200010"
+  },
+  {
+    "Referencia": "E020052.76.002",
+    "Descricao": "ENF. BASTÃO ORGANICO PASSSANTE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E15870.00.4.42",
+    "Descricao": "ENF. PLACA MILLER DLX PINT.TOTAL(BCOF)+ CTC 003",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP004221.30.068",
+    "Descricao": "CP. FIV. QUADRADA FREE OURO ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004221.30.099",
+    "Descricao": "CP. FIV. QUADRADA FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP021221.00.004",
+    "Descricao": "COMP. BASE COLAR ORGANICO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP021221.00.161",
+    "Descricao": "COMP. BASE COLAR ORGANICO OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004221.30.121",
+    "Descricao": "CP. FIV. QUADRADA FREE SMOKED GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021094.43.000",
+    "Descricao": "ENF. PASSADOR LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "CP004221.30.124",
+    "Descricao": "CP. FIV. QUADRADA FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CORR.0557.6.02",
+    "Descricao": "CORRENTE LATÃO 0557 6,5CM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "CORR.0557.6.82",
+    "Descricao": "CORRENTE LATÃO 0557 6,5CM OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "CORR.0557.4.82",
+    "Descricao": "CORRENTE LATÃO 0557 4,5CM OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "CORR.0557.4.02",
+    "Descricao": "CORRENTE LATÃO 0557 4,5CM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "E021221.00.004",
+    "Descricao": "CONJ. MONTAGEM COLAR ORGANICO+CORR.+KPAL NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021094.43.002",
+    "Descricao": "ENF. PASSADOR LISO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021221.00.161",
+    "Descricao": "CONJ. MONTAGEM COLAR ORGANICO+CORR.+KPAL OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "MOSQKPAL903.161",
+    "Descricao": "MOSQUETÃO KPAL 903 OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "3080080010"
+  },
+  {
+    "Referencia": "E020893.70.002",
+    "Descricao": "CONJ. MONTAGEM RAVN NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F4208.25.124",
+    "Descricao": "FIV. REDONDA STRASS CRISTAL FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021248.14.001",
+    "Descricao": "ENF. BOTÃO SIST. COST. (4FUROS) NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004447.19.117",
+    "Descricao": "FIV. DUPLA C/1 LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E18532.21.099",
+    "Descricao": "ENF. PASSADOR FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004459.08.117",
+    "Descricao": "FIV. C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E11121.20.102.4",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(NIQUEL)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020931.105.009",
+    "Descricao": "CONJ. MONTAGEM CORR 105CM+PINGENTE+MOSQUETÃO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CORR.0701.105.9",
+    "Descricao": "CORRENTE 0701 LATÃO 105 CM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "F004459.10.117",
+    "Descricao": "FIV. C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CORR.0701.115.9",
+    "Descricao": "CORRENTE 0701 LATÃO 115 CM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "CORR.0701.125.9",
+    "Descricao": "CORRENTE 0701 LATÃO 125 CM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "E020931.115.009",
+    "Descricao": "CONJ. MONTAGEM CORR 115CM+PINGENTE+MOSQUETÃO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004504.08.117",
+    "Descricao": "FIV. OVAL C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E020931.125.009",
+    "Descricao": "CONJ. MONTAGEM CORR 125CM+PINGENTE+MOSQUETÃO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004515.16.117",
+    "Descricao": "FIV. C/LIM TEXTURIZADA LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F4208.28.124",
+    "Descricao": "FIV. REDONDA STRASS FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F4209.08.124",
+    "Descricao": "FIV. QUADRADA C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004522.13.117",
+    "Descricao": "FIV. C/LIM LUM GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004529.27.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050010220"
+  },
+  {
+    "Referencia": "F004522.21.117",
+    "Descricao": "FIV. C/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004544.10.117",
+    "Descricao": "FIV. C/RLT FIXO LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F2320.21.84",
+    "Descricao": "FIVELA RLT CHAPA FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021233.00.044",
+    "Descricao": "ENF. PUXADOR MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021233.00.063",
+    "Descricao": "ENF. PUXADOR MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021233.00.007",
+    "Descricao": "ENF. PUXADOR MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021235.00.000",
+    "Descricao": "ENF. COBRA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021235.00.133",
+    "Descricao": "ENF. COBRA OURO VELHO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16891.05.127.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (CITRINE 17079  F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020893.70.059",
+    "Descricao": "CONJ. MONTAGEM RAVN OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F4214.09.124",
+    "Descricao": "CONJ. FIVELA + PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F4215.09.124",
+    "Descricao": "COMP. FIV. QUADRADA C/LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004547.27.000",
+    "Descricao": "FIV. REDONDA C/ ROL. FIXO BRUTA (MT)",
+    "Categoria": "",
+    "Classificacao": "3050010220"
+  },
+  {
+    "Referencia": "F004547.27.117",
+    "Descricao": "FIV. REDONDA C/RLT FIXO LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004547.27.175",
+    "Descricao": "FIV. REDONDA C/RLT FIXO GOLDEN BRONZE FREE",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004327.32.173",
+    "Descricao": "FIV. S/LIM LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18839.09.124",
+    "Descricao": "COMP. PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021102 ETD",
+    "Descricao": "E021102 ELETRODO LATÃO",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021372.40.000",
+    "Descricao": "ENF. PASSADOR SOL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "F1577.09.114",
+    "Descricao": "FIVELA C/LIM. FREE GOLD 4 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP15870.00.02",
+    "Descricao": "CP. PLACA MILLER DLX NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15870.00.04",
+    "Descricao": "CP. PLACA MILLER DLX NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15870.00.07",
+    "Descricao": "CP. PLACA MILLER DLX NIQUEL ANTIQ. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021138.00.151",
+    "Descricao": "COMP. CHAPA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021138.00.158",
+    "Descricao": "COMP. CHAPA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021366.12.000",
+    "Descricao": "COMP. BASTÃO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP15870.00.09",
+    "Descricao": "CP. PLACA MILLER DLX GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15870.00.42",
+    "Descricao": "CP. PLACA MILLER DLX PINT.TOTAL",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021138.00.044",
+    "Descricao": "COMP. CHAPA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP15870.00.131",
+    "Descricao": "CP. PLACA MILLER DLX GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18492.20.08",
+    "Descricao": "COMP. BASE PASSANTE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021138.00.063",
+    "Descricao": "COMP. CHAPA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP15870.00.45",
+    "Descricao": "CP. PLACA MILLER DLX GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021234.40.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050040320"
+  },
+  {
+    "Referencia": "CP15870.00.63",
+    "Descricao": "CP. PLACA MILLER DLX OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021355.14.000",
+    "Descricao": "ENF. BOTÃO LISO PÉ 4MM BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021138.00.109",
+    "Descricao": "COMP. CHAPA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4171.20.08",
+    "Descricao": "CONJ. FIV. BASE GRAFITE + SOBREP.SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E019796.24.000",
+    "Descricao": "ENF. PLACA REDONDA MILLER BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021238.40.000",
+    "Descricao": "COMP. ARGOLA C/GRAV.\"OPENSQUAD\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040320"
+  },
+  {
+    "Referencia": "E021366.12.171",
+    "Descricao": "COMP. BASTÃO OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019796.24.002",
+    "Descricao": "ENF. PLACA REDONDA MILLER NIQUEL+RES.(PTO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021365.14.000",
+    "Descricao": "COMP. BASE PASSANTE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050200010"
+  },
+  {
+    "Referencia": "E021372.40.082",
+    "Descricao": "ENF. PASSADOR SOL OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021138.00.167",
+    "Descricao": "COMP. CHAPA COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019796.24.009",
+    "Descricao": "ENF. PLACA REDONDA MILLER GRAFITE+RES.(PTO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019796.24.045",
+    "Descricao": "ENF. PLACA REDONDA MILLER GOLD LIGHT+RES.(BCO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019796.24.1.45",
+    "Descricao": "ENF. PLACA REDONDA MILLER GOLD LIGHT+RES.(PTO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F4206.35.23.42",
+    "Descricao": "CONJ. FIV. FECHO FUNCIONAL P.T. (LARANJA TREINALLE FOSCO 18-1163)",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021238.40.004",
+    "Descricao": "COMP. ARGOLA C/GRAV.\"OPENQUAD\" NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F4206.35.24.42",
+    "Descricao": "CONJ. FIV. FECHO FUNCIONAL P.T.(VERDE MILANO FOSCO 19-0516)",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP1971.35.02",
+    "Descricao": "CP FIVELA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004225.08.124",
+    "Descricao": "CONJ. FIV. + PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004226.08.124",
+    "Descricao": "COMP. FIV. C/ LIM. FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021365.14.171",
+    "Descricao": "COMP. BASE PASSANTE OURO 9 ESC. (PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019027.08.124",
+    "Descricao": "COMP. PASSADOR FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004227.15.124",
+    "Descricao": "FIV. QUADRADA C/ LIM. FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004246.22.124",
+    "Descricao": "FIV. TRANÇADA C/LIM FREE GOLD(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021234.40.004",
+    "Descricao": "CONJ. ARGOLA OPENSQUAD+BOTÃO+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E019793.24.000",
+    "Descricao": "ENF. PLACA REDONDA MLR BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "CP019793.24..44",
+    "Descricao": "CP. PLACA REDONDA MLR GOLD LIGHT+RES.(PTA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP019793.24.001",
+    "Descricao": "CP. PLACA REDONDA MLR NIQUEL+RES.(PTO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP019793.24.008",
+    "Descricao": "CP. PLACA REDONDA MLR GRAFITE+RES.(PTO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP1971.35.28",
+    "Descricao": "CP. FIVELA OURO CHAMPAGNE ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP019793.24.044",
+    "Descricao": "CP. PLACA REDONDA MLR GOLD LIGHT+RES.(BCA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F2833.20.81",
+    "Descricao": "FIV. C/LIM. OURO 18 (ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021355.14.042",
+    "Descricao": "ENF. BOTÃO LISO PÉ 4MM+RB0,5 P.T.(PRETA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021364.00.171",
+    "Descricao": "CONJ. FECHO QUADRADO TEMPORAL OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021157.30.082",
+    "Descricao": "ENF. PASSADOR SOL OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021159.26.000",
+    "Descricao": "COMP. MACHO C/GRAV. \"ISY\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP4653.08.03",
+    "Descricao": "BOTÃO ALT. 5MM NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004537.30.004",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP1971.35.25",
+    "Descricao": "FIVELA OURO LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004537.30.002",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004537.30.009",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004537.30.145",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004537.30.159",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP019793.24.119",
+    "Descricao": "CP. PLACA REDONDA MLR SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004537.30.007",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021159.26.104",
+    "Descricao": "COMP. MACHO C/GRAV. \"ISY\" COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004537.30.045",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021160.26.000",
+    "Descricao": "COMP. FEMEA C/GRAV. \"ISY\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E019793.24.001",
+    "Descricao": "ENF. PLACA REDONDA MLR NIQUEL+RES.(PTO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004283.15.124",
+    "Descricao": "FIV. ORGANICA C/ PINO ZAMAC FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004537.30.063",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021160.26.104",
+    "Descricao": "COMP. FEMEA C/GRAV. \"ISY\" COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021158.26.082",
+    "Descricao": "CONJ. BRIDÃO \"ISY\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021096.39.161",
+    "Descricao": "ENF. BOLA \"CC\"+RB0,5 OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004537.30.109",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E019793.24.008",
+    "Descricao": "ENF. PLACA REDONDA MLR GRAFITE+RES.(PTO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019793.24.044",
+    "Descricao": "ENF. PLACA REDONDA MLR GOLD LIGHT+RES.(BCO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019793.24.1.44",
+    "Descricao": "ENF. PLACA REDONDA MLR GOLD LIGHT+RES.(PTO)+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004537.30.167",
+    "Descricao": "FIV. C/PASSADOR MILLER DELUXE+RB0,5 COBRE LATONADO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E019793.24.119",
+    "Descricao": "ENF. PLACA REDONDA MLR SEM BANHO+CTC0432",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E021314.00.042",
+    "Descricao": "ENF. ENTREMEIO C/CARACOL NO CENTRO P.T.(AZUL SAPHIRE 19-3952 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021315.00.042",
+    "Descricao": "ENF. ENTREMEIO C/CARACOL NO CENTRO P.T.(AZUL SAPHIRE 19-3952 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021356.00.000",
+    "Descricao": "ENF. ENTREMEIO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004286.10.124",
+    "Descricao": "FIV. C/ LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021356.00.054",
+    "Descricao": "ENF. ENTREMEIO OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004286.10.124",
+    "Descricao": "CP. FIV. C/ LIM. FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "PINO 184.124",
+    "Descricao": "PINO MEIA CANA 16,8 X 2,3 X 1,2MM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E1060.00.67",
+    "Descricao": "ENF. ELO FECHADO FREE GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14142.05.42",
+    "Descricao": "ENF. PONTEIRA  (S/GRAV.) S/FURO P.T.(AZUL)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020664.41.059",
+    "Descricao": "ENF. ARGOLA JOY AMASSADA OURO 9 ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E4171.00.124",
+    "Descricao": "TACHINHA FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021016.50.002",
+    "Descricao": "ENF. ELO PASSANTE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP13601.22.058",
+    "Descricao": "CP. ARGOLA TEXTURA C/STRASS OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021357.05.000",
+    "Descricao": "ENF. PING. PEIXE BRUTA MT(13T-R 65 X 90-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050060010"
+  },
+  {
+    "Referencia": "AR450.58",
+    "Descricao": "AR450 ARAME ABERTA OURO 9",
+    "Categoria": "",
+    "Classificacao": "3080020010"
+  },
+  {
+    "Referencia": "E021007.00.4.42",
+    "Descricao": "COMP. PEDRA OVAL P.T.(VERMELHO LOVE)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021008.00.4.42",
+    "Descricao": "COMP. PEDRA QUADRADA P.T.(VERMELHO LOVE)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020950.00.058",
+    "Descricao": "ENF. MONTAGEM 3 ELOS C/STRASS OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021003.25.1.81",
+    "Descricao": "CONJ. BOTÃO SIST. COST. OURO 18+PEDRAS(VERMELHO LOVE)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "PINO 186.91",
+    "Descricao": "PINO MEIA CANA 19,5 X 2,3 X 1,2MM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E020995.16.058",
+    "Descricao": "ENF. BOTÃO PÉ 3,6MM+RB0,5 OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019997.13.117",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO C/PREGO LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021357.05.081",
+    "Descricao": "ENF. PING. PEIXE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 186.92",
+    "Descricao": "PINO MEIA CANA 19,5 X 2,3 X 1,2MM FREE OURO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E019998.16.117",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO C/PREGO LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020354.15.117",
+    "Descricao": "ENFEITE BOTÃO TRITON SISTEMA COSTURA LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020380.10.059",
+    "Descricao": "ENF. SIST. COST. OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004398.08.084",
+    "Descricao": "FIV. OVAL C/LIM. \"SL\" FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E020393.35.059",
+    "Descricao": "ENF. PASSANTE CURVADO DUPLO+RB0,5 OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020394.27.059",
+    "Descricao": "ENF. PASSANTE CURVADO DUPLO+RB0,5 OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020533.92.059",
+    "Descricao": "ENF. MONTAGEM DE ELOS OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16891.05.131.4",
+    "Descricao": "ENF. PONTEIRA MILLER P.T. (NATURAL 1534 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13597.00.2.42",
+    "Descricao": "ENF. PINGENTE FLOR P.T. (ROXO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18532.21.084",
+    "Descricao": "ENF. PASSADOR FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019863.00.028",
+    "Descricao": "ENF. P/ROUPA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021373.00.000",
+    "Descricao": "COMP. BASE SOL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050200010"
+  },
+  {
+    "Referencia": "E021228.20.000",
+    "Descricao": "ENF. MEIA ARGOLA BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050080100"
+  },
+  {
+    "Referencia": "E021353.00.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021228.20.027",
+    "Descricao": "ENF. MEIA ARGOLA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F0826.07.97",
+    "Descricao": "FIV. C/LIMITADOR FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E2148.07.97",
+    "Descricao": "ENF. PASSADOR FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019806.40.058",
+    "Descricao": "ENF. ARGOLA AMASSADA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019950.27.058",
+    "Descricao": "ENF. ARGOLA TEXTURIZADA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14920.10.41.42",
+    "Descricao": "ENF. BOTÃO C/TEXTURA SIS.COST. PINT.TOTAL(MARROM RUIBARBO 19-1652TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019951.10.058",
+    "Descricao": "ENF. BOTÃO TEXTURIZADO+RB0,5 OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020277.00.058",
+    "Descricao": "ENF. TRIANGULO OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP13601.22.124.",
+    "Descricao": "CP. ARGOLA TEXTURA S/STRASS FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021229.00.124.",
+    "Descricao": "ENF. MONTAGEM 2 ELOS S/STRASS FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E020633.00.058",
+    "Descricao": "ENF. \"B\" OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021263.00.000",
+    "Descricao": "COMP. LETRA \"M\" BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021382.00.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E020963.00.159",
+    "Descricao": "ENF. METAL ENTREMEIO PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021263.00.007",
+    "Descricao": "COMP. LETRA \"M\" NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021382.00.054",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021264.00.000",
+    "Descricao": "COMP. TRAÇO BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004571.14.000",
+    "Descricao": "FIV. C/PASSANTE BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050010090"
+  },
+  {
+    "Referencia": "E021264.00.007",
+    "Descricao": "COMP. TRAÇO NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021265.00.000",
+    "Descricao": "COMP. LETRA \"L\" BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021265.00.007",
+    "Descricao": "COMP. LETRA \"L\" NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004273.35.084",
+    "Descricao": "FIV. PASSANTE C/2 PINOS FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021358.00.000",
+    "Descricao": "COMP. PLACA CLC BRUTA MT (30T-R 80 X 140-6CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021247.25.000",
+    "Descricao": "ENF. PASSADOR RETANGULAR LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021247.25.001",
+    "Descricao": "ENF. PASSADOR RETANGULAR LISO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CTC 0479.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA MT ZINCO",
+    "Categoria": "",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E021262.00.007",
+    "Descricao": "CONJ. M+TRAÇO+L PÉ DE ESTALAR NIQUEL ANT. ESC.+CTC0479",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021358.00.003",
+    "Descricao": "COMP. PLACA CLC NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021273.06.000",
+    "Descricao": "ENF. CHAPA C/ELOS 4CM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021273.06.170",
+    "Descricao": "ENF. CHAPA C/ELOS 4CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021302.15.000",
+    "Descricao": "ENF. MEIA LUA BOLA GRANULADA SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021250.20.002",
+    "Descricao": "CONJ. PING. BIMETAL C/BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021358.00.010",
+    "Descricao": "COMP. PLACA CLC GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021374.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "F004561.40.082",
+    "Descricao": "FIV. SOL OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021302.15.170",
+    "Descricao": "ENF. MEIA LUA BOLA GRANULADA SIST. COST. OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021383.25.000",
+    "Descricao": "COMP. ENCAIXE LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E16702.20.02",
+    "Descricao": "COMP. BASE LISA NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E16703.20.02",
+    "Descricao": "COMP. PING. SOBREPOSTO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021250.20.045",
+    "Descricao": "CONJ. PING. BIMETAL C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021307.20.000",
+    "Descricao": "ENF. BOTÃO 20MM GRANULADO PÉ 0,5 ALT BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CTC 0480.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA NIQUEL MT(30T-R 80 X 140-4CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "E021307.20.170",
+    "Descricao": "ENF. BOTÃO 20MM GRANULADO PÉ 0,5 ALT+RB0,5 OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021353.00.003",
+    "Descricao": "ENF. PLACA CLC+RB0,5 NIQUEL ESC.+CTC0481",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020870.18.126",
+    "Descricao": "ENF. MONTAGEM DE ELOS FREE GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021383.25.054",
+    "Descricao": "COMP. ENCAIXE LISO OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021308.20.000",
+    "Descricao": "ENF. BOTÃO 20MM COBRA PÉ 0,5 ALT BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021308.20.170",
+    "Descricao": "ENF. BOTÃO 20MM COBRA PÉ 0,5 ALT+RB0,5 OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021384.25.000",
+    "Descricao": "COMP. ENCAIXE AMASSADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004447.19.124",
+    "Descricao": "FIV. DUPLA C/1 LIM FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021309.25.000",
+    "Descricao": "ENF. BOTÃO RETANGULAR COBRA SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021309.25.170",
+    "Descricao": "ENF. BOTÃO RETANGULAR COBRA SIST. COST. OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020875.18.126",
+    "Descricao": "ENF. ELO FECHADO FREE GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021306.20.000",
+    "Descricao": "ENF. TUBO BIA CRISTA COBRA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021306.20.170",
+    "Descricao": "ENF. TUBO BIA CRISTA COBRA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F1349.14.124",
+    "Descricao": "FIVELA FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021303.04.000",
+    "Descricao": "ENF. ELO C/BOLA GRANULADA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021303.04.170",
+    "Descricao": "ENF. ELO C/BOLA GRANULADA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021305.21.000",
+    "Descricao": "ENF. PASSADOR CRISTA COBRA BASIC BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021305.21.171",
+    "Descricao": "ENF. PASSADOR CRISTA COBRA BASIC OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021304.40.000",
+    "Descricao": "ENF. PEGADOR CRISTA COBRA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021384.25.054",
+    "Descricao": "COMP. ENCAIXE AMASSADO OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021304.40.171",
+    "Descricao": "ENF. PEGADOR CRISTA COBRA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021275.08.000",
+    "Descricao": "ENF. METAL PASSADOR \"P\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F2688.80.82",
+    "Descricao": "FIVELA OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021353.00.010",
+    "Descricao": "ENF. PLACA CLC+RB0,5 GRAFITE ESC.+CTC0481",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021381.25.054",
+    "Descricao": "CONJ. FECHO ENCAIXE AMASSADO OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021275.08.171",
+    "Descricao": "ENF. METAL PASSADOR \"P\" OURO 9 ESC.(PARCIAL)+RES.(TARTARUGA)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "PINO 025.82",
+    "Descricao": "PINO MEIA CANA 22.91 X 3.2 X 1,50 MM OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E18894.00.1.42",
+    "Descricao": "ENF. PLACA BONECA SIST. COST. NIQUEL + P.T.(PTA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021274.19.000",
+    "Descricao": "ENF. METAL PASSADOR \"G\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021274.19.171",
+    "Descricao": "ENF. METAL PASSADOR \"G\" OURO 9 ESC.(PARCIAL)+RES.(TARTARUGA)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "ARG055.158",
+    "Descricao": "ARG055 LATÃO 5,5 X 0,9 MM PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "3080020020"
+  },
+  {
+    "Referencia": "E16855.05.79.42",
+    "Descricao": "ENF. PONTEIRA LISA P.T.(LARANJA SAVAGE)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E16855.05.80.42",
+    "Descricao": "ENF. PONTEIRA LISA P.T.(BEGE ROSA DO DESERTO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E16855.05.81.42",
+    "Descricao": "ENF. PONTEIRA LISA P.T.(BEGE BUTTEROREAM)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E15102.00.02",
+    "Descricao": "ENF. PLACA MILLER SIST. COST. NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E13706.00.01",
+    "Descricao": "ENF. PLAQUETA MILLER SIS. COS. NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004557.25.000",
+    "Descricao": "COMP. FIV. C/LIM TEXTURIZADA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010200"
+  },
+  {
+    "Referencia": "E021271.05.000",
+    "Descricao": "COMP. TERMINAL AMASSADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021378.09.000",
+    "Descricao": "COMP. PASSADOR BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021270.05.104",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021271.05.104",
+    "Descricao": "COMP. TERMINAL AMASSADO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021272.00.000",
+    "Descricao": "COMP. MEIA ARGOLA CENTRAL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040500"
+  },
+  {
+    "Referencia": "E021272.00.104",
+    "Descricao": "COMP. MEIA ARGOLA CENTRAL COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021270.05.171",
+    "Descricao": "CONJ. METAL CHAPA DUPLA T-BACK OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004557.25.084",
+    "Descricao": "COMP. FIV C/ LIM. TEXTURIZADA FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021320.25.000",
+    "Descricao": "COMP. PASSADOR TEXTURIZADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021245.15.000",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ 0,5 BX BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021245.15.008",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 GRAFITE+RES.(PTA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021295.00.000",
+    "Descricao": "COMP. MARTELADO CURVADO \"P\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021295.00.170",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021296.00.000",
+    "Descricao": "COMP. MARTELADO CURVADO \"M\" BRUTA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E14473.09.42",
+    "Descricao": "ENF. BOTÃO LAFORT C/PREGO ALUM. P.T.(AZUL PROFUNDO F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14473.09.1.42",
+    "Descricao": "ENF. BOTÃO LAFORT C/PREGO ALUM. P.T.(CINZA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021168.51.000",
+    "Descricao": "ENF. ELO C/TRAVESSA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021168.51.161",
+    "Descricao": "ENF. ELO C/TRAVESSA OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021245.15.1.08",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 GRAFITE+RES.(BAUNILHA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021245.15.119",
+    "Descricao": "ENF. BOTÃO LOGO ALME PÉ BX+RB0,5 SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E020672.22.1.06",
+    "Descricao": "ENF. BOTÃO SIST. COST. ESTRELA NIQUEL ANT.+ RES.(AZUL PISCINA)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020672.22.2.06",
+    "Descricao": "ENF. BOTÃO SIST. COST. ESTRELA NIQUEL ANT.+ RES.(VERMELHO TANGO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004525.25.138",
+    "Descricao": "FIV. S/LIM LANÇA PERFUME FREE OURO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021168.51.004",
+    "Descricao": "ENF. ELO C/TRAVESSA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021296.00.170",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004525.25.138",
+    "Descricao": "CP. FIV. S/LIM LANÇA PERFUME FREE OURO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021297.00.000",
+    "Descricao": "COMP. MARTELADO CURVADO \"G\" BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021167.09.000",
+    "Descricao": "ENF. PASSANTE DELUXE BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E021167.09.009",
+    "Descricao": "ENF. PASSANTE DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "PINO 023.138",
+    "Descricao": "PINO MEIA CANA 19.8 X 2,5 X 1,35 MM FREE OURO FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E021320.25.084",
+    "Descricao": "COMP. PASSADOR TEXTURIZADO FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021167.09.045",
+    "Descricao": "ENF. PASSANTE DELUXE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021297.00.170",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021167.09.004",
+    "Descricao": "ENF. PASSANTE DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021298.05.000",
+    "Descricao": "COMP. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021298.05.170",
+    "Descricao": "COMP. ARGOLA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021297.00.171",
+    "Descricao": "COMP. MARTELADO CURVADO \"G\" OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021167.09.002",
+    "Descricao": "ENF. PASSANTE DELUXE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021321.00.000",
+    "Descricao": "COMP. PONTEIRA TEXTURIZADA PÉ 0,5 BX BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050020100"
+  },
+  {
+    "Referencia": "E021321.00.084",
+    "Descricao": "COMP. PONTEIRA TEXTURIZADA PÉ 0,5 BX FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021296.00.171",
+    "Descricao": "COMP. MARTELADO CURVADO \"M\" OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CTC 0481.00",
+    "Descricao": "CONTRA CHAPA ZAMAC BRUTA NIQUEL (13T-R 65 X 90-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050140010"
+  },
+  {
+    "Referencia": "F004550.25.084",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021295.00.171",
+    "Descricao": "COMP. MARTELADO CURVADO \"P\" OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021360.00.000",
+    "Descricao": "COMP. PLACA CLC BRUTA MT(30T- R 80 X 140-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E021066.25.138",
+    "Descricao": "ENF. PASSANTE LANÇA PERFUME FREE OURO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021294.05.171",
+    "Descricao": "CONJ. CHAPA TRIPLA MARTELADA C/ARGOLAS OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E0025.10.42",
+    "Descricao": "ENF. PASSANTE P.T.(AZUL MARINHO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3618.16.122",
+    "Descricao": "FIV. QUADRADA C/LIM. VOLUTO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021300.00.000",
+    "Descricao": "COMP. CENTRAL MARTELADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021246.00.000",
+    "Descricao": "ENF. LOGO ALME PÉ BX 0,5 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021246.00.008",
+    "Descricao": "ENF. LOGO ALME PÉ BX+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021300.00.171",
+    "Descricao": "COMP. CENTRAL MARTELADO OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021360.00.003",
+    "Descricao": "COMP. PLACA CLC NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3618.16.70",
+    "Descricao": "FIV. QUADRADA C/LIM. FREE OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021360.00.010",
+    "Descricao": "COMP. PLACA CLC GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18672.04.28.42",
+    "Descricao": "ENF. PONTEIRA CONE ANIMALE P.T.(VERDE NOMADE 14-0443 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E0025.10.1.42",
+    "Descricao": "ENF. PASSANTE P.T.(VERDE CRISTAL)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14904.15.52.42",
+    "Descricao": "BOTAO PRESSAO ANIMALE Ø15MM P.T.(MARROM CAFÉ 19-1419 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004374.20.99",
+    "Descricao": "FIV. RETANGULAR C/LIM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E16109.12.57.42",
+    "Descricao": "ENF. BOTÃO AMASSADO SIST. COST. PINT.TOTAL(MARROM DOE 16-1333 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13077.47.2.42",
+    "Descricao": "ENF. PASSANTE RETANGULAR C/EIXO P.T.(MARROM BISCOITO 18-1140 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021301.00.000",
+    "Descricao": "COMP. LADO DIR. MARTELADO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E7674.15.08",
+    "Descricao": "ENF PASS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021301.00.171",
+    "Descricao": "COMP. LADO DIR. MARTELADO OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021299.05.171",
+    "Descricao": "CONJ. CINTO CHAPA MARTELADA OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E021246.00.084",
+    "Descricao": "ENF. LOGO ALME PÉ BX+RB0,5 FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021378.09.084",
+    "Descricao": "COMP. PASSADOR FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E5554.00.3.00",
+    "Descricao": "BOTÃO PEQ. PÉ 3MM RB 0,5 BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E021246.00.119",
+    "Descricao": "ENF. LOGO ALME PÉ BX+RB0,5 SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F3093.25.40",
+    "Descricao": "FIV. C/LIM. RLT. FIXO LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E5554.00.3.117",
+    "Descricao": "BOTÃO PEQ. PÉ 3MM RB0,5 LUMI GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F3882.22.01",
+    "Descricao": "FIV. RLT FIXO C/LIM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F3882.25.01",
+    "Descricao": "FIV. RLT FIXO C/LIM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E10426.12.122",
+    "Descricao": "ENFEITE ILHOS CONJ. VOLUTO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4048.40.02",
+    "Descricao": "FIV. ROLETE FIXO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP4048.40.02",
+    "Descricao": "CP. FIV. ROLETE FIXO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F4092.35.84",
+    "Descricao": "COMP. S/ LIM. FIV. FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E17698.35.84",
+    "Descricao": "COMP. PASSADOR FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18216.00.59",
+    "Descricao": "CONJ. MONTAGEM ARTICULADO OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E0028.04.122",
+    "Descricao": "ILHOS ZAMAC VOLUTO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F4091.35.84",
+    "Descricao": "CONJ.FIV.+PASSADOR FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021311.06.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021310.06.104",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021354.00.003",
+    "Descricao": "ENF. PLACA CLC+RB0,5(BOCA ABERTA) NIQUEL ESC.+CTC0480",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021378.09.099",
+    "Descricao": "COMP. PASSADOR FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021311.06.00",
+    "Descricao": "COMP. OVAL LISO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021311.06.170",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021311.06.104",
+    "Descricao": "COMP. OVAL LISO  COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004555.12.000",
+    "Descricao": "FIV. RETANGULAR CLC BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010070"
+  },
+  {
+    "Referencia": "E021354.00.010",
+    "Descricao": "ENF. PLACA CLC+RB0,5(BOCA ABERTA) GRAFITE ESC.+CTC0480",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021135.00.007",
+    "Descricao": "ENF. PUXADOR MILLER DELUXE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E12990.00.124",
+    "Descricao": "ENF. CURVADO C/STRASS RB0,5 X 3,6 FREE GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E019980.05.002",
+    "Descricao": "ENF. PONTEIRA QUADRADA RAVN NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004555.12.001",
+    "Descricao": "FIV. RETANGULAR CLC NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021312.00.00",
+    "Descricao": "COMP. P/REMANCHE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004555.12.008",
+    "Descricao": "FIV. RETANGULAR CLC GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E021312.00.104",
+    "Descricao": "COMP. P/REMANCHE COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021379.09.000",
+    "Descricao": "COMP. PONTEIRA BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050020100"
+  },
+  {
+    "Referencia": "E021379.09.099",
+    "Descricao": "COMP. PONTEIRA FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021379.09.084",
+    "Descricao": "COMP. PONTEIRA FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP3104.30.91",
+    "Descricao": "CP. FIV. CURVADA FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021313.00.000",
+    "Descricao": "COMP. CHAPA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E021313.00.104",
+    "Descricao": "COMP. CHAPA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004563.09.000",
+    "Descricao": "COMP. FIV. C/LIM BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050010040"
+  },
+  {
+    "Referencia": "CP3104.30.90",
+    "Descricao": "CP. FIV. CURVADA FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004563.09.099",
+    "Descricao": "COMP. FIV. C/LIM FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E019979.03.002",
+    "Descricao": "ENF. PONTEIRA QUADRADA RAVN NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021310.06.170",
+    "Descricao": "CONJ. ALÇA ARGOLA DUPLA 7CM OURO 9 ESC.(PARCIAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3104.30.90",
+    "Descricao": "FIV. CURVADA C/2 PINOS FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E019863.00.054",
+    "Descricao": "ENF. P/ROUPA OURO CHAMP. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3104.30.124",
+    "Descricao": "FIV. CURVADA C/2 PINOS FREE GOLD(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004563.09.084",
+    "Descricao": "COMP. FIV. C/LIM FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004562.09.099",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA FREE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021314.00.000",
+    "Descricao": "ENF. ENTREMEIO C/CARACOL NO CENTRO BRUTA MT",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004562.09.084",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021314.00.082",
+    "Descricao": "ENF. ENTREMEIO C/CARACOL NO CENTRO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  }
+]
