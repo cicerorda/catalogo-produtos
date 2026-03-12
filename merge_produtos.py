@@ -11,7 +11,7 @@ index_path = pasta_base / "produtos_index.json"
 json_novos_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\produtos_novos.json")
 
 # Tamanho dos blocos
-TAMANHO_BLOCO = 50000
+TAMANHO_BLOCO = 1000
 
 # Determina o dia
 hoje = datetime.now()
@@ -30,7 +30,7 @@ if sabado:
     for f in saida_dir.glob("produtos_*.json"):
         f.unlink()
     print("🗑️ Arquivos antigos removidos da pasta de saída.")
-    
+
 antigos = []
 if not sabado:
     print("📂 Carregando base antiga...")
