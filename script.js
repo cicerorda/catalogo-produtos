@@ -251,22 +251,38 @@ function processarCategoria(categoriaRaw) {
   };
 }
 
-fetch("produtos.json")
+fetch("produtos_index.json")
   .then(res => res.json())
-  .then(produtosData => {
-    produtos = produtosData;
+  .then(index => {
 
-    categoriasMap.clear(); // usa o global
+    const arquivos = index.arquivos;
+
+    // cria lista de fetches
+    const promessas = arquivos.map(nomeArquivo =>
+      fetch("produtos/" + nomeArquivo).then(r => r.json())
+    );
+
+    // espera todos carregarem
+    return Promise.all(promessas);
+
+  })
+  .then(listas => {
+
+    // junta todos os produtos
+    produtos = listas.flat();
+
+    console.log("📦 Produtos carregados:", produtos.length);
+
+    categoriasMap.clear();
 
     produtos.forEach(produto => {
       if (!produto.Categoria) return;
 
       const cat = processarCategoria(produto.Categoria);
 
-      produto.CategoriaNome = cat.nomeCategoria;   // PEÇAS EM ARAME
-      produto.CategoriaCodigo = cat.codigo;        // 30_40_010
-      produto.CategoriaPai = cat.codigoCategoria;  // 30_40
-
+      produto.CategoriaNome = cat.nomeCategoria;
+      produto.CategoriaCodigo = cat.codigo;
+      produto.CategoriaPai = cat.codigoCategoria;
 
       if (!categoriasMap.has(produto.CategoriaNome)) {
         categoriasMap.set(produto.CategoriaNome, new Set());
@@ -275,7 +291,6 @@ fetch("produtos.json")
       categoriasMap
         .get(produto.CategoriaNome)
         .add(produto.CategoriaCodigo);
-
     });
 
     criarListaDeCategorias();
@@ -284,9 +299,9 @@ fetch("produtos.json")
     if (imagensCarregadas) {
       atualizarProdutos();
     }
-  })
-  .catch(err => console.error("❌ Erro ao carregar produtos.json:", err));
 
+  })
+  .catch(err => console.error("❌ Erro ao carregar produtos:", err));
 
 function processarNomeImagem(nome) {
     const nomeOriginal = nome.toLowerCase();
