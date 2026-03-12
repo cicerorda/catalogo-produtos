@@ -17,6 +17,7 @@ TAMANHO_BLOCO = 50000
 # Carrega os dados antigos
 with open(json_antigo_path, "r", encoding="utf-8") as f:
     antigos = json.load(f)
+    antigos = []
 
 # Carrega os dados novos
 with open(json_novos_path, "r", encoding="utf-8") as f:
