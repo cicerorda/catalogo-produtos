@@ -257,9 +257,13 @@ async function carregarProdutos() {
 
     const index = await fetch("produtos_index.json").then(r => r.json());
 
-    produtos = resultados.flat();
+    const promessas = index.arquivos.map(arquivo =>
+      fetch(`produtos/${arquivo}`).then(r => r.json())
+    );
 
-    produtos = todosProdutos;
+    const resultados = await Promise.all(promessas);
+
+    produtos = resultados.flat();
 
     categoriasMap.clear();
 
@@ -278,13 +282,9 @@ async function carregarProdutos() {
         categoriasMap.set(produto.CategoriaNome, new Set());
       }
 
-      categoriasMap
-        .get(produto.CategoriaNome)
-        .add(produto.CategoriaCodigo);
+      categoriasMap.get(produto.CategoriaNome).add(produto.CategoriaCodigo);
 
     });
-
-    console.log("Categorias criadas:", categoriasMap);
 
     criarListaDeCategorias();
 
@@ -295,9 +295,7 @@ async function carregarProdutos() {
     }
 
   } catch (err) {
-
     console.error("❌ Erro ao carregar produtos:", err);
-
   }
 
 }
