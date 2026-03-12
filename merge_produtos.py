@@ -24,6 +24,13 @@ with open(json_novos_path, "r", encoding="utf-8") as f:
 # ===============================
 # CARREGAR BASE ANTIGA (SE NÃO FOR SÁBADO)
 # ===============================
+
+if sabado:
+    # limpar todos os arquivos da pasta de saída
+    for f in saida_dir.glob("produtos_*.json"):
+        f.unlink()
+    print("🗑️ Arquivos antigos removidos da pasta de saída.")
+    
 antigos = []
 if not sabado:
     print("📂 Carregando base antiga...")
