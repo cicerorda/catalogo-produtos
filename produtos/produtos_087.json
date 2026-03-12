@@ -1,0 +1,6002 @@
+[
+  {
+    "Referencia": "E022629.10.009",
+    "Descricao": "COMP. ELO PASSANTE LETRA R GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004768.30.063",
+    "Descricao": "COMP. FIV. M PASSANTE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004768.30.109",
+    "Descricao": "COMP. FIV. M PASSANTE OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004767.30.007",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022629.10.045",
+    "Descricao": "COMP. ELO PASSANTE LETRA R GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022629.10.145",
+    "Descricao": "COMP. ELO PASSANTE LETRA R PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004767.30.002",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E019134.22.7.42",
+    "Descricao": "ENF. BOTÃO BIMETAL \"P\" P.T. (AMARELO GOLDEN GRASS)",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E022629.10.159",
+    "Descricao": "COMP. ELO PASSANTE LETRA R PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019142.00.7.42",
+    "Descricao": "COMP. SOBREPOSTO \"P\"P.T.(AMARELO GOLDEN GRASS)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022629.10.135",
+    "Descricao": "COMP. ELO PASSANTE LETRA R NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019143.22.7.42",
+    "Descricao": "COMP. BASE P.T.(AMARELO GOLDEN GRASS)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP022630.00.009",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022629.10.128",
+    "Descricao": "COMP. ELO PASSANTE LETRA R NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022629.10.007",
+    "Descricao": "COMP. ELO PASSANTE LETRA R NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004767.30.004",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004767.30.009",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP022630.00.045",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022705.00.007",
+    "Descricao": "ENF. PLACA MILLER JNS DELUXE 15X35 PÉ AUTOPERF. NIQUEL ANT. ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004781.15.063",
+    "Descricao": "COMP. FIV. PASSANTE M C/BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004767.30.145",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022629.10.063",
+    "Descricao": "COMP. ELO PASSANTE LETRA R OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004767.30.159",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004767.30.045",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004767.30.063",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18228.20.11.42",
+    "Descricao": "ENF. BOTAO SIST. COST. \"ISY\" P.T (VERDE DULL GOLD)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18226.12.15.42",
+    "Descricao": "ENF. BOTAO CONCAVO SIST. COST. C/GRAVAÇAO \"ISY\" P.T. (MARROM TERRACOTA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022629.10.109",
+    "Descricao": "COMP. ELO PASSANTE LETRA R OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004767.30.109",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021221.00.082",
+    "Descricao": "CONJ. MONTAGEM COLAR ORGANICO+CORR.+KPAL OURO 18",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022705.00.063",
+    "Descricao": "ENF. PLACA MILLER JNS DELUXE 15X35 PÉ AUTOPERF. OURO V. MLR ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004767.30.135",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP022630.00.004",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022630.00.145",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004767.30.128",
+    "Descricao": "CONJ. FIV. PASSANTE M+PLACA MLR+RB0,5 NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022624.10.002",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022624.10.007",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E020253.00.082",
+    "Descricao": "ENF. ENTREMEIO AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022630.00.159",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022624.10.004",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022624.10.009",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022624.10.145",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E11121.20.63",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E11120.15.63",
+    "Descricao": "ENF. BOTAO Ø 15 MM ABAULADO OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022624.10.159",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP022630.00.135",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022624.10.045",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E6810.05.127",
+    "Descricao": "PONTEIRA ANIMALE SIST.COSTURA NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022624.10.063",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022705.00.109",
+    "Descricao": "ENF. PLACA MILLER JNS DELUXE 15X35 PÉ AUTOPERF. OURO 14 ACET.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022624.10.109",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP022630.00.128",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "PINO 039.159",
+    "Descricao": "PINO MEIA CANA 18,74 X 2,5 X 1,2 MM PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E022624.10.135",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP022630.00.007",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022624.10.128",
+    "Descricao": "CONJ. ELOS PASSANTES \"M I L L E R\" NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP022630.00.063",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022660.07.000",
+    "Descricao": "ENF. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040040"
+  },
+  {
+    "Referencia": "E022660.07.040",
+    "Descricao": "ENF. ARGOLA LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP022630.00.109",
+    "Descricao": "CP. PING. BIMETAL CADEADO+BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022040.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER DLX. SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "PINO 039.63",
+    "Descricao": "PINO MEIA CANA 18,74 X 2,5 X 1,2 MM OURO V. MLR",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F004705.16.128.",
+    "Descricao": "FIV. PASSANTE MLR NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004705.16.109.",
+    "Descricao": "FIV. PASSANTE MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004769.25.007",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022369.20.119",
+    "Descricao": "ENF. BOTÃO FLEX. MLR SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004705.16.07",
+    "Descricao": "FIV. PASSANTE MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004769.25.002",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004769.25.004",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004769.25.009",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004705.16.63",
+    "Descricao": "FIV. PASSANTE MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022661.10.000",
+    "Descricao": "ENF. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040060"
+  },
+  {
+    "Referencia": "E14925.00.44",
+    "Descricao": "COMP. PINGENTE LETRA \"I\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004781.15.109",
+    "Descricao": "COMP. FIV. PASSANTE M C/BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E14925.00.1.44",
+    "Descricao": "ENF. PINGENTE LETRA \"I\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004769.25.145",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004769.25.159",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E14926.00.44",
+    "Descricao": "COMP. PINGENTE LETRA \"L\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004769.25.045",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E14926.00.1.44",
+    "Descricao": "ENF. PINGENTE LETRA \"L\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004769.25.063",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022661.10.040",
+    "Descricao": "ENF. ARGOLA LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022662.15.000",
+    "Descricao": "ENF. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040100"
+  },
+  {
+    "Referencia": "E14927.00.44",
+    "Descricao": "COMP. PINGENTE LETRA \"E\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022662.15.040",
+    "Descricao": "ENF. ARGOLA LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022663.20.000",
+    "Descricao": "ENF. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040140"
+  },
+  {
+    "Referencia": "E14927.00.1.44",
+    "Descricao": "ENF. PINGENTE LETRA \"E\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004769.25.109",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004769.25.135",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022670.15.000",
+    "Descricao": "COMP. PASSANTE M C/BONECA BRUTA MT(13T-R 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "F004769.25.128",
+    "Descricao": "CONJ. FIV. PASSANTE MILLER JEANS+PING.CADEADO NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022670.15.004",
+    "Descricao": "COMP. PASSANTE M C/BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022663.20.040",
+    "Descricao": "ENF. ARGOLA LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004775.20.000",
+    "Descricao": "FIV. PASSANTE MLR BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010150"
+  },
+  {
+    "Referencia": "E021116.05.43.4",
+    "Descricao": "ENF. PONTEIRA QUADRADA P.T.(VERDE CASCADE)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022753.00.000",
+    "Descricao": "ENF. PLACA MILLER SINCE 2010 15X30 PÉ AUTOPERF. BRUTA MT(30T-R 80 X 140-6CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "F004705.16.02",
+    "Descricao": "FIV. PASSANTE MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004705.16.45",
+    "Descricao": "FIV. PASSANTE MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004775.20.004",
+    "Descricao": "FIV. PASSANTE MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004705.16.04",
+    "Descricao": "FIV. PASSANTE MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E14928.00.44",
+    "Descricao": "COMP. PINGENTE LETRA \"R\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022670.15.002",
+    "Descricao": "COMP. PASSANTE M C/BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022670.15.009",
+    "Descricao": "COMP. PASSANTE M C/BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E14928.00.1.44",
+    "Descricao": "ENF. PINGENTE LETRA \"R\" GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004775.20.002",
+    "Descricao": "FIV. PASSANTE MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004775.20.045",
+    "Descricao": "FIV. PASSANTE MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021116.05.44.4",
+    "Descricao": "ENF. PONTEIRA QUADRADA P.T.(AMARELO SOLEIL)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004705.16.119",
+    "Descricao": "FIV. PASSANTE MLR SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "F004775.20.009",
+    "Descricao": "FIV. PASSANTE MLR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022670.15.045",
+    "Descricao": "COMP. PASSANTE M C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004775.20.145",
+    "Descricao": "FIV. PASSANTE MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022657.118.000",
+    "Descricao": "ENF. ARGOLA ORGANICA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040440"
+  },
+  {
+    "Referencia": "E0784.00.1.42",
+    "Descricao": "PONTEIRA P.T.(LILÁS 03058 SEMI B)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004775.20.159",
+    "Descricao": "FIV. PASSANTE MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022657.118.082",
+    "Descricao": "ENF. ARGOLA ORGANICA OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004775.20.135",
+    "Descricao": "FIV. PASSANTE MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022670.15.145",
+    "Descricao": "COMP. PASSANTE M C/BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019620.20.69.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (ROXO 19-3536 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E0784.00.2.42",
+    "Descricao": "PONTEIRA P.T.(LARANJA 06828 SEMI B)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019620.20.70.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (BERINGELA 19-1620 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019620.20.71.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (VERDE 18-0537 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019620.20.72.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (CARAMELO 18-0933 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E6327.00.59.42",
+    "Descricao": "BOTÃO SIST.COSTURA P.T. (TERRACOTA 18-1346 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E6327.00.60.42",
+    "Descricao": "BOTÃO SIST.COSTURA P.T. (VERDE 18-0537 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004775.20.128",
+    "Descricao": "FIV. PASSANTE MLR NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E13859.18.225.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (AZUL 14-4320 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13228.30.000",
+    "Descricao": "ENF. MEIA ARGOLA LISA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050080140"
+  },
+  {
+    "Referencia": "E13859.18.226.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (BEGE 14-6408 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13859.18.227.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (CINZA 19-4215 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13859.18.228.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (LARANJA 17-1558 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13228.30.042",
+    "Descricao": "ENF. MEIA ARGOLA LISA P.T.(CRU/BEGE RÁFIA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022670.15.159",
+    "Descricao": "COMP. PASSANTE M C/BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021166.10.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. \"TD\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004775.20.007",
+    "Descricao": "FIV. PASSANTE MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004775.20.063",
+    "Descricao": "FIV. PASSANTE MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E019400.19.45",
+    "Descricao": "ENF. PASSANTE M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019401.19.45",
+    "Descricao": "ENF. PASSANTE L GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E14504.18.225.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. P. T. (AZUL 14-4320 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14504.18.226.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. P. T. (BEGE MARTINI F 14-6408 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14504.18.227.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. P. T. (CINZA WALL STREET FOSCO 19-4215)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14504.18.228.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. P. T. (LARANJA 17-1558 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019402.19.45",
+    "Descricao": "ENF. PASSANTE R GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E14504.18.229.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. P. T. (TERRACOTA 18-1346 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14504.18.230.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. PINTURA TOTAL (ROXO MANHATTAN F 19-3536)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13228.30.1.042",
+    "Descricao": "ENF. MEIA ARGOLA LISA P.T.(AMARELO MANTEIGA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13228.30.2.042",
+    "Descricao": "ENF. MEIA ARGOLA LISA P.T.(AZUL MARINHO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14504.18.231.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. PINTURA TOTAL (BERINGELA 19-1620 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022670.15.135",
+    "Descricao": "COMP. PASSANTE M C/BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004775.20.109",
+    "Descricao": "FIV. PASSANTE MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E14504.18.232.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. PINTURA TOTAL (VERDE 18-0537 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E14504.18.233.4",
+    "Descricao": "ENF. BOTÃO LAFORT SIS. COST. PINTURA TOTAL (CARAMELO 18-0933 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019403.19.45",
+    "Descricao": "ENF. PASSANTE BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17452.00.119",
+    "Descricao": "ENF. PING. C/BONECA SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022670.15.128",
+    "Descricao": "COMP. PASSANTE M C/BONECA NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019620.20.64.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (AZUL 14-4320 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022670.15.007",
+    "Descricao": "COMP. PASSANTE M C/BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022582.13.01",
+    "Descricao": "ENF. PONTEIRA COLCCI JEANS NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP020746.20.004",
+    "Descricao": "CP. BOTÃO PRESSÃO ALVO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019620.20.65.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (BEGE MARTINI FOSCO 14-6408)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019620.20.66.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (CINZA WALL STREET FOSCO 19-4215)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019620.20.67.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (LARANJA 17-1558 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019620.20.68.4",
+    "Descricao": "ENF. BOTÃO COLCHETE LAFORT P.T. (TERRACOTA 18-1346 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13859.18.229.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (TERRACOTA 18-1346 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022723.30.007",
+    "Descricao": "COMP. PASSADOR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13859.18.230.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (ROXO 19-3536 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022670.15.063",
+    "Descricao": "COMP. PASSANTE M C/BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E13859.18.231.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (BERINGELA 19-1620 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13859.18.232.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (VERDE 18-0537 F)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E13859.18.233.4",
+    "Descricao": "ENF. BOTÃO SIS. COST. LAFORT 18MM P.T. (CARAMELO 18-0933)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E0784.00.3.42",
+    "Descricao": "PONTEIRA P.T.(CONHAQUE 54786 SEMI B)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022670.15.109",
+    "Descricao": "COMP. PASSANTE M C/BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004254.25.40",
+    "Descricao": "FIV. REDONDA LISA LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022576.00.026",
+    "Descricao": "COMP. PLACA TRITON PÉ AL 0,5 OURO V. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F0826.08.93",
+    "Descricao": "FIV. C/LIMITADOR FREE OURO CLARO",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004776.15.007",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E2148.08.93",
+    "Descricao": "ENF. PASSADOR FREE OURO CLARO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP021677.00.001",
+    "Descricao": "CP. PLACA MLR DLX AUTOPERF. NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP021677.00.003",
+    "Descricao": "CP. PLACA MLR DLX AUTOPERF. NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E17451.00.119",
+    "Descricao": "ENF. PING. C/BONECA SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "CP021677.00.044",
+    "Descricao": "CP. PLACA MLR DLX AUTOPERF. GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004776.15.002",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021677.00.001",
+    "Descricao": "ENF. PLACA MLR DLX AUTOPERF. NIQUEL+CTC0509",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP020746.20.023",
+    "Descricao": "CP. BOTÃO PRESSÃO ALVO OURO 20 ESC",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004776.15.004",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18259.22.36.42",
+    "Descricao": "ENF. BOTÃO PRESSÃO \"OPEN\" P.T (VERDE SERRANO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004776.15.009",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022701.05.000",
+    "Descricao": "ENF. P/ALÇA MILLER BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004776.15.145",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021677.00.003",
+    "Descricao": "ENF. PLACA MLR DLX AUTOPERF. NIQUEL ESC.+CTC0509",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020746.20.004",
+    "Descricao": "ENF. BOTÃO PRESSÃO ALVO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004776.15.159",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021677.00.044",
+    "Descricao": "ENF. PLACA MLR DLX AUTOPERF. GOLD LIGHT+CTC0509",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022574.00.026",
+    "Descricao": "ENF. PLACA TRITON PÉ AL+RB0,5 OURO V. ESC+CTC0529",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022411.20.033",
+    "Descricao": "ENF. REGULADOR TRITON GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020746.20.023",
+    "Descricao": "ENF. BOTÃO PRESSÃO ALVO OURO 20 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020743.11.022",
+    "Descricao": "ENF. BOTÃO ALVO SIST. COST. OURO 20 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022701.05.009",
+    "Descricao": "ENF. P/ALÇA MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004776.15.045",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004776.15.063",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022725.52.000",
+    "Descricao": "ENF. REGULADOR AMASSADO BRUTA MT(50T-R 160 X 200 2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004776.15.109",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022701.05.045",
+    "Descricao": "ENF. P/ALÇA MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E019373.20.1.42",
+    "Descricao": "CONJ. MONTAGEM DE ELOS P.T.(ROSA 182330 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019373.20.2.42",
+    "Descricao": "CONJ. MONTAGEM DE ELOS P.T.(MARINHO 193940 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019373.20.3.42",
+    "Descricao": "CONJ. MONTAGEM DE ELOS P.T.(LARANJA 171452 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019373.20.4.42",
+    "Descricao": "CONJ. MONTAGEM DE ELOS P.T.(VERMELHO 181553 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022654.12.000",
+    "Descricao": "ENF. CARRAPETA FORUM PÉ AL 0,5 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004776.15.135",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022654.12.010",
+    "Descricao": "ENF. CARRAPETA FORUM PÉ AL+RB0,5(ABA LARGA) GRAFITE ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004776.15.128",
+    "Descricao": "CONJ. FIV.+PASSANTE M C/BONECA NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022701.05.002",
+    "Descricao": "ENF. P/ALÇA MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022659.12.000",
+    "Descricao": "ENF. PLACA SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E022673.15.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "E022659.12.001",
+    "Descricao": "ENF. PLACA SIST. COST. NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022688.00.000",
+    "Descricao": "COMP. PONTERA MLR BRUTA MT(13T-R 80 X 140-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050020100"
+  },
+  {
+    "Referencia": "9630.47.00",
+    "Descricao": "ENF. MEIA ARGOLA BRUTA MT (30T-R 134X160-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050080221"
+  },
+  {
+    "Referencia": "E021742.00.2.42",
+    "Descricao": "ENF. PLACA \"CC\" PÉ 4MM+RB0,5 P.T.(MARROM CARVALHO)+CTC0500",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021116.05.42.4",
+    "Descricao": "ENF. PONTEIRA QUADRADA P.T.(AZUL GRECIA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004779.15.000",
+    "Descricao": "COMP. FIV. MLR BRUTA MT(13T-G 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050010100"
+  },
+  {
+    "Referencia": "F004779.15.004",
+    "Descricao": "COMP. FIV. MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022688.00.004",
+    "Descricao": "COMP. PONTEIRA MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004779.15.002",
+    "Descricao": "COMP. FIV. MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022699.00.000",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. BRUTA MT(13T-R 80 X 140-8CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "CP022167.00.128",
+    "Descricao": "CP. PLACA MILLER DELUXE PÉ AUTOPERF. NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "9630.47.82",
+    "Descricao": "ENF. MEIA ARGOLA OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022167.00.128",
+    "Descricao": "ENF. PLACA MILLER DELUXE PÉ AUTOPERF. NEW GOLD+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18807.00.159",
+    "Descricao": "COMP. LETRA \"M\" PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18807.00.135",
+    "Descricao": "COMP. LETRA \"M\" NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022658.30.002",
+    "Descricao": "CONJ. MONTAGEM CORR.0355+PING. NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "PINO 164.02",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 164.09",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 164.45",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 164.145",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 164.159",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 164.135",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "F004779.15.009",
+    "Descricao": "COMP. FIV. MLR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022688.00.002",
+    "Descricao": "COMP. PONTEIRA MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004779.15.045",
+    "Descricao": "COMP. FIV. MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022688.00.009",
+    "Descricao": "COMP. PONTEIRA MLR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.0004",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18807.00.109",
+    "Descricao": "COMP. LETRA \"M\" OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004779.15.145",
+    "Descricao": "COMP. FIV. MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18808.00.159",
+    "Descricao": "COMP. LETRA \"I\" PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "PINO 164.63",
+    "Descricao": "PINO MEIA CANA 20,70 X 2,4 X 1,25MM OURO V. MLR",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E14920.10.77.42",
+    "Descricao": "ENF. BOTÃO C/TEXTURA SIS.COST. PINT.TOTAL(PAISLEY CARAMELO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18808.00.135",
+    "Descricao": "COMP. LETRA \"I\" NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F3517.15.82",
+    "Descricao": "FIV. C/ROLETE FIXO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "ILHOS I-51 B.81",
+    "Descricao": "ILHOS I-51 LATÃO 5MM BAIXO SEM/ARRUELA OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080040010"
+  },
+  {
+    "Referencia": "F004779.15.159",
+    "Descricao": "COMP. FIV. MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004779.15.135",
+    "Descricao": "COMP. FIV. MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022688.00.045",
+    "Descricao": "COMP. PONTEIRA MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.0002",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004779.15.128",
+    "Descricao": "COMP. FIV. MLR NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022688.00.145",
+    "Descricao": "COMP. PONTEIRA MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004779.15.007",
+    "Descricao": "COMP. FIV. MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022725.52.002",
+    "Descricao": "ENF. REGULADOR AMASSADO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004779.15.063",
+    "Descricao": "COMP. FIV. MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E18672.04.30.42",
+    "Descricao": "ENF. PONTEIRA CONE ANIMALE P.T.(MARROM ABBY)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18808.00.109",
+    "Descricao": "COMP. LETRA \"I\" OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18809.00.159",
+    "Descricao": "COMP. LETRA \"L\" PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18809.00.128",
+    "Descricao": "COMP. LETRA \"L\" NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18809.00.109",
+    "Descricao": "COMP. LETRA \"L\" OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18810.00.159",
+    "Descricao": "COMP. LETRA \"E\" PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18810.00.135",
+    "Descricao": "COMP. LETRA \"E\" NEW GOLD ESC",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "ILHOS I-51.1.81",
+    "Descricao": "ILHOS I-51 LATÃO 5MM BAIXO C/ARRUELA OURO 18",
+    "Categoria": "",
+    "Classificacao": "3080040030"
+  },
+  {
+    "Referencia": "E18810.00.109",
+    "Descricao": "COMP. LETRA \"E\" OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004779.15.109",
+    "Descricao": "COMP. FIV. MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022699.00.009",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. GRAFITE+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.000",
+    "Descricao": "COMP. PASSANTE MLR BRUTA MT(13T-R 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E18811.00.135",
+    "Descricao": "COMP. LETRA \"R\" NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.004",
+    "Descricao": "COMP. PASSANTE MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18811.00.159",
+    "Descricao": "COMP. LETRA \"R\"  PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18811.00.109",
+    "Descricao": "COMP. LETRA \"R\" OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18815.00.159",
+    "Descricao": "CONJ. MILLER PRATA FOSCO + CTC0409 +CTC0410 +CTC0411",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18815.00.135",
+    "Descricao": "CONJ. MILLER NEW GOLD ESC. + CTC0409+ CTC0410+ CTC0411",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18815.00.109",
+    "Descricao": "CONJ. MILLER OURO 14 ACET. + CTC0409 +CTC0410 +CTC0411",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021392.12.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. \"TD\" OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18451.04.135",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17451.00.45",
+    "Descricao": "COMP. PING. C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004778.25.159",
+    "Descricao": "CONJ. FIV. M+PASSADOR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004778.25.045",
+    "Descricao": "CONJ. FIV. M+PASSADOR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022699.00.045",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. GOLD LIGHT+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004778.25.063",
+    "Descricao": "CONJ. FIV. M+PASSADOR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022725.52.082",
+    "Descricao": "ENF. REGULADOR AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004778.25.109",
+    "Descricao": "CONJ. FIV. M+PASSADOR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022688.00.159",
+    "Descricao": "COMP. PONTEIRA MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.145",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. PRATA BRILHO+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004778.25.135",
+    "Descricao": "CONJ. FIV. M+PASSADOR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004778.25.128",
+    "Descricao": "CONJ. FIV. M+PASSADOR NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022688.00.135",
+    "Descricao": "COMP. PONTEIRA MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022688.00.128",
+    "Descricao": "COMP. PONTEIRA MLR NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022688.00.007",
+    "Descricao": "COMP. PONTEIRA MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022723.30.063",
+    "Descricao": "COMP. PASSADOR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022671.15.002",
+    "Descricao": "COMP. PASSANTE MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.009",
+    "Descricao": "COMP. PASSANTE MLR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E11121.20.03",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022699.00.159",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. PRATA FOSCO+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022659.12.190",
+    "Descricao": "ENF. PLACA SIST. COST. OURO FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022699.00.135",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. NEW GOLD ESC.+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022741.00.000",
+    "Descricao": "COMP. OVAL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060010"
+  },
+  {
+    "Referencia": "E17451.00.145",
+    "Descricao": "COMP. PING. C/BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17451.00.159",
+    "Descricao": "COMP. PING. C/BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17451.00.135",
+    "Descricao": "COMP. PING. C/BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17451.00.128",
+    "Descricao": "COMP. PING. C/BONECA NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E17451.00.109",
+    "Descricao": "COMP. PING. C/BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18744.00.04",
+    "Descricao": "COMP. PING. PLAQUETA MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18744.00.135",
+    "Descricao": "COMP. PING. PLAQUETA MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18744.00.128",
+    "Descricao": "COMP. PING. PLAQUETA MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18744.00.145",
+    "Descricao": "COMP. PING. PLAQUETA MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.128",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. NEW GOLD+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.007",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. NIQUEL ANT. ESC.+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022688.00.063",
+    "Descricao": "COMP. PONTEIRA MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP022308.00.134",
+    "Descricao": "CP. \"M\" PÉ ESTALAR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022741.00.059",
+    "Descricao": "COMP. OVAL OURO 9 C/PEDRA(CRISTAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022308.00.134",
+    "Descricao": "ENF. \"M\" PÉ ESTALAR NEW GOLD ESC.+CTC0520",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022671.15.045",
+    "Descricao": "COMP. PASSANTE MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022688.00.109",
+    "Descricao": "COMP. PONTEIRA MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022699.00.063",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. OURO V. MLR ESC.+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022671.15.145",
+    "Descricao": "COMP. PASSANTE MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.159",
+    "Descricao": "COMP. PASSANTE MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.135",
+    "Descricao": "COMP. PASSANTE MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.128",
+    "Descricao": "COMP. PASSANTE MLR NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.007",
+    "Descricao": "COMP. PASSANTE MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022723.30.109",
+    "Descricao": "COMP. PASSADOR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E17914.00.084",
+    "Descricao": "ENF. LOGO PÉ AL+RB0,5 FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16925.00.084",
+    "Descricao": "ENF. LOGO QUADRADO PÉ AL+RB0,5 FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022699.00.109",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. OURO 14 ACET.+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022671.15.063",
+    "Descricao": "COMP. PASSANTE MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022741.00.145",
+    "Descricao": "COMP. OVAL PRATA BRILHO C/PEDRA(CRISTAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.004",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. NIQUEL ESC.+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022671.15.109",
+    "Descricao": "COMP. PASSANTE MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022742.00.000",
+    "Descricao": "COMP. GOTA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060010"
+  },
+  {
+    "Referencia": "E022742.00.059",
+    "Descricao": "COMP. GOTA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022699.00.002",
+    "Descricao": "ENF. PLACA MILLER PREMIUM 12X22 PÉ AUTOPERF. NIQUEL+CTC0497",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004777.15.007",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.007",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004777.15.004",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.002",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004777.15.002",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.004",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004777.15.009",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022697.00.000",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. BRUTA MT(30T-R 80X140-6CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022697.00.004",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. NIQUEL ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18744.00.159",
+    "Descricao": "COMP. PING. PLAQUETA MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022697.00.002",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. NIQUEL+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18744.00.45",
+    "Descricao": "COMP. PING. PLAQUETA MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004777.15.145",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18744.00.109",
+    "Descricao": "COMP. PING. PLAQUETA MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP021908.11.159",
+    "Descricao": "CP. MOSQUETÃO FAKE MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP021908.11.135",
+    "Descricao": "CP. MOSQUETÃO FAKE MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004777.15.159",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP021908.11.128",
+    "Descricao": "CP. MOSQUETÃO FAKE MILLER NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP021908.11.109",
+    "Descricao": "CP. MOSQUETÃO FAKE MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E021893.00.110",
+    "Descricao": "COMP. MACHO OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004777.15.045",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022697.00.009",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. GRAFITE+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021894.00.110",
+    "Descricao": "COMP. FEMEA OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022753.00.004",
+    "Descricao": "ENF. PLACA MILLER SINCE 2010 15X30 PÉ AUTOPERF. NIQUEL ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021892.04.110",
+    "Descricao": "CONJ. FECHO ESTRANGULADOR C/MOLA OURO 9 ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022697.00.045",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. GOLD LIGHT+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18795.00.04",
+    "Descricao": "COMP. MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18795.00.45",
+    "Descricao": "COMP. MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18795.00.145",
+    "Descricao": "COMP. MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004777.15.063",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18795.00.159",
+    "Descricao": "COMP. MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18795.00.135",
+    "Descricao": "COMP. MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17960.07.09",
+    "Descricao": "CP. PING. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17960.07.128",
+    "Descricao": "CP. PING. NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004785.20.009",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.145",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18795.00.128",
+    "Descricao": "COMP. MLR NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004777.15.109",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022697.00.145",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. PRATA BRILHO+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004777.15.135",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18795.00.109",
+    "Descricao": "COMP. MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022742.00.145",
+    "Descricao": "COMP. GOTA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022697.00.159",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. PRATA FOSCO+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17960.07.45",
+    "Descricao": "CP. PING. GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022740.00.059",
+    "Descricao": "CONJ. MONTAGEM DE PING. P C/PEDRA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004785.20.159",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004777.15.128",
+    "Descricao": "CONJ. FIV.+PASSANTE MLR NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.045",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.063",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.109",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022672.25.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "F004778.25.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050010200"
+  },
+  {
+    "Referencia": "E022697.00.135",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. NEW GOLD ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18658.00.01",
+    "Descricao": "CP. \"M\" C/BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020926.05.188",
+    "Descricao": "ENF. BOLA NANCY AMASSADA PRATA VIX",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18658.00.03",
+    "Descricao": "CP. \"M\" C/BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022697.00.128",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. NEW GOLD+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18658.00.07",
+    "Descricao": "CP. \"M\" C/BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004785.20.135",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004785.20.128",
+    "Descricao": "CONJ. FIV.+PASSADOR+PONTEIRA MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP18658.00.08",
+    "Descricao": "CP. \"M\" C/BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022770.00.002",
+    "Descricao": "COMP. GANCHO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18658.00.42",
+    "Descricao": "CP. \"M\" C/BONECA PINT. TOTAL",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022697.00.007",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. NIQUEL ANT. ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP18658.00.134",
+    "Descricao": "CP. \"M\" C/BONECA NEW GOLD ESC. ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP18658.00.44",
+    "Descricao": "CP. \"M\" C/BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP18658.00.63",
+    "Descricao": "CP. \"M\" C/BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18776.04.81",
+    "Descricao": "ENF. PONTEIRA 6.5 X 8.49 OURO 18(ROTATIVO)",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18226.12.16.42",
+    "Descricao": "ENF. BOTAO CONCAVO SIST. COST. C/GRAVAÇAO \"ISY\" P.T. (VERDE CASCADE)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18226.12.17.42",
+    "Descricao": "ENF. BOTAO CONCAVO SIST. COST. C/GRAVAÇAO \"ISY\" P.T. (AMARELO SOLEIL)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E021186.12.2.42",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO P.T.(VERDE DULL GOLD)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E019910.25.081",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022697.00.040",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022438.00.081",
+    "Descricao": "ENF. ENTREMEIO OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022697.00.109",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF.OURO 14 ACET.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022388.17.042",
+    "Descricao": "ENF. BOTÃO LISO SIST. COST. P.T.(PTA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022680.00.000",
+    "Descricao": "COMP. M BRUTA MT(13T-R 65 X 90-4 CAV)",
+    "Categoria": "",
+    "Classificacao": "3050010570"
+  },
+  {
+    "Referencia": "E022697.00.063",
+    "Descricao": "ENF. PLACA MILLER JNS DLX PREMIUM 15X30 PÉ AUTOPERF. OURO V. MLR ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.003",
+    "Descricao": "COMP. M NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.001",
+    "Descricao": "COMP. M NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.008",
+    "Descricao": "COMP. M GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP020718.00.026",
+    "Descricao": "CP. \"CC\" PÉ AL OURO V. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.044",
+    "Descricao": "COMP. M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.151",
+    "Descricao": "COMP. M PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.158",
+    "Descricao": "COMP. M PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022740.00.145",
+    "Descricao": "CONJ. MONTAGEM DE PING. P C/PEDRA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022680.00.134",
+    "Descricao": "COMP. M NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022738.00.000",
+    "Descricao": "COMP. OVAL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060020"
+  },
+  {
+    "Referencia": "E022680.00.127",
+    "Descricao": "COMP. M NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.007",
+    "Descricao": "COMP. M NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022680.00.063",
+    "Descricao": "COMP. M OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022696.00.000",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. BRUTA MT(30T-R 80 X 140-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022680.00.109",
+    "Descricao": "COMP. M OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004782.30.007",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E12710.00.02",
+    "Descricao": "ENF. PASSANTE ST NIQUEL S/VERNIZ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004782.30.002",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004782.30.004",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004782.30.009",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E020718.00.026",
+    "Descricao": "ENF. \"CC\" PÉ AL+RB0,5(ABA LARGA) OURO V. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004782.30.145",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022702.00.127",
+    "Descricao": "ENF. PUXADOR MILLER JEANS NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022702.00.007",
+    "Descricao": "ENF. PUXADOR MILLER JEANS NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022738.00.059",
+    "Descricao": "COMP. OVAL OURO 9 C/PEDRA(CRISTAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022702.00.063",
+    "Descricao": "ENF. PUXADOR MILLER JEANS OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022738.00.145",
+    "Descricao": "COMP. OVAL PRATA BRILHO C/PEDRA(CRISTAL)",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022770.00.009",
+    "Descricao": "COMP. GANCHO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022702.00.109",
+    "Descricao": "ENF. PUXADOR MILLER JEANS OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E5070.10.148.42",
+    "Descricao": "ENFEITE PASSADOR PINT.TOTAL(FRIZZ 18-3223 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022739.00.000",
+    "Descricao": "COMP. GOTA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060020"
+  },
+  {
+    "Referencia": "E020557.08.00",
+    "Descricao": "ENF. CORAÇÃO PÉ 0,5 AL BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050070010"
+  },
+  {
+    "Referencia": "E020557.08.84",
+    "Descricao": "ENF. CORAÇÃO PÉ AL+RB0,5 FREE OURO 18",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022739.00.059",
+    "Descricao": "COMP. GOTA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004780.25.004",
+    "Descricao": "COMP. FIV. M NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004780.25.000",
+    "Descricao": "COMP. FIV. M BRUTA MT(30T-G 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050010200"
+  },
+  {
+    "Referencia": "E022696.00.004",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. NIQUEL ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004782.30.159",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E021562.00.059",
+    "Descricao": "CONJ. MONTAGEM COLAR OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004782.30.045",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP021562.00.059",
+    "Descricao": "CP. COLAR OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022739.00.145",
+    "Descricao": "COMP. GOTA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004780.25.002",
+    "Descricao": "COMP. FIV. M NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CORR.0557.16.58",
+    "Descricao": "CORRENTE 0557 LATÃO 16CM OURO 9",
+    "Categoria": "",
+    "Classificacao": "3080120020"
+  },
+  {
+    "Referencia": "CP18752.00.09",
+    "Descricao": "CP. PONTEIRA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18752.00.04",
+    "Descricao": "CP. PONTEIRA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18752.00.45",
+    "Descricao": "CP. PONTEIRA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18752.00.145",
+    "Descricao": "CP. PONTEIRA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18752.00.159",
+    "Descricao": "CP. PONTEIRA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP18752.00.135",
+    "Descricao": "CP. PONTEIRA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004782.30.063",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004782.30.109",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022696.00.002",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. NIQUEL+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022696.00.009",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. GRAFITE+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022737.00.059",
+    "Descricao": "CONJ. MONTAGEM DE PING. G C/PEDRA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004782.30.135",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004782.30.128",
+    "Descricao": "FIV. BIMETAL MILLER DELUXE NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022685.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "E5082.10.129.42",
+    "Descricao": "ARGOLA P.T. (FRIZZ 18-3223 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004780.25.009",
+    "Descricao": "COMP. FIV. M GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004780.25.045",
+    "Descricao": "COMP. FIV. M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP18752.00.109",
+    "Descricao": "CP. PONTEIRA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004780.25.145",
+    "Descricao": "COMP. FIV. M PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18709.00.159",
+    "Descricao": "COMP. PING. MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP020412.00.042",
+    "Descricao": "CP. PLACA TRIANGULO MILLER PINT. TOTAL",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18709.00.45",
+    "Descricao": "COMP. PING. MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004780.25.159",
+    "Descricao": "COMP. FIV. M PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E18709.00.04",
+    "Descricao": "COMP. PING. MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18709.00.128",
+    "Descricao": "COMP. PING. MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020412.00.042",
+    "Descricao": "ENF. PLACA TRIANGULO MILLER P.T.(BCOF)+CTC0459",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004780.25.135",
+    "Descricao": "COMP. FIV. M NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004780.25.128",
+    "Descricao": "COMP. FIV. M NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP18729.00.104",
+    "Descricao": "COMP. CADEADO COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18756.00.104",
+    "Descricao": "COMP \"M\" COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18729.00.159",
+    "Descricao": "COMP. CADEADO + M PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18729.00.45",
+    "Descricao": "COMP. CADEADO + M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004780.25.007",
+    "Descricao": "COMP. FIV. M NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022696.00.045",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. GOLD LIGHT+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18729.00.128",
+    "Descricao": "COMP. CADEADO + M NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004780.25.063",
+    "Descricao": "COMP. FIV. M OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004780.25.109",
+    "Descricao": "COMP. FIV. M OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CORR.4000.127",
+    "Descricao": "CORRENTE 4000 1,5CM (3ELOS) NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4000.1.151",
+    "Descricao": "CORRENTE 4000 1,5CM (3ELOS) PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4000.1.158",
+    "Descricao": "CORRENTE 4000 1,5CM (3ELOS) PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E18658.00.134",
+    "Descricao": "ENF. \"M\" C/BONECA NEW GOLD ESC. + CTC 0401",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP022308.00.063",
+    "Descricao": "CP. \"M\" PÉ ESTALAR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022646.00.000",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. BRUTA MT(30T-R 80 X 140-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022646.00.004",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. NIQUEL ESC.+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022646.00.002",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. NIQUEL+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022646.00.009",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. GRAFITE+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004784.20.000",
+    "Descricao": "CP. FIV. BASE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010560"
+  },
+  {
+    "Referencia": "E022646.00.045",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. GOLD LIGHT+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021185.20.1.42",
+    "Descricao": "ENF. BOTÃO SIST. COST. AMASSADO P.T.(MARROM TERRACOTA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022646.00.145",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. PRATA BRILHO+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022646.00.159",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. PRATA FOSCO+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022308.00.042",
+    "Descricao": "CP. \"M\" PÉ ESTALAR PINT. TOTAL",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022646.00.135",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. NEW GOLD ESC.+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022646.00.128",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. NEW GOLD+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022308.00.063",
+    "Descricao": "ENF. \"M\" PÉ ESTALAR OURO V. MLR ESC.+CTC0520",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022308.00.042",
+    "Descricao": "ENF. \"M\" PÉ ESTALAR P.T.(BCOF)+CTC0520",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP004784.20.004",
+    "Descricao": "CP. FIV. BASE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022696.00.145",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. PRATA BRILHO+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022646.00.007",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. NIQUEL ANT. ESC.+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022316.00.097",
+    "Descricao": "ENF. \"BB\" PÉ 3,6MM+RB0,5 FREE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022674.25.000",
+    "Descricao": "COMP. PASSANTE M BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E022674.25.004",
+    "Descricao": "COMP. PASSANTE M NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.002",
+    "Descricao": "COMP. PASSANTE M NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.009",
+    "Descricao": "COMP. PASSANTE M GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022165.00.042",
+    "Descricao": "CP. PLACA MILLER DLX AUTOPERF. PINT. TOTAL",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022165.00.042",
+    "Descricao": "ENF. PLACA MILLER DLX AUTOPERF. P.T.(BCOF)+CTC232",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022646.00.063",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. OURO V. MLR ESC.+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 198.02",
+    "Descricao": "PINO MEIA CANA 11,5 X 1,9 X 0,75 MM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E022646.00.109",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 PÉ AUTOPERF. OURO 14 ACET.+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "PINO 198.09",
+    "Descricao": "PINO MEIA CANA 11,5 X 1,9 X 0,75 MM GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "PINO 198.45",
+    "Descricao": "PINO MEIA CANA 11,5 X 1,9 X 0,75 MM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "E022674.25.045",
+    "Descricao": "COMP. PASSANTE M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004784.20.002",
+    "Descricao": "CP. FIV. BASE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.145",
+    "Descricao": "COMP. PASSANTE M PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.000",
+    "Descricao": "ENF. PLACA MILLER 20X35 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "CP004784.20.009",
+    "Descricao": "CP. FIV. BASE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022696.00.159",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. PRATA FOSCO+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.159",
+    "Descricao": "COMP. PASSANTE M PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "PINO 198.145",
+    "Descricao": "PINO MEIA CANA 11,5 X 1,9 X 0,75 MM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080050010"
+  },
+  {
+    "Referencia": "CP004784.20.145",
+    "Descricao": "CP. FIV. BASE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.135",
+    "Descricao": "COMP. PASSANTE M NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.128",
+    "Descricao": "COMP. PASSANTE M NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004784.20.159",
+    "Descricao": "CP. FIV. BASE PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.007",
+    "Descricao": "COMP. PASSANTE M NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004784.20.135",
+    "Descricao": "CP. FIV. BASE NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.063",
+    "Descricao": "COMP. PASSANTE M OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022647.00.004",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.002",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004784.20.045",
+    "Descricao": "CP. FIV. BASE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022674.25.109",
+    "Descricao": "COMP. PASSANTE M OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022696.00.135",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. NEW GOLD ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022737.00.145",
+    "Descricao": "CONJ. MONTAGEM DE PING. G C/PEDRA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022696.00.128",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. NEW GOLD+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.009",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022675.25.000",
+    "Descricao": "COMP. PASSANTE BONECA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E022675.25.004",
+    "Descricao": "COMP. PASSANTE BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.045",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022675.25.002",
+    "Descricao": "COMP. PASSANTE BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022675.25.009",
+    "Descricao": "COMP. PASSANTE BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.145",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.159",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.135",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.128",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022696.00.007",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. NIQUEL ANT. ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022647.00.007",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 NIQUEL  ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022675.25.045",
+    "Descricao": "COMP. PASSANTE BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022743.00.000",
+    "Descricao": "ENF. PLACA MLR 15X25 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022675.25.145",
+    "Descricao": "COMP. PASSANTE BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022696.00.063",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. OURO V. MLR ESC.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022647.00.109",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022675.25.159",
+    "Descricao": "COMP. PASSANTE BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022647.00.063",
+    "Descricao": "ENF. PLACA MILLER 20X35+RB0,5 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022675.25.135",
+    "Descricao": "COMP. PASSANTE BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18229.20.7.42",
+    "Descricao": "ENF. BOTÃO PRESSÃO C/GRAVAÇAO \"ISY\" P.T.(VERDE FAIRWAY)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "AR150.119",
+    "Descricao": "AR150 ARAME 1,15MM SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "3080020010"
+  },
+  {
+    "Referencia": "E18229.20.8.42",
+    "Descricao": "ENF. BOTÃO PRESSÃO C/GRAVAÇAO \"ISY\" P.T.(VERDE SERRANO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E5236.00.119",
+    "Descricao": "PUXADOR GRANDE SEM BANHO",
+    "Categoria": "",
+    "Classificacao": "4020020010"
+  },
+  {
+    "Referencia": "E022675.25.128",
+    "Descricao": "COMP. PASSANTE BONECA NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022675.25.007",
+    "Descricao": "COMP. PASSANTE BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022696.00.109",
+    "Descricao": "ENF. PLACA MLR 20X30 PÉ AUTOPERF. OURO 14 ACET.+CTC0359",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022724.00.000",
+    "Descricao": "COMP. PING. LOSANGO M BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050060010"
+  },
+  {
+    "Referencia": "E022652.02.000",
+    "Descricao": "ENF. PONTEIRA CEGA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050020030"
+  },
+  {
+    "Referencia": "E022675.25.063",
+    "Descricao": "COMP. PASSANTE BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022652.02.040",
+    "Descricao": "ENF. PONTEIRA CEGA (2FUROS) LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022675.25.109",
+    "Descricao": "COMP. PASSANTE BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020648.00.040",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022655.18.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E022655.18.040",
+    "Descricao": "ENF. BOTÃO SIST. COST. LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E14920.10.78.42",
+    "Descricao": "ENF. BOTÃO C/TEXTURA SIS.COST. PINT.TOTAL(MARROM FAIRYDUST)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E020648.00.026",
+    "Descricao": "CONJ. MONTAGEM ARTICULADA OURO V. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022743.00.004",
+    "Descricao": "ENF. PLACA MLR 15X25 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022700.00.000",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022700.00.004",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022040.20.135",
+    "Descricao": "ENF. BOTÃO FLEX. MILLER DLX. NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004778.25.007",
+    "Descricao": "CONJ. FIV. M+PASSADOR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004771.20.000",
+    "Descricao": "FIV. PASSANTE LOSANGO BONECA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010150"
+  },
+  {
+    "Referencia": "E022700.00.002",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004778.25.002",
+    "Descricao": "CONJ. FIV. M+PASSADOR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004771.20.004",
+    "Descricao": "FIV. PASSANTE LOSANGO BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004778.25.004",
+    "Descricao": "CONJ. FIV. M+PASSADOR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004778.25.009",
+    "Descricao": "CONJ. FIV. M+PASSADOR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004778.25.145",
+    "Descricao": "CONJ. FIV. M+PASSADOR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E18672.04.31.42",
+    "Descricao": "ENF. PONTEIRA CONE ANIMALE P.T.(MARROM FAIRYDUST)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "9683.03.78.42",
+    "Descricao": "PONTEIRA PINTURA TOTAL(MARROM FAIRYDUST)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E022700.00.009",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18672.04.01",
+    "Descricao": "ENF. PONTEIRA CONE ANIMALE NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022700.00.045",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022743.00.002",
+    "Descricao": "ENF. PLACA MLR 15X25 NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022713.00.000",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. BRUTA MT(13T-R 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022700.00.007",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022700.00.145",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022700.00.159",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022724.00.003",
+    "Descricao": "COMP. PING. LOSANGO M NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP15397.00.02",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.04",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.09",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.45",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.63",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP15397.00.145",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.159",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.135",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022713.00.004",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. NIQUEL ESC.+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022700.00.135",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022713.00.002",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. NIQUEL+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022700.00.128",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022743.00.009",
+    "Descricao": "ENF. PLACA MLR 15X25 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022700.00.063",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP15397.00.128",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.07",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022713.00.009",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. GRAFITE+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022700.00.109",
+    "Descricao": "ENF. PLACA MILLER JEANS 20X30+RB0,5 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022713.00.045",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. GOLD LIGHT+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022713.00.145",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. PRATA BRILHO+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP15397.00.109",
+    "Descricao": "CP. MANUSCRITO MILLER SIS. COST. OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022724.00.001",
+    "Descricao": "COMP. PING. LOSANGO M NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022724.00.008",
+    "Descricao": "COMP. PING. LOSANGO M GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022713.00.159",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. PRATA FOSCO+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022698.00.000",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120030"
+  },
+  {
+    "Referencia": "E022698.00.004",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022713.00.135",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. NEW GOLD ESC.+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.02",
+    "Descricao": "CP. BONECA MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022724.00.044",
+    "Descricao": "COMP. PING. LOSANGO M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP17933.00.09",
+    "Descricao": "CP. BONECA MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.45",
+    "Descricao": "CP. BONECA MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E11121.20.191.4",
+    "Descricao": "ENF. BOTAO ABAULADO Ø 20MM PINT.TOTAL(FRIZZ 18-3223 TCX)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP17933.00.04",
+    "Descricao": "CP. BONECA MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.145",
+    "Descricao": "CP. BONECA MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.159",
+    "Descricao": "CP. BONECA MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.135",
+    "Descricao": "CP. BONECA MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.128",
+    "Descricao": "CP. BONECA MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP17933.00.007",
+    "Descricao": "CP. BONECA MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP17933.00.63",
+    "Descricao": "CP. BONECA MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP17933.00.109",
+    "Descricao": "CP. BONECA MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022698.00.002",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022668.00.007",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP021908.11.007",
+    "Descricao": "CP. MOSQUETÃO FAKE MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022713.00.128",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. NEW GOLD+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022724.00.007",
+    "Descricao": "COMP. PING. LOSANGO M NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022698.00.009",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022668.00.002",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022668.00.004",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NIQUEL  ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022668.00.009",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022668.00.145",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022668.00.159",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022668.00.045",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022669.40.000",
+    "Descricao": "ENF. PASSADOR MILLER BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E022668.00.063",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022668.00.109",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022698.00.045",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022668.00.135",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022713.00.007",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. NIQUEL ANT. ESC.+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022668.00.128",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022698.00.007",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18795.00.07",
+    "Descricao": "COMP. MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18795.00.63",
+    "Descricao": "COMP. MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022667.00.007",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022667.00.002",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022667.00.004",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022667.00.009",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022669.40.004",
+    "Descricao": "ENF. PASSADOR MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022669.40.002",
+    "Descricao": "ENF. PASSADOR MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022669.40.009",
+    "Descricao": "ENF. PASSADOR MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022698.00.145",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022667.00.145",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022667.00.159",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022713.00.063",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. OURO V. MLR ESC.+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022667.00.045",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022724.00.063",
+    "Descricao": "COMP. PING. LOSANGO M OURO V. MR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022667.00.063",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022667.00.109",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022698.00.159",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022667.00.135",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022698.00.135",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022667.00.128",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MLR NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022666.00.002",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022669.40.045",
+    "Descricao": "ENF. PASSADOR MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E18229.20.10.42",
+    "Descricao": "ENF. BOTÃO PRESSÃO C/GRAVAÇAO \"ISY\" P.T.(VERMELHO TIBETANO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "E18229.20.9.42",
+    "Descricao": "ENF. BOTÃO PRESSÃO C/GRAVAÇAO \"ISY\" P.T.(AZUL OLYMPIC)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CORR.4256.01.01",
+    "Descricao": "CORRENTE 4256 1,2CM(3ELOS) NIQUEL",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E022698.00.128",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022698.00.063",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CORR.4256.01.08",
+    "Descricao": "CORRENTE 4256 1,2CM(3ELOS) GRAFITE",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E022713.00.109",
+    "Descricao": "ENF. PLACA MILLER JEANS 10X60 PÉ AUTOPERF. OURO 14 ACET.+CTC0514",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CORR.4256.01.44",
+    "Descricao": "CORRENTE 4256 1,2CM(3ELOS) GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E022724.00.109",
+    "Descricao": "COMP. PING. LOSANGO M OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CORR.4256.01.15",
+    "Descricao": "CORRENTE 4256 1,2CM(3ELOS)PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4256.1.158",
+    "Descricao": "CORRENTE 4256 1,2CM(3ELOS)PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "CORR.4256.1.127",
+    "Descricao": "CORRENTE 4256 1,2CM(3ELOS) NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "F004783.30.009",
+    "Descricao": "COMP. BASE FIV. GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022666.00.009",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022666.00.145",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022666.00.159",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004783.30.045",
+    "Descricao": "COMP. BASE FIV. GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004783.30.145",
+    "Descricao": "COMP. BASE FIV. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022666.00.045",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022666.00.128",
+    "Descricao": "CONJ. MONTAGEM CHAVEIRO MILLER NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022698.00.109",
+    "Descricao": "ENF. PLACA P/BOLSO MILLER DELUXE+RB0,5 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022724.00.134",
+    "Descricao": "COMP. PING. LOSANGO M NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022715.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "F004783.30.159",
+    "Descricao": "COMP. BASE FIV. PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004790.25.000",
+    "Descricao": "FIV. PASSANTE BONECAS BRUTA MT(30T-G 160 X 200-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050010200"
+  },
+  {
+    "Referencia": "F004790.25.004",
+    "Descricao": "FIV. PASSANTE BONECAS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004783.30.135",
+    "Descricao": "COMP. BASE FIV. NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004783.30.128",
+    "Descricao": "COMP. BASE FIV. NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022743.00.045",
+    "Descricao": "ENF. PLACA MLR 15X25 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004783.30.007",
+    "Descricao": "COMP. BASE FIV. NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004783.30.063",
+    "Descricao": "COMP. BASE FIV. OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004783.30.109",
+    "Descricao": "COMP. BASE FIV. OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022691.15.000",
+    "Descricao": "COMP. PASSANTE MILLER BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050030030"
+  },
+  {
+    "Referencia": "E18228.20.14.42",
+    "Descricao": "ENF. BOTAO SIST. COST. \"ISY\" P.T (BEGE PRAIA)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "CP004784.20.128",
+    "Descricao": "CP. FIV. BASE NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022691.15.007",
+    "Descricao": "COMP. PASSANTE MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004790.25.002",
+    "Descricao": "FIV. PASSANTE BONECAS NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022691.15.109",
+    "Descricao": "COMP. PASSANTE MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004790.25.009",
+    "Descricao": "FIV. PASSANTE BONECAS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022743.00.007",
+    "Descricao": "ENF. PLACA MLR 15X25 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022691.15.063",
+    "Descricao": "COMP. PASSANTE MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004790.25.045",
+    "Descricao": "FIV. PASSANTE BONECAS GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022691.15.004",
+    "Descricao": "COMP. PASSANTE MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022750.16.000",
+    "Descricao": "COMP. BASE FORUM BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050200010"
+  },
+  {
+    "Referencia": "F004790.25.145",
+    "Descricao": "FIV. PASSANTE BONECAS PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022691.15.002",
+    "Descricao": "COMP. PASSANTE MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004784.20.007",
+    "Descricao": "CP. FIV. BASE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022691.15.009",
+    "Descricao": "COMP. PASSANTE MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022691.15.045",
+    "Descricao": "COMP. PASSANTE MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022724.00.127",
+    "Descricao": "COMP. PING. LOSANGO M NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022691.15.145",
+    "Descricao": "COMP. PASSANTE MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004784.20.109",
+    "Descricao": "CP. FIV. BASE OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004784.20.063",
+    "Descricao": "CP. FIV. BASE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022691.15.159",
+    "Descricao": "COMP. PASSANTE MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022684.00.000",
+    "Descricao": "COMP. BONECA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010570"
+  },
+  {
+    "Referencia": "E022743.00.145",
+    "Descricao": "ENF. PLACA MLR 15X25 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022684.00.003",
+    "Descricao": "COMP. BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.001",
+    "Descricao": "COMP. BONECA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.008",
+    "Descricao": "COMP. BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.044",
+    "Descricao": "COMP. BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.145",
+    "Descricao": "COMP. BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022684.00.158",
+    "Descricao": "COMP. BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.134",
+    "Descricao": "COMP. BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.127",
+    "Descricao": "COMP. BONECA NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.007",
+    "Descricao": "COMP. BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.063",
+    "Descricao": "COMP. BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022684.00.109",
+    "Descricao": "COMP. BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022691.15.135",
+    "Descricao": "COMP. PASSANTE MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004784.20.007",
+    "Descricao": "FIV. BIMETAL BONECAS NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004790.25.159",
+    "Descricao": "FIV. PASSANTE BONECAS PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022691.15.128",
+    "Descricao": "COMP. PASSANTE MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004790.25.135",
+    "Descricao": "FIV. PASSANTE BONECAS NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004784.20.002",
+    "Descricao": "FIV. BIMETAL BONECAS NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004784.20.004",
+    "Descricao": "FIV. BIMETAL BONECAS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022743.00.159",
+    "Descricao": "ENF. PLACA MLR 15X25 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004790.25.128",
+    "Descricao": "FIV. PASSANTE BONECAS NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022750.16.104",
+    "Descricao": "COMP. BASE FORUM COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004784.20.009",
+    "Descricao": "FIV. BIMETAL BONECAS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004790.25.007",
+    "Descricao": "FIV. PASSANTE BONECAS NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004784.20.145",
+    "Descricao": "FIV. BIMETAL BONECAS PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004784.20.159",
+    "Descricao": "FIV. BIMETAL BONECAS PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004784.20.045",
+    "Descricao": "FIV. BIMETAL BONECAS GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004784.20.063",
+    "Descricao": "FIV. BIMETAL BONECAS OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004784.20.109",
+    "Descricao": "FIV. BIMETAL BONECAS OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022770.00.045",
+    "Descricao": "COMP. GANCHO GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004790.25.063",
+    "Descricao": "FIV. PASSANTE BONECAS OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022743.00.135",
+    "Descricao": "ENF. PLACA MLR 15X25 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004790.25.109",
+    "Descricao": "FIV. PASSANTE BONECAS OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022743.00.128",
+    "Descricao": "ENF. PLACA MLR 15X25 NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022690.00.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "E022743.00.063",
+    "Descricao": "ENF. PLACA MLR 15X25 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022751.00.000",
+    "Descricao": "COMP. P/REMANCHE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004784.20.135",
+    "Descricao": "FIV. BIMETAL BONECAS NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004784.20.128",
+    "Descricao": "FIV. BIMETAL BONECAS NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022751.00.104",
+    "Descricao": "COMP. P/REMANCHE COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022743.00.109",
+    "Descricao": "ENF. PLACA MLR 15X25 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004795.36.000",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010300"
+  },
+  {
+    "Referencia": "E022724.00.158",
+    "Descricao": "COMP. PING. LOSANGO M PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004795.36.004",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022724.00.151",
+    "Descricao": "COMP. PING. LOSANGO M PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022752.16.000",
+    "Descricao": "COMP. ARGOLA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050040110"
+  },
+  {
+    "Referencia": "E022752.16.104",
+    "Descricao": "COMP. ARGOLA COBRE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022729.30.007",
+    "Descricao": "COMP. PASSADOR C/PING. M NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022729.30.002",
+    "Descricao": "COMP. PASSADOR C/PING. M NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022729.30.004",
+    "Descricao": "COMP. PASSADOR C/PING. M NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022729.30.009",
+    "Descricao": "COMP. PASSADOR C/PING. M GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "CP004788.15.000",
+    "Descricao": "CP. FIV. BASE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010560"
+  },
+  {
+    "Referencia": "CP004788.15.004",
+    "Descricao": "CP. FIV. BASE NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.002",
+    "Descricao": "CP. FIV. BASE NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.009",
+    "Descricao": "CP. FIV. BASE GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.045",
+    "Descricao": "CP. FIV. BASE GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.145",
+    "Descricao": "CP. FIV. BASE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.159",
+    "Descricao": "CP. FIV. BASE PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.135",
+    "Descricao": "CP. FIV. BASE NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.128",
+    "Descricao": "CP. FIV. BASE NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004788.15.007",
+    "Descricao": "CP. FIV. BASE NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004788.15.063",
+    "Descricao": "CP. FIV. BASE OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "CP004788.15.109",
+    "Descricao": "CP. FIV. BASE OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022689.00.000",
+    "Descricao": "COMP. BONECAS BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010570"
+  },
+  {
+    "Referencia": "F004786.20.000",
+    "Descricao": "COMP. FIV. S/LIM MILLER BRUTA MT(13T-R 80 X 140-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050010150"
+  },
+  {
+    "Referencia": "F004786.20.007",
+    "Descricao": "COMP. FIV. S/LIM MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022689.00.003",
+    "Descricao": "COMP. BONECAS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004786.20.109",
+    "Descricao": "COMP. FIV. S/LIM MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022689.00.001",
+    "Descricao": "COMP. BONECAS NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004786.20.063",
+    "Descricao": "CP. FIV. S/LIM MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022689.00.007",
+    "Descricao": "COMP. BONECAS NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004795.36.002",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022689.00.008",
+    "Descricao": "COMP. BONECAS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004786.20.004",
+    "Descricao": "CP. FIV. S/LIM MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022689.00.044",
+    "Descricao": "COMP. BONECAS GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004786.20.002",
+    "Descricao": "CP. FIV. S/LIM MILLER NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022689.00.063",
+    "Descricao": "COMP. BONECAS OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004786.20.009",
+    "Descricao": "CP. FIV. S/LIM MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022689.00.109",
+    "Descricao": "COMP. BONECAS OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022689.00.145",
+    "Descricao": "COMP. BONECAS PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP004786.20.145",
+    "Descricao": "CP. FIV. S/LIM MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022689.00.158",
+    "Descricao": "COMP. BONECAS PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022689.00.134",
+    "Descricao": "COMP. BONECAS NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP004786.20.159",
+    "Descricao": "CP. FIV. S/LIM MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CP004786.20.135",
+    "Descricao": "CP. FIV. S/LIM MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022689.00.127",
+    "Descricao": "COMP. BONECAS NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004788.15.007",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP004786.20.128",
+    "Descricao": "CP. FIV. S/LIM MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.002",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004795.36.009",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.004",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CP004786.20.045",
+    "Descricao": "CP. FIV. S/LIM MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022749.16.002",
+    "Descricao": "ENF. PORTA ALÇA FORUM NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004786.20.002",
+    "Descricao": "COMP. FIV. S/LIM MILLER NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.009",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004795.36.045",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004786.20.063",
+    "Descricao": "COMP. FIV. S/LIM MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004786.20.004",
+    "Descricao": "COMP. FIV. S/LIM MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004786.20.009",
+    "Descricao": "COMP. FIV. S/LIM MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004786.20.045",
+    "Descricao": "COMP. FIV. S/LIM MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.145",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004788.15.159",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004786.20.145",
+    "Descricao": "COMP. FIV. S/LIM MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "CORR.3945.5.45",
+    "Descricao": "CORRENTE 3945 C/ 5CM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "F004786.20.159",
+    "Descricao": "COMP. FIV. S/LIM MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.045",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004795.36.145",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.063",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022770.00.145",
+    "Descricao": "COMP. GANCHO PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004786.20.135",
+    "Descricao": "COMP. FIV. S/LIM MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.109",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004786.20.128",
+    "Descricao": "COMP. FIV. S/LIM MILLER NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.135",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004795.36.159",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004795.36.135",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004788.15.128",
+    "Descricao": "COMP. FIV. BIMETAL BONECAS NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004787.15.007",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004787.15.002",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022687.00.000",
+    "Descricao": "COMP. BONECA BRUTA MT(13T-R 65 X 90-4CAV)",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004787.15.009",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022687.00.003",
+    "Descricao": "COMP BONECA NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004795.36.128",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004787.15.004",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004787.15.145",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "CORR.3945.4.45",
+    "Descricao": "CORRENTE 3945 C/ 4CM GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "F004787.15.159",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022722.00.145",
+    "Descricao": "CONJ. MONTAGEM MOSQUETÃO FAKE MILLER PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004787.15.045",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022729.30.045",
+    "Descricao": "COMP. PASSADOR C/PING. M GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022729.30.145",
+    "Descricao": "COMP. PASSADOR C/PING. M PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022729.30.159",
+    "Descricao": "COMP. PASSADOR C/PING. M PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004795.36.007",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "F004787.15.063",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004787.15.109",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022687.00.001",
+    "Descricao": "COMP BONECA NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004787.15.135",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "F004787.15.128",
+    "Descricao": "CONJ. FIV. BIMETAL+PASSANTE MILLER NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4040010020"
+  },
+  {
+    "Referencia": "E022687.00.008",
+    "Descricao": "COMP BONECA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E5011.09.05",
+    "Descricao": "COMP. BOTAO RB0,5 X 3,5 NIQUEL FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022687.00.044",
+    "Descricao": "COMP BONECA GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004795.36.063",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022687.00.151",
+    "Descricao": "COMP BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022687.00.158",
+    "Descricao": "COMP BONECA PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022687.00.134",
+    "Descricao": "COMP BONECA NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022687.00.127",
+    "Descricao": "COMP BONECA NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022687.00.007",
+    "Descricao": "COMP BONECA NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022729.30.063",
+    "Descricao": "COMP. PASSADOR C/PING. M OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022687.00.063",
+    "Descricao": "COMP BONECA OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E16880.09.05",
+    "Descricao": "CONJ. BOTAO RB0,5 X 3,5 + ARRUELA NIQUEL FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022687.00.109",
+    "Descricao": "COMP BONECA OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP022686.00.000",
+    "Descricao": ".",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "CP022686.20.004",
+    "Descricao": "CP. PASSADOR NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.002",
+    "Descricao": "CP. PASSADOR NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.009",
+    "Descricao": "CP. PASSADOR GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.045",
+    "Descricao": "CP. PASSADOR GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.145",
+    "Descricao": "CP. PASSADOR PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.159",
+    "Descricao": "CP. PASSADOR PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.135",
+    "Descricao": "CP. PASSADOR NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.128",
+    "Descricao": "CP. PASSADOR NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CP022686.20.007",
+    "Descricao": "CP. PASSADOR NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP022686.20.063",
+    "Descricao": "CP. PASSADOR OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CP022686.20.109",
+    "Descricao": "CP. PASSADOR OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E18778.04.03",
+    "Descricao": "ENF. PONTEIRA 8.5 X 9.9 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022686.20.007",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "CORR.3945.5.145",
+    "Descricao": "CORRENTE 3945 C/ 5CM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E022770.00.159",
+    "Descricao": "COMP. GANCHO PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004795.36.109",
+    "Descricao": "FIV. PASSANTE MILLER PREMIUM JEANS OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022770.00.135",
+    "Descricao": "COMP. GANCHO NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.002",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.004",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "3823.04.05",
+    "Descricao": "ARRUELA LATÃO 9MM C/FURO Ø4MM NIQUEL FOSCO",
+    "Categoria": "",
+    "Classificacao": "3080040020"
+  },
+  {
+    "Referencia": "E022686.20.009",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022712.45.000",
+    "Descricao": "ENF. PASSANTE OVAL AMASSADO BRUTA MT(50T-R 160 X 200 2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050030090"
+  },
+  {
+    "Referencia": "E022712.45.009",
+    "Descricao": "ENF. PASSANTE OVAL AMASSADO GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.145",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.159",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.045",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "CORR.3945.4.145",
+    "Descricao": "CORRENTE 3945 C/ 4CM PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "3080120010"
+  },
+  {
+    "Referencia": "E022730.15.000",
+    "Descricao": "COMP. ALÇA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050210010"
+  },
+  {
+    "Referencia": "E022686.20.063",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022703.00.000",
+    "Descricao": "ENF. PLACA SIST. COST. PEPA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120010"
+  },
+  {
+    "Referencia": "E022686.20.109",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022770.00.128",
+    "Descricao": "COMP. GANCHO NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F1084.10.27",
+    "Descricao": "FIVELA OURO CHAMP.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022704.00.000",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15 BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "E022704.00.004",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022704.00.002",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 NIQUEL ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.135",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022686.20.128",
+    "Descricao": "COMP. PASSADOR C/BONECA BIMETAL NEW GOLD",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E13713.00.145",
+    "Descricao": "COMP. PINGENTE BONECA PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022704.00.009",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022704.00.045",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022703.00.058",
+    "Descricao": "ENF. PLACA SIST. COST. PEPA OURO 9",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022704.00.145",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004531.25.001",
+    "Descricao": "FIV. S/LIM COLCCI VAZADA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022704.00.159",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022704.00.135",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022704.00.128",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004794.15.000",
+    "Descricao": "COMP. FIV. MILLER JEANS BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050010100"
+  },
+  {
+    "Referencia": "CP16998.30.145",
+    "Descricao": "CP. PUXADOR MILLER DELUXE PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004793.15.004",
+    "Descricao": "FIV. MILLER JEANS NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004793.15.002",
+    "Descricao": "FIV. MILLER JEANS NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022676.22.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090020"
+  },
+  {
+    "Referencia": "E022676.22.145",
+    "Descricao": "ENF. BOTÃO SIST. COST. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022704.00.007",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004793.15.009",
+    "Descricao": "FIV. MILLER JEANS GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004793.15.045",
+    "Descricao": "FIV. MILLER JEANS GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E022704.00.063",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022704.00.109",
+    "Descricao": "ENF. PLACA MILLER JNS 20X15+RB0,5 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E020094.15.001",
+    "Descricao": "ENF. BOTÃO SIST. COST. LOSANGO \"F\" NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022676.22.021",
+    "Descricao": "ENF. BOTÃO SIST. COST. OURO 20",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022677.15.000",
+    "Descricao": "ENF. BOTÃO SIST. COST. BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050090010"
+  },
+  {
+    "Referencia": "E022677.15.021",
+    "Descricao": "ENF. BOTÃO SIST. COST. OURO 20",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004789.15.000",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 BRUTA MT(30T-G 80 X 140-2CAV)",
+    "Categoria": "",
+    "Classificacao": "3050010100"
+  },
+  {
+    "Referencia": "E022677.15.145",
+    "Descricao": "ENF. BOTÃO SIST. COST. PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022693.05.000",
+    "Descricao": "COMP. TUBO PASSANTE TRITON BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E022693.05.008",
+    "Descricao": "COMP. TUBO PASSANTE TRITON GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004789.15.004",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022678.05.008",
+    "Descricao": "CONJ. TUBO PASSANTE TRITON+FECHO C/GARRA GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022788.20.004",
+    "Descricao": "COMP. PING. BONECA G+GANCHO NIQUEL ESC.",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004789.15.002",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022694.05.000",
+    "Descricao": "COMP. FEMEA BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004789.15.009",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 GRAFITE",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022694.05.001",
+    "Descricao": "COMP. FEMEA NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004789.15.045",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 GOLD LIGHT",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022694.05.042",
+    "Descricao": "COMP. FEMEA P.T.(PTO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004789.15.145",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022695.05.000",
+    "Descricao": "COMP. MACHO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E022695.05.001",
+    "Descricao": "COMP. MACHO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022695.05.042",
+    "Descricao": "COMP. MACHO P.T.(PTO)",
+    "Categoria": "",
+    "Classificacao": "4020020020"
+  },
+  {
+    "Referencia": "F004789.15.159",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022679.05.001",
+    "Descricao": "CONJ. STOPPER ALVO NIQUEL",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "E022682.00.000",
+    "Descricao": "COMP. VERSO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004789.15.135",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 NEW GOLD ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E020990.52.161",
+    "Descricao": "ENF. TRIANGULO OURO 18 ESC.",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022679.05.042",
+    "Descricao": "CONJ. STOPPER ALVO P.T.(PTO)",
+    "Categoria": "",
+    "Classificacao": "4040020010"
+  },
+  {
+    "Referencia": "F004789.15.128",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 NEW GOLD ",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022683.00.000",
+    "Descricao": "COMP. FRENTE BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "F004789.15.007",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 NIQUEL ANT. ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022692.00.000",
+    "Descricao": "ENF. PLACA MILLER 20X35 PÉ AUTOPERF. BRUTA MT (30T-R 80 X 140-4CAV.)",
+    "Categoria": "",
+    "Classificacao": "3050120020"
+  },
+  {
+    "Referencia": "F004793.15.145",
+    "Descricao": "FIV. MILLER JEANS PRATA BRILHO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "F004789.15.063",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 OURO V. MLR ESC.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022692.00.004",
+    "Descricao": "ENF. PLACA MILLER 20X35 PÉ AUTOPERF. NIQUEL ESC.+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022692.00.002",
+    "Descricao": "ENF. PLACA MILLER 20X35 PÉ AUTOPERF. NIQUEL+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E022692.00.009",
+    "Descricao": "ENF. PLACA MILLER 20X35 PÉ AUTOPERF. GRAFITE+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "F004789.15.109",
+    "Descricao": "FIV. PASSANTE MILLER DLX 2010 OURO 14 ACET.",
+    "Categoria": "",
+    "Classificacao": "4020010040"
+  },
+  {
+    "Referencia": "E022692.00.045",
+    "Descricao": "ENF. PLACA MILLER 20X35 PÉ AUTOPERF. GOLD LIGHT+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021961.35.040",
+    "Descricao": "ENF. CORAÇÃO JUNE BANDEAU LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "F004793.15.159",
+    "Descricao": "FIV. MILLER JEANS PRATA FOSCO",
+    "Categoria": "",
+    "Classificacao": "4020010030"
+  },
+  {
+    "Referencia": "E021962.06.040",
+    "Descricao": "CONJ. MONTAGEM CORAÇÕES JUNE LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  },
+  {
+    "Referencia": "E022744.22.000",
+    "Descricao": "ENF. TUBO BRUTA",
+    "Categoria": "",
+    "Classificacao": "3050110010"
+  },
+  {
+    "Referencia": "E022692.00.145",
+    "Descricao": "ENF. PLACA MILLER 20X35 PÉ AUTOPERF. PRATA BRILHO+CTC003",
+    "Categoria": "",
+    "Classificacao": "4020020030"
+  },
+  {
+    "Referencia": "E021340.45.040",
+    "Descricao": "ENF. CORAÇÃO PASSANTE LATÃO POLIDO",
+    "Categoria": "",
+    "Classificacao": "4020020040"
+  }
+]
