@@ -8,7 +8,7 @@ saida_dir = pasta_base / "produtos"
 saida_dir.mkdir(exist_ok=True)
 index_path = pasta_base / "produtos_index.json"
 
-json_novos_path = pasta_base / "produtos_novos.json"
+json_novos_path = Path(r"C:\Users\Administrator\Desktop\script_imagens\atualizar_produtos\produtos_novos.json")
 
 # Tamanho dos blocos
 TAMANHO_BLOCO = 50000
