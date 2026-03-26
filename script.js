@@ -170,6 +170,22 @@ function gerarVariantes(ref) {
     }
   }
 
+// 🔧 CASO INVERSO: E4258.00.00 → e.4258.00
+  if (/^E\d+\.\d{2}\.\d{2}$/i.test(ref)) {
+    const match = ref.match(/^E(\d+)\.(\d{2})\.(\d{2})$/i);
+
+    if (match) {
+      const bloco1 = parseInt(match[1], 10); // remove zeros à esquerda
+      const bloco2 = match[2];
+
+      // formato da imagem: e.4258.00
+      const variante = `e.${bloco1}.${bloco2}`;
+
+      variantes.add(limparTexto(variante));
+      variantes.add(variante); // opcional (caso não normalize tudo)
+    }
+  }
+
   // 🔧 NOVO CASO: tratar E0xxxxx.xx → gerar variantes sem o zero depois do E
   const m = ref.match(/^E0(\d{5})\.(\d{2})/i);
   if (m) {
@@ -215,7 +231,7 @@ fetch("imagens.json")
   .then(imagensData => {
     listaImagens = imagensData.map(img => ({
       ...img,
-      nome_limpo: processarNomeImagem(img.nome)
+      nome_limpo: img.nome_limpo || processarNomeImagem(img.nome)
     }));
 
     // 🆕 monta mapa nome_limpo → url para busca O(1)
