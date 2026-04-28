@@ -815,7 +815,7 @@ function gerarRelatorioSemImagem() {
     })));
 }
 
-function desmarcarTodosPDF() {
+window.desmarcarTodosPDF = function () {
   const checkboxes = document.querySelectorAll(".download-flag input");
 
   checkboxes.forEach(cb => {
@@ -833,7 +833,7 @@ function desmarcarTodosPDF() {
   });
 
   salvarEstadoDownload();
-}
+};
 
 function toggleDownload(referencia) {
   if (itensExcluidosDoDownload.has(referencia)) {
