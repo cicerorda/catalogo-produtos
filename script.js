@@ -186,15 +186,17 @@ function gerarVariantes(ref) {
     }
   }
 
-  // 🔧 NOVO CASO: tratar E0xxxxx.xx → gerar variantes sem o zero depois do E
-  const m = ref.match(/^E0(\d{5})\.(\d{2})/i);
-  if (m) {
-    const bloco1 = m[1]; // ex: 23241
-    const bloco2 = m[2]; // ex: 27
+  const m = ref.match(/^([a-z])0*(\d+)\.(\d{2})/i);
 
-    variantes.add(`e${bloco1}${bloco2}`);
-    variantes.add(limparTexto(`e.${bloco1}.${bloco2}`));
-    variantes.add(`e.${bloco1}.${bloco2}`);
+  if (m) {
+    const letra = m[1].toLowerCase(); // e, f, t...
+    const bloco1 = parseInt(m[2], 10); // remove zeros → 004719 → 4719
+    const bloco2 = m[3]; // 35
+
+    // formatos mais comuns de imagem
+    variantes.add(`${letra}${bloco1}${bloco2}`); // f471935
+    variantes.add(`${letra}.${bloco1}.${bloco2}`); // f.4719.35
+    variantes.add(limparTexto(`${letra}.${bloco1}.${bloco2}`)); // f471935
   }
 
   return Array.from(variantes);
@@ -813,6 +815,26 @@ function gerarRelatorioSemImagem() {
     })));
 }
 
+function desmarcarTodosPDF() {
+  const checkboxes = document.querySelectorAll(".download-flag input");
+
+  checkboxes.forEach(cb => {
+    cb.checked = false;
+  });
+
+  itensExcluidosDoDownload.clear();
+
+  const todosProdutos = produtos;
+
+  todosProdutos.forEach(p => {
+    if (p.Referencia) {
+      itensExcluidosDoDownload.add(p.Referencia);
+    }
+  });
+
+  salvarEstadoDownload();
+}
+
 function toggleDownload(referencia) {
   if (itensExcluidosDoDownload.has(referencia)) {
     itensExcluidosDoDownload.delete(referencia);
@@ -820,6 +842,13 @@ function toggleDownload(referencia) {
     itensExcluidosDoDownload.add(referencia);
   }
 
+  localStorage.setItem(
+    "itensExcluidosDoDownload",
+    JSON.stringify([...itensExcluidosDoDownload])
+  );
+}
+
+function salvarEstadoDownload() {
   localStorage.setItem(
     "itensExcluidosDoDownload",
     JSON.stringify([...itensExcluidosDoDownload])

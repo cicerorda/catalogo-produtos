@@ -259,11 +259,11 @@ footer {
 
 #download-pdf {
   background: #d4af37;
-  color: black;
+  color: rgb(0, 0, 0);
   border: none;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
   padding: 10px;
   width: 100%;
+  font-weight: bold;
   cursor: pointer;
   border-radius: 5px;
   margin-top: 10px;
