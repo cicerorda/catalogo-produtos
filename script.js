@@ -186,7 +186,7 @@ function gerarVariantes(ref) {
     }
   }
 
-  const m = ref.match(/^([a-z])0*(\d+)\.(\d{2})/i);
+  const m = ref.match(/^([a-z])0*(\d+)\.(\d{2,3})/i);
 
   if (m) {
     const letra = m[1].toLowerCase(); // e, f, t...
