@@ -23,7 +23,7 @@ if not (PUB and PRV and URL):
     print("❌ Defina IMAGEKIT_PUBLIC_KEY, IMAGEKIT_PRIVATE_KEY e IMAGEKIT_URL_ENDPOINT no ambiente.")
     sys.exit(1)
 
-ik = ImageKit(public_key=PUB, private_key=PRV, url_endpoint=URL)
+ik = ImageKit(private_key=PRV)
 
 def list_all_files_in_folder(folder_path: str):
     """
